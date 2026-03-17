@@ -1,0 +1,106 @@
+Query used,,,,,,,,,,,
+company_id,company_name,interview_id,interview_started_date,candidate_name,candidate_email,interview_owner_email,user_msg_cnt,feedback_user_email,feedback_user_role,product_rating,feedback
+397956,Uber,7189002,2025-11-06,,a@mailinator.com,abhishek.bs@uber.com,2,a@mailinator.com,candidate,5,
+397390,Palo Alto Networks,7906343,2026-02-19,Piyush Yadhav,PiyushTheGoku@gmail.com,rr4@paloaltonetworks.com,3,PiyushTheGoku@gmail.com,candidate,5,
+263506,Goldman Sachs Sandbox,7939234,2026-02-24,,test@test.com,simon.compston@gs-sandbox.com,1,test@test.com,candidate,1,hoo
+281885,Wayfair,7381413,2025-11-13,Sidhdharth Pandya,sidhdharth19pandya@gmail.com,imartyniv@wayfair.com,4,sidhdharth19pandya@gmail.com,candidate,2,
+397956,Uber,7756592,2026-01-28,,akhisai4322@gmail.com,jleitch@uber.com,7,akhisai4322@gmail.com,candidate,5,
+397956,Uber,7610997,2026-01-13,,gabrielzhouquan@gmail.com,jleitch@uber.com,10,roopansh@uber.com,interviewer,5,
+397956,Uber,7189002,2025-11-06,,a@mailinator.com,abhishek.bs@uber.com,2,kshailesh@uber.com,interviewer,5,
+462673,Drivenets LTD,7958498,2026-02-26,,daniel.badea@usoftware.co,vzhuhovitsky@drivenets.com,2,daniel.badea@usoftware.co,candidate,5,
+26633,Indeed,7917870,2026-02-26,,anujtaley0205@gmail.com,anampalli@indeed.com,12,anujtaley0205@gmail.com,candidate,3,
+397390,Palo Alto Networks,7761485,2026-01-28,candidate,gaowhoisrex@gmail.com,nsandhu@paloaltonetworks.com,49334,gaowhoisrex@gmail.com,candidate,3,"I had issues with the platform keep scrolling up and down randomly, and there's no easy way to disable the AI autocomplete feature"
+26633,Indeed,7957140,2026-02-27,,anujtaley0205@gmail.com,anampalli@indeed.com,6,anujtaley0205@gmail.com,candidate,1,
+123720,Blue Origin,7737997,2026-01-23,,morse.alex.j@gmail.com,amcbrayer@blueorigin.com,6,morse.alex.j@gmail.com,candidate,4,
+462701,Zycus Inc,7927532,2026-02-27,candidate,rajdeepsinghsethi215@gmail.com,shweta.shah@zycus.com,2,rajdeepsinghsethi215@gmail.com,candidate,5,Excellent Platform
+462701,Zycus Inc,7891086,2026-02-19,candidate,omkarpatil2040@gmail.com,shweta.shah@zycus.com,3,omkarpatil2040@gmail.com,candidate,4,
+462701,Zycus Inc,7647956,2026-01-09,Madhav Kumar,kumarmadhav1920@gmail.com,shweta.shah@zycus.com,1,deepak.ms@zycus.com,interviewer,4,
+426908,,7901649,2026-02-18,,gt.matthew.duane@gmail.com,tobias.albig@verifone.com,9,gt.matthew.duane@gmail.com,candidate,5,
+462701,Zycus Inc,7909411,2026-02-21,candidate,kapseaman1432@gmail.com,shweta.shah@zycus.com,6,kapseaman1432@gmail.com,candidate,5,great
+397956,Uber,7030424,2025-09-23,,hkriplani@uber.com,kdudley@uber.com,14,hkriplani@uber.com,candidate,1,tests files not allowed to change. No Python.
+38013,BNY,7900269,2026-02-18,,test@test.com,diego.barros@bny.com,3,test@test.com,candidate,4,
+146325,Oracle Corporation,7953250,2026-02-25,Rik,,rik.gibson@oracle.com,1,rikgibson@mac.com,candidate,3,
+26633,Indeed,7526810,2025-12-09,,nishants@indeed.com,rlodha@indeed.com,6,nishants@indeed.com,candidate,4,
+462701,Zycus Inc,7918943,2026-02-21,candidate,bhanu.carrer@gmail.com,shweta.shah@zycus.com,3,bhanu.carrer@gmail.com,candidate,5,
+462701,Zycus Inc,7923738,2026-02-26,candidate,sriganeshsharma@outlook.in,shweta.shah@zycus.com,2,sriganeshsharma@outlook.in,candidate,4,excellent overall experience
+424048,Paxos,7710011,2026-01-21,Kristin Lee,krlee53@gmail.com,aruiz@paxos.com,2,krlee53@gmail.com,candidate,3,
+435124,,7687877,2026-01-15,candidate,prasanna.bableshwar@gmail.com,pbableshwar+sandbox@atlassian.com,4,pbableshwar+sandbox@atlassian.com,interviewer,5,Excptional tool experience.
+397956,Uber,7671209,2026-01-28,,shrey.ghildiyal314@gmail.com,jleitch@uber.com,6,shrey.ghildiyal314@gmail.com,candidate,1,The Ai Assistant sucks donckey balls
+38013,BNY,7340738,,,aswini2702@gmail.com,dhwani.gadhia@bnymellon.com,4,sudhindra.deshpande@bnymellon.com,interviewer,4,
+434628,Agoda,7366206,2025-12-08,,guntur.virgenius@gmail.com,aleksey.galanov+alias@agoda.com,9,guntur.virgenius@gmail.com,candidate,5,
+146325,Oracle Corporation,7827923,2026-02-06,,gsakathmithra12@gmail.com,radhika.mukkera@oracle.com,2,gsakathmithra12@gmail.com,candidate,4,
+146325,Oracle Corporation,7816727,2026-02-09,,nirupavardhanreddy.l@gmail.com,ota-robot1_ro@oracle.com,1,nirupavardhanreddy.l@gmail.com,candidate,5,
+397956,Uber,7823070,2026-02-24,,sourjatilak@gmail.com,jleitch@uber.com,1,sourjatilak@gmail.com,candidate,2,The keyboard focus was going away every minute
+123720,Blue Origin,7832710,2026-02-06,,plmalone@protonmail.com,rbhat@blueorigin.com,1,plmalone@protonmail.com,candidate,4,
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,22,isabel.ye@outlook.com,candidate,5,
+38013,BNY,7945944,2026-02-26,,priyankamarne13@gmail.com,dhwani.gadhia@bnymellon.com,6,kaushik.jaiswal@bnymellon.com,interviewer,5,
+272667,Groupe Onepoint,7877176,2026-02-17,Philippe Brandao,phbrandao@yahoo.fr,h.akakpo@groupeonepoint.com,4,phbrandao@yahoo.fr,candidate,5,
+424048,Paxos,7675468,2026-01-16,Khushpreet Singh,singh.khushpreet18@gmail.com,aruiz@paxos.com,4,singh.khushpreet18@gmail.com,candidate,5,
+426908,,7968274,2026-02-27,,samanth.marisetty@gmail.com,raghavendra.shettyk@verifone.com,1,samanth.marisetty@gmail.com,candidate,3,lost connection couple of times.
+38013,BNY,7893914,2026-02-17,candidate,soumit.saha@hotmail.com,keshav.gupta2@bny.com,4,soumit.saha@hotmail.com,candidate,5,
+146325,Oracle Corporation,7953250,2026-02-25,Rik Gibson,rikgibson@mac.com,rik.gibson@oracle.com,1,rikgibson@mac.com,candidate,3,
+462701,Zycus Inc,7907369,2026-02-19,candidate,abhishekkgupta193@gmail.com,shweta.shah@zycus.com,5,abhishekkgupta193@gmail.com,candidate,1,
+38013,BNY,7067858,2025-09-22,Charles Han,hanchar@gmail.com,ben.grant@bny.com,3,ben.grant@bny.com,interviewer,2,
+281885,Wayfair,7672618,2026-01-21,Priyanka Shinde,priyankashindeit@gmail.com,emato1@wayfair.com,2,priyankashindeit@gmail.com,candidate,5,
+462673,Drivenets LTD,7882449,2026-02-18,Amit Shmuelevitz,amit1shmu@gmail.com,sfrieman@drivenets.com,22,ehaelyon@drivenets.com,interviewer,4,
+397390,Palo Alto Networks,7967423,2026-02-27,,nglass@paloaltonetworks.com,nglass@paloaltonetworks.com,20,nglass@paloaltonetworks.com,interviewer,1,"The candidate struggled to accept diffs. Sometimes when accepting diffs, the file would end up in a corrupted state, e.g. with lines 1-x repeated at the end of the file.
+
+If a human reads this, and you know whether the candidate was doing anything wrong to cause this, please email me! I want to keep using this platform, even if it means coaching candidates through some ux bugs"
+102108,Thoughtworks,6967976,2025-09-04,,balramkukreja@yahoo.com,adrian.manolache1@thoughtworks.com,2,balramkukreja@yahoo.com,candidate,5,
+424048,Paxos,7761778,2026-02-05,Christopher Baek,christopherbaek@gmail.com,aruiz@paxos.com,3,jayden.thompson@paxos.com,interviewer,1,laggy really bad
+95641,DraftKings Inc,7512158,2025-12-11,,sai.tavva54@gmail.com,s.rosenthal@draftkings.com,15,sai.tavva54@gmail.com,candidate,5,
+146325,Oracle Corporation,7435751,2025-11-28,,akasham975@gmail.com,indu.khunnikar@oracle.com,1,akasham975@gmail.com,candidate,5,
+397956,Uber,7815801,2026-02-20,,jinfang.xu.22@gmail.com,jleitch@uber.com,7,jinfang.xu.22@gmail.com,candidate,5,
+37714,Walmart Global Tech Talent Acquisition,7967524,2026-02-27,,saju_ahmad@ymail.com,saju.ahmad0@walmart.com,9,saju_ahmad@ymail.com,candidate,5,
+38013,BNY,7951086,2026-02-25,,eugene.grebennik@gmail.com,sirisha.pratha@bny.com,2,eugene.grebennik@gmail.com,candidate,5,
+434628,Agoda,7549048,2025-12-12,,mhtbnwl@gmail.com,aleksey.galanov+alias@agoda.com,2,mhtbnwl@gmail.com,candidate,1,AI was bad
+397956,Uber,7711377,2026-02-02,,ricardo.kojo.dev@gmail.com,jleitch@uber.com,24672,ricardo.kojo.dev@gmail.com,candidate,2,"I had issues with the platform connection, that ended up hindering the interview process. The interactions were slow, creating files, writing, the hot reload."
+434628,Agoda,7357686,2025-11-10,,rakadityas97@gmail.com,cong.liu+alias@agoda.com,4,cong.liu+alias@agoda.com,interviewer,4,
+462701,Zycus Inc,7907190,2026-02-20,candidate,vipinchaurasiya1052@gmail.com,shweta.shah@zycus.com,6,vipinchaurasiya1052@gmail.com,candidate,5,
+146325,Oracle Corporation,7557153,2025-12-15,,rashmi.agrawal3@gmail.com,sumit.parashar@oracle.com,2,rashmi.agrawal3@gmail.com,candidate,5,
+38841,Adobe Inc.,7665899,2026-01-12,candidate,dlevenson@adobetest.com,ahayton@adobe.com,1,akramer@adobe.com,interviewer,2,"The candidate pressed CMD+W to close a code tab in the IDE and instead it closed the Hackerrank interview tab, leaving the interview. You should either intercept CMD+W and map it to the IDE *OR* at least use the confirm-page-leave system dialogue so they have a chance to cancel."
+435124,,7687877,2026-01-15,candidate,prasanna.bableshwar@gmail.com,pbableshwar+sandbox@atlassian.com,4,prasanna.bableshwar@gmail.com,candidate,5,
+38841,Adobe Inc.,7425779,2025-11-19,,neoxygong@gmail.com,charagon@adobe.com,1,neoxygong@gmail.com,candidate,4,
+397956,Uber,7662596,2026-01-28,,ashendrabansal@gmail.com,jleitch@uber.com,20,ashendrabansal@gmail.com,candidate,2,Very slow tool
+26633,Indeed,7682270,2026-01-14,,maxwellr@indeed.com,mfrench@indeed.com,28,mfrench@indeed.com,interviewer,1,"- Ai Agent freezes
+- No Opus in Ai agent models
+- The scroll back button feature of the webpage on mac was causing issues with trackpad
+- AI agent hid its explanation and thought processes, sometimes briefly showing them with a flash and then hiding them
+- Poor performance with the AI agent, sometimes working fast, sometime then just making 1 line per second changes that needed to wait to be accepted"
+424048,Paxos,7761778,2026-02-05,Christopher Baek,christopherbaek@gmail.com,aruiz@paxos.com,3,christopherbaek@gmail.com,candidate,3,
+26633,Indeed,7493598,2025-12-03,,asd@asd.com,adhiwal@indeed.com,3,asd@asd.com,candidate,5,
+38013,BNY,7903275,2026-02-18,Enmo Ren,vickiren7@gmail.com,raghu.gudepu@bnymellon.com,1,vickiren7@gmail.com,candidate,1,
+123720,Blue Origin,7694243,2026-01-16,,sandzco@gmail.com,kmoon@blueorigin.com,4,sandzco@gmail.com,candidate,1,The AI assistant sucks. Terrible experience! I wasted 30 minutes and probably costed my interview! Worst ever!
+397956,Uber,7712554,2026-02-02,,a.marcello92@gmail.com,jleitch@uber.com,24667,a.marcello92@gmail.com,candidate,5,
+146325,Oracle Corporation,7774030,2026-01-29,,greg.gt33@yahoo.com,jesse.jeun@oracle.com,24667,greg.gt33@yahoo.com,candidate,2,Internet connection was horrible
+397956,Uber,7482419,2025-12-02,,baran+candidate@uber.com,kdudley@uber.com,29,baran+candidate@uber.com,candidate,4,
+424048,Paxos,7480718,2025-12-05,Vinit Shah,vinit.shah266@gmail.com,jperry@paxos.com,9,vinit.shah266@gmail.com,candidate,2,
+462701,Zycus Inc,7946604,2026-02-26,Aharta Dudhe,ahartadudhe99@gmail.com,shweta.shah@zycus.com,10,ahartadudhe99@gmail.com,candidate,5,
+424048,Paxos,7379929,2025-11-14,Ankur Avlani,ankuravlani@gmail.com,jperry@paxos.com,1,ankuravlani@gmail.com,candidate,4,
+26633,Indeed,7928334,2026-02-27,,yaralahruthikreddy@gmail.com,sapnan@contractor.indeed.com,18,yaralahruthikreddy@gmail.com,candidate,5,
+38841,Adobe Inc.,7920163,2026-02-20,,stephanienewell13@gmail.com,rlucerolueva@adobe.com,4,stephanienewell13@gmail.com,candidate,5,
+397956,Uber,7453594,2025-12-09,,pavanteja@outlook.com,jleitch@uber.com,1,pavanteja@outlook.com,candidate,5,
+146325,Oracle Corporation,7808426,2026-02-04,,akhansudo@gmail.com,kevin.huynh@oracle.com,2,akhansudo@gmail.com,candidate,5,
+37714,Walmart Global Tech Talent Acquisition,7932215,2026-02-25,Roozbeh Zabihollahi,ruzbeh@gmail.com,achal.rastogi@walmart.com,2,nipun.garg@samsclub.com,interviewer,4,
+456234,Qualtrics Sandbox,7560423,2026-01-07,,pauguscik@qualtrics.com,pauguscik+sandbox@qualtrics.com,2,pauguscik@qualtrics.com,candidate,2,"Project had too many issues, It was hard to focus on single issue. Maybe it would be better to have single project that is good, and then multiple branches with bugs, each branch has one bug. Each of braches could be separate interview."
+38013,BNY,7860667,2026-02-13,Haripal Reddy Minukuri,haripalminukuri@gmail.com,ben.grant@bny.com,1,ben.grant@bny.com,interviewer,2,the keyboard for both candidate and interview failed to work where the enter button would not work.
+424048,Paxos,7712292,2026-01-22,Zixi (Jerry) Liu,jerryzxliu@gmail.com,aruiz@paxos.com,7,shaun.wackerly@paxos.com,interviewer,3,
+146325,Oracle Corporation,7169896,2025-10-10,,prasad22cm@zohomail.in,chimalakonda.chaitanya@oracle.com,9,mahadeva.prasad.cm@oracle.com,interviewer,5,
+26633,Indeed,7801947,2026-02-03,,akgoryan@indeed.com,gopinathamb@indeed.com,5,akgoryan@indeed.com,candidate,5,
+38841,Adobe Inc.,7925023,2026-02-23,,mels.vagharshyandev@gmail.com,sassound@adobe.com,2,mels.vagharshyandev@gmail.com,candidate,5,good
+38841,Adobe Inc.,7798382,2026-02-02,candidate,lfeujio@adobe.com,lfeujio@adobe.com,24667,lfeujio@adobe.com,candidate,4,
+123720,Blue Origin,7665223,2026-01-12,,leandroalfonso14@gmail.com,awilson2@blueorigin.com,3,leandroalfonso14@gmail.com,candidate,5,
+38841,Adobe Inc.,7805099,2026-02-03,,f@f.com,fengw@adobe.com,6,fengw@adobe.com,interviewer,4,The vscode experience is nice and easy for candidates
+424048,Paxos,7682655,2026-01-20,Martin Irman,martin.irman@outlook.com,aruiz@paxos.com,3,martin.irman@outlook.com,candidate,4,"worked well, but I didn't see how to bring back the camera view after I've minimized it"
+424048,Paxos,7629610,2026-01-06,Yusuf Ahmed,yusufahmed172@gmail.com,jperry@paxos.com,2,yusufahmed172@gmail.com,candidate,3,
+281885,Wayfair,7339544,2025-11-07,Vamshi Chennoju,vamshichennoju225@gmail.com,emox@wayfair.com,6,vamshichennoju225@gmail.com,candidate,5,
+38013,BNY,7764479,2026-01-29,,shpatil126@gmail.com,dhwani.gadhia@bnymellon.com,24667,shpatil126@gmail.com,candidate,4,
+38841,Adobe Inc.,7827532,2026-02-06,,codewithvarun123@gmail.com,mshetty@adobe.com,1,codewithvarun123@gmail.com,candidate,4,
+146325,Oracle Corporation,7433268,2025-11-21,,jugalpanchal@gmail.com,khoi.bui@oracle.com,15,jugalpanchal@gmail.com,candidate,5,
+26633,Indeed,7763650,2026-01-28,,ybhandari@indeed.com,tsingla@indeed.com,24693,ybhandari@indeed.com,candidate,5,
+281885,Wayfair,7386182,2025-11-18,Utsav Bansal,ubansal22@gmail.com,emox@wayfair.com,14,ubansal22@gmail.com,candidate,4,
+397956,Uber,7306468,2025-11-03,,ekansh.baweja@gmail.com,jleitch@uber.com,2,ekansh.baweja@gmail.com,candidate,5,
+272667,Groupe Onepoint,7931045,2026-02-23,candidate,afdiouf@gmail.com,h.akakpo@groupeonepoint.com,2,afdiouf@gmail.com,candidate,4,
+37714,Walmart Global Tech Talent Acquisition,7940058,2026-02-26,,yehuaz.work@gmail.com,angelo.tan@walmart.com,9,jonathan.moore@walmart.com,interviewer,4,"the UI is pretty good.  I would like to know what AI model is being used.  Also when candidate was navigating the UI of a problem, in the browser within the browser, the hamburger popup menu was not visible to me as an observer."
+146325,Oracle Corporation,7875601,2026-02-18,Mohamed Shariff,aamirs291@gmail.com,marcus.fallen@oracle.com,4,aamirs291@gmail.com,candidate,5,
+462701,Zycus Inc,7647957,2026-01-09,Manav Sah,manavminsk@gmail.com,shweta.shah@zycus.com,3,manavminsk@gmail.com,candidate,4,

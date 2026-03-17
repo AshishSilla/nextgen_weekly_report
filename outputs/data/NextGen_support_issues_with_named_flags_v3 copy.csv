@@ -1,0 +1,527 @@
+ID,Team,Title,Description,Status,Estimate,Priority,Project ID,Project,Creator,Assignee,Labels,Cycle Number,Cycle Name,Cycle Start,Cycle End,Created,Updated,Started,Triaged,Completed,Canceled,Archived,Due Date,Parent issue,Initiatives,Project Milestone ID,Project Milestone,SLA Status,UUID,Time in status (minutes),Related to,Blocked by,Duplicate of,Created_ts,Created_date,Code Repo Environment Stability,AI Reliability / Availability / Setup / Response Quality,AI Autocomplete / Cannot Disable,AI Transcripts / Usage Reporting / Observe Mode,UX / UI,Content & Authoring Quality,Internal Ops / Pilot Ops
+SUPP-1945,HackerRank Customer Support,Amazon: Preview and debugger issues,"Amazon reported that two of their validation testers ([vakshrey@amazon.com](<mailto:vakshrey@amazon.com>) & noadembe@amazon.com) encountered issues during their review of the questions below: 
+
+2321207 - Issue: Custom Lists (Django)
+
+2321214 - Issue: Search Functionality (Django)
+
+They noted that they had to refresh several times to make the preview work. Also, at some point their debugger crashed and never started working again. They were using this link to view the questions: [https://hr.gs/nextgen-coderepo-django-batch4](<https://hr.gs/nextgen-coderepo-django-batch4>)",In Progress,,High,,,akshaja@hackerrank.com,sandeep.reddy@hackerrank.com,Next-gen,,,,,2026-02-26T06:26:05.074Z,2026-02-26T07:45:24.261Z,2026-02-26T06:26:05.182Z,,,,,,,,,,,c0805695-1f67-46c4-a346-9044db76df92,8593,,,,2026-02-26 06:26:05.074000+00:00,2026-02-26,True,False,False,False,False,False,False
+SUPP-1900,HackerRank Customer Support,[Uber] Observe mode shows empty AI tab and shifted editor view,"An interviewer reported that in Observe mode, the AI tab appeared empty even while the candidate was actively using it. They also saw the observer view in the editor jump by dozens of lines at times, making it hard to see what the candidate was changing.
+
+Interview link: [hr.gs/a397608](<https://hr.gs/a397608>)",In Progress,,High,,,ankur@hackerrank.com,bhushan@hackerrank.com,Next-gen,,,,,2026-02-19T17:57:56.669Z,2026-03-04T03:34:53.549Z,2026-03-04T03:34:53.535Z,,,,,,,,,,,09905f54-7cfa-41a7-b88f-a21d1a49c85f,125,,,,2026-02-19 17:57:56.669000+00:00,2026-02-19,False,False,False,True,False,False,False
+SUPP-1889,HackerRank Customer Support,"DraftKings: AI assistant lag, observation mode, and slow diffs","Consolidated feedback from DraftKings based on the last two interview sessions for Skadoosh ID [surve@draftkings.com](<mailto:surve@draftkings.com>) (request: use this to find the sessions and review what happened).
+
+Observation Mode: intermittently lags; AI interactions were expected to be visible in real time, but were not visible during either session (had to wait until after prompts were sent; candidates shared screens to show AI interactions). Question: is real-time visibility generally available or does it require enablement?
+
+Candidate experience ([https://hr.gs/7b21c5b](<https://hr.gs/7b21c5b>)):
+
+* AI began generating code before the candidate accepted suggestions, with no clear way to stop it.
+* Diff generation often took a long time and modified large blocks of code.
+* Terminal/machine felt slow and occasionally unresponsive (unclear if network-related).
+
+General AI feedback: response quality improved and is more focused with targeted prompts, but suggestion/diff generation seems slower overall; agent continues spinning while candidate waits; diffs tend to replace/move large blocks instead of small targeted snippets, disrupting interview flow.",In Progress,,No priority,,,akshaja@hackerrank.com,bhushan@hackerrank.com,Next-gen,,,,,2026-02-18T06:29:25.434Z,2026-02-23T06:39:33.605Z,2026-02-23T06:39:33.594Z,,,,,,,,,,,5ec858f7-153e-4c5b-b218-0524092a3402,12900,SUPP-1892,,,2026-02-18 06:29:25.434000+00:00,2026-02-18,True,False,True,True,False,False,False
+SUPP-1972,HackerRank Customer Support,AI assistant not showing for candidates,"**Customer:** Oliver Sherouse ([oliver.sherouse@happyreturns.com](<mailto:oliver.sherouse@happyreturns.com>))
+
+**Company:** UPS / Happy Returns
+
+**CID**: 71110 
+
+**Test Id:** 2292091 
+
+---
+
+**Issue:**
+
+The AI Assistant (guarded mode) is enabled for both sections of the test, but candidates see it during the sample test and not during the actual test.
+
+**What we've checked:**
+
+* AI Add-on is enabled at the company level (confirmed via skadoosh)
+* Both sections contain only coding questions, which are supported question types
+* The section-level AI Assistant is configured correctly
+* FullStory checked - AI Assistant does not appear in the session logs
+
+<!-- Pylon-Issue-ID:25d0f88e-4b01-4101-8a5d-fb731a70b641 --!>",Acknowledged,,High,,,aseem@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-03-03T23:32:51.645Z,2026-03-04T03:33:07.215Z,,,,,,,,,,,,5eb596d3-3957-4be9-b43d-ab8b9618d745,126,,,,2026-03-03 23:32:51.645000+00:00,2026-03-03,False,True,False,False,False,False,False
+SUPP-1944,HackerRank Customer Support,Amazon: QID 2321411- SpringBoot search project build fails,"Amazon reported that QID 2321411 (Search Functionality – SpringBoot) does not build due to a syntax error in `pom.xml`: the `xsi:schemaLocation` attribute value has an unexpected newline, causing Maven build failure. Reported as major since candidates may lose time fixing the build before starting the question.",Open,,High,,,akshaja@hackerrank.com,sahil.phulwani@hackerrank.com,Next-gen,,,,,2026-02-26T06:23:53.939Z,2026-02-27T17:02:27.940Z,,,,,,,,,,,,1b634191-a501-46d4-b2ad-b0e5088b87f8,8596,,,,2026-02-26 06:23:53.939000+00:00,2026-02-26,True,False,False,False,False,True,False
+SUPP-1959,HackerRank Customer Support,Amazon: Error to push code to server,"QID 2354369 (Django): Error reported by one of their testers([lakramya@amazon.com](<mailto:lakramya@amazon.com>) ). They weren’t able to get around this:
+
+![image_from_clipboard.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/6deb3a2f-4e44-4592-8bc9-4de8e850b7ee/373c1caa-9cb6-4c56-b758-c64d48b14237)",Open,,High,,,akshaja@hackerrank.com,kousik.sanagavarapu@hackerrank.com,Next-gen,,,,,2026-02-27T08:11:00.846Z,2026-02-27T08:16:47.209Z,,,,,,,,,,,,262fd4b9-f097-4d62-afcb-a236d1654199,7048,,,,2026-02-27 08:11:00.846000+00:00,2026-02-27,True,False,False,False,False,False,False
+SUPP-1884,HackerRank Customer Support,Amazon :: Candidate issues with Code-Repo tasks,"Hi team,
+
+Russ received a couple of feedback from candidates directly who recently attempted the code-repo tasks and faced platform issues. These technical issues are concerning. Could you please look into this issue and share an update at the earliest.
+
+The issue is also being tracked here: [https://hackerrank.slack.com/archives/C0985QJ44Q3/p1771302257187289](<https://hackerrank.slack.com/archives/C0985QJ44Q3/p1771302257187289>)
+
+Candidate # 1:
+
+Report URL: [https://www.hackerrank.com/x/tests/2208168/candidates/83217463/report?authkey=af5b1fb55f0b91fe310c82cc695371fe](<https://www.hackerrank.com/x/tests/2208168/candidates/83217463/report?authkey=af5b1fb55f0b91fe310c82cc695371fe>)
+
+Email: [amazon_hook+f2659b31-6b06-445a-9c05-862fe9e8bf53@hook.com](<mailto:amazon_hook+f2659b31-6b06-445a-9c05-862fe9e8bf53@hook.com>)
+
+Attempt ID: 83217463
+
+FullStory: [https://app.fullstory.com/ui/Q02VK/segments/everyone/people:search:YK6HxynnmkP9/user/4390243791639511617?completeSessions=false](<https://app.fullstory.com/ui/Q02VK/segments/everyone/people:search:YK6HxynnmkP9/user/4390243791639511617?completeSessions=false>)
+
+Feedback: I was attempting to complete the online assessment this morning, but I ran into some technical difficulties.
+
+During the first question on the assessment, the interface was extremely laggy, and I often had to wait a while before I was able to make changes. This resulted in significant stress and considerable time lost during the assessment.
+
+During the second Al portion, the execution environment was stuck for over 10 minutes, and I could not run any code or stop the current execution.
+
+When the tests did run, most of them failed due to import errors. Finally, the platform became completely frozen for the last 10 minutes of the test, and I was unable to make any changes.
+
+After I contacted HackerRank support they suggested a few fixes, which I tried. After trying their suggestions, the issues persisted, and I was told that I should contact my recruiter to get re-invited to the assessment. Could I please receive another invitation to the assessment, since half of my assessment time was spent trying to resolve these technical issues and ultimately the assessment froze me out at the end.
+
+=======
+
+Candidate # 2:
+
+Report URL: [https://www.hackerrank.com/x/tests/2208168/candidates/83273957/report?authkey=af5b1fb55f0b91fe310c82cc695371fe](<https://www.hackerrank.com/x/tests/2208168/candidates/83273957/report?authkey=af5b1fb55f0b91fe310c82cc695371fe>)
+
+Email: [amazon_hook+bd7678bf-d7d6-4d13-b087-4e1bd5420c57@hook.com](<mailto:amazon_hook+bd7678bf-d7d6-4d13-b087-4e1bd5420c57@hook.com>)
+
+Attempt ID: 83273957
+
+FullStory: [https://app.fullstory.com/ui/Q02VK/session/5064218999127867803:8014191616598008779:1770741510871(6628313616677429593:1400)](<https://app.fullstory.com/ui/Q02VK/session/5064218999127867803:8014191616598008779:1770741510871(6628313616677429593:1400)>)
+
+Feedback: I am experiencing technical difficulties with the assessment, particularly Part 2 in the IDE. As provided, the directions given in the question description do not work for me and I am unable to log in with the provided credentials. Additionally, attempting to install all the dependencies with the given scripts produces an error. I don't believe these problems are intentionally part of the assessment and I was unable to make any progress due to these technical issues. Please review my situation and if this is the case, allow me a redo.
+
+Test URL:  
+[https://www.hackerrank.com/work/tests/2208168/questions](<https://www.hackerrank.com/work/tests/2208168/questions>)  
+Admin/Sk: [stemera@amazon.com](<mailto:stemera@amazon.com>)",Open,,High,,,Samarth Balasubramanya,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-02-17T11:35:59.310Z,2026-02-23T18:10:09.595Z,,,,,,,,,,,,31acc948-3462-4335-8806-dbb059816659,21243,,,,2026-02-17 11:35:59.310000+00:00,2026-02-17,True,False,False,False,False,False,False
+SUPP-1896,HackerRank Customer Support,Qualtrics: Coding Assistant does not have editor context,"Hi Team,
+
+Qualtrics is about to start their live interviews with unguarded coding assistant. Can we check why the AI assistant does not have the editor context? When they tried it previously, it was there. 
+
+There is also inconsistent behavior as it says first it cannot see any code and then says there is no code. 
+
+![Screenshot 2026-02-19 at 7.31.57 AM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/293ad9c4-fc14-4962-9868-1d495a3ce690/b1b489b7-ac83-4f09-90ac-f78a3fcab357)",Open,,Medium,,,akshaja@hackerrank.com,dev.sebastian@hackerrank.com,Next-gen,,,,,2026-02-19T07:33:53.328Z,2026-02-19T07:34:36.175Z,,,,,,,,,,,,e29aed93-4697-4303-ad50-b28289034fa8,18606,,,,2026-02-19 07:33:53.328000+00:00,2026-02-19,False,True,False,False,False,False,False
+SUPP-1964,HackerRank Customer Support,Review Amazon feedback and tag next steps,"Amazon feedback from last week has been added to a spreadsheet with comments tagging owners. Review the tagged items and update/align on next steps.
+
+Spreadsheet: [Amazon feedback tracker](<https://docs.google.com/spreadsheets/d/1yMkIMNmUarOcezsFXQJa8eBl0YwsDUw_6dQtyoBNF3k/edit?pli=1&gid=0#gid=0>)",Open,,No priority,,,akshaja@hackerrank.com,,Next-gen,,,,,2026-03-02T06:56:43.352Z,2026-03-03T08:44:53.877Z,,,,,,,,,,,,4c743c39-2f3e-409f-a9a9-b9dcc0fd7406,2803,,,,2026-03-02 06:56:43.352000+00:00,2026-03-02,False,False,False,False,False,False,True
+SUPP-1958,HackerRank Customer Support,AI chat requests failing due to Portkey usage limit,"Report from an interview: candidate saw multiple AI prompting errors near the end of the exercise.
+
+Error shown: “Sorry, your request failed. Please try again… Reason: Request Failed: 412 … Portkey Virtual Key … Usage Limit Exceeded”.
+
+![File](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/d22a0c1d-6565-4530-8125-cc62f9102098/796b62c9-66f1-47cd-b9b8-30f40083ac8e)",Open,,No priority,,,bhushan@hackerrank.com,,Next-gen,,,,,2026-02-27T03:22:05.095Z,2026-02-27T03:22:05.095Z,,,,,,,,,,,,b7a6d512-2765-4a49-9c67-83c34de9e520,7337,,,,2026-02-27 03:22:05.095000+00:00,2026-02-27,False,True,False,False,False,False,False
+SUPP-1895,HackerRank Customer Support,Verify build time optimizations for pilot code repo customers,"For pilot customers using code repos, ensure each customer is benefiting from the build time optimizations. Ankur or Akshaja can help provide the list of pilot customers.",Open,,No priority,,,ankur@hackerrank.com,,Next-gen,,,,,2026-02-19T02:31:57.273Z,2026-02-19T06:10:18.346Z,,,,,,,,,,,,e5bca05e-d1bb-4f05-a655-bffd4d0d79ad,18908,,,,2026-02-19 02:31:57.273000+00:00,2026-02-19,False,False,False,False,False,False,True
+SUPP-1892,HackerRank Customer Support,AI inline autocomplete still appears when disabled,"Unable to fully disable AI in-line autocomplete during live interviews. Even after disabling via admin settings and selecting “Apply to all profiles,” multi-line code suggestions appear inline after \~5–10 seconds while the cursor is idle (no typing and no AI panel interaction). This distracts candidates/interviewers and can resemble partial or full solution logic.
+
+Questions raised:
+
+* Is there a definitive setting to completely disable AI in-line autocomplete during live interviews?
+* Can autocomplete be limited to syntax-level suggestions (keywords/basic constructs) vs multi-line logical solutions?
+* Was this recently rolled out or changed?
+* Is there an org-wide enforcement override across all interview templates?
+
+![image (10).png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/a430f33d-44e9-42f4-b22b-e95da453d67c/00961fd2-3c6c-4154-a97e-24e04d11e296)
+
+![Screenshot 2026-02-18 at 10.30.00 AM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/4538a702-864b-4ea8-a52a-382552ccab2f/bab6c391-a779-4c16-81ad-23acf5d4a860)",Mitigated,,Urgent,,,vivek@hackerrank.com,bhushan@hackerrank.com,Next-gen,,,,,2026-02-18T19:12:13.576Z,2026-02-23T17:23:45.378Z,2026-02-20T12:29:08.249Z,,2026-02-23T06:39:57.332Z,,,,,,,,,f0eae6d1-de3e-4693-a7d1-3252d466982f,12900,SUPP-1889,,,2026-02-18 19:12:13.576000+00:00,2026-02-18,False,False,True,False,False,False,False
+SUPP-1757,HackerRank Customer Support,HackerRank :: Multiple AI Assistant tabs being shown in interview,"Hi Folks, seems that multiple AI assistant tabs are showing in an interview. Please see the below screenshot. This issue is occurring in the HackerRank Demo account. Visiable to both interviewer and Candidate:
+
+![Screenshot 2026-01-20 at 12.29.33 PM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/d738cf95-2204-4c27-b1e7-3828b23401ee/1a4e18e2-d6a7-4827-bfcd-0b70aeddf1e4)
+
+![Screenshot 2026-01-20 at 12.29.56 PM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/ded66f56-ee6f-4b4b-9041-43456b82c765/c645f5ea-78fa-4caf-95bd-0fea89ded38c)
+
+Example interviews where this happened:
+
+[https://hr.gs/f8012f7](<https://hr.gs/f8012f7>)
+
+[https://hr.gs/355fd45](<https://hr.gs/355fd45>)",Mitigated,,Urgent,,,trev@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Bug",,,,,2026-01-20T17:32:50.671Z,2026-01-23T03:03:30.405Z,2026-01-20T19:19:05.819Z,,2026-01-23T03:03:30.395Z,,,,,,,,,3f3b3d1b-dc28-4fa3-af1b-cdcf90c84c3c,57756,,,,2026-01-20 17:32:50.671000+00:00,2026-01-20,False,False,True,False,False,False,False
+SUPP-1558,HackerRank Customer Support,Draftkings: AI assistant went into a loop,"Hi Team, Can we check what happened to this interview session?
+
+> Hi Akshaja,
+>
+> Hope you are doing well!
+>
+> I recently ran into an issue during an interview. The AI assistant went into a loop, repeatedly suggesting changes, and the candidate was unable to stop it. The interview ID is 7404595.
+>
+> ![image (68).png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/1c1e88fe-9244-43bf-b621-c8e35d149a06/d2a2db1b-01aa-421f-bdce-34874a6722c0)
+>
+> I tried to create a new question for them to start a new container, but I was not able to import the same Banking Backend Application question again. I had to end the interview early because we were unable to make progress.
+>
+> Can your team troubleshoot what caused this error and suggest how to recover from it during an interview?",Mitigated,,Urgent,,,akshaja@hackerrank.com,bhushan@hackerrank.com,Next-gen,,,,,2025-11-27T07:50:22.640Z,2025-12-01T10:24:19.981Z,2025-11-27T11:33:52.212Z,,2025-11-27T11:41:57.399Z,,,,,,,,,c93acb09-32f1-40d6-9b03-54f728837d57,139318,,,,2025-11-27 07:50:22.640000+00:00,2025-11-27,False,True,False,False,False,False,False
+SUPP-1849,HackerRank Customer Support,Paxos :: Code block auto-complete suggestions,"'<!-- Pylon-Issue-ID: b929ba20-6911-42dd-a1b7-492d080fb404 --!>
+
+Hi, Team -
+
+This customer reached out stating that their engineering team flagged an issue they're seeing with HackerRank Interviews with AI assistant enabled. When a candidate is idle in the platform (they could be thinking, talking to the interviewers, etc), the AI suggests an entire block of code for the candidate to use. The code works, but it prevents the interviewers from knowing if a candidate can actually solve the problem or not.
+
+One of the customer's engineers reproduced the issue and recorded it. I've attached the video(Drive [Link](<https://drive.google.com/file/d/1E-gj0KXSUtKNqRTXmSf-T6rEo3lfAUXi/view?usp=sharing>)). Can you check to see if this is intentional? And if not, the customer wants to know if there a way to avoid this?
+
+Interview 1: [https://hr.gs/cce45dd](<https://hr.gs/cce45dd>)
+
+Slug: kkjpsvrcamvfezdmnmrghshoeoxoxdwc
+
+FS: [Link](<https://app.fullstory.com/ui/Q02VK/session/143555839764072789:6256895570789963648>)
+
+Time stamp: 41: 14 -- I have noticed Similar behaviour
+
+Some more interview the customer provided stating that auto-completion of code occurred.
+
+Interview 2: [https://hr.gs/5f06385](<https://hr.gs/5f06385>)
+
+Interview 3: [https://hr.gs/c401861](<https://hr.gs/c401861>)",Mitigated,,High,,,kirthi@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-02-08T15:16:54.495Z,2026-02-09T06:38:13.832Z,2026-02-09T03:59:56.001Z,,2026-02-09T06:38:13.808Z,,,,,,,,,407e984e-4374-466d-8b95-946704345fb2,33061,,,,2026-02-08 15:16:54.495000+00:00,2026-02-08,False,False,True,False,False,False,False
+SUPP-1846,HackerRank Customer Support,Atlassian :: Missing AI Transcript,"'<!-- Pylon-Issue-ID: ffb69898-78e6-4e1a-82f6-d8e35e157aec --!>
+
+Hi, Team -
+
+Atlassian reached out stating they are unable to see the AI Transcript for candidates who have made use of it.
+
+When we reviewed the candidate reports, we were able to confirm the behaviour for one candidate:
+
+Details of the candidate:
+
+* Email:[adithya12006@gmail.com](<mailto:adithya12006@gmail.com>)
+* Report: [https://www.hackerrank.com/work/tests/2291726/candidates?c=all&page=1&openReport=82979099](<https://www.hackerrank.com/work/tests/2291726/candidates?c=all&page=1&openReport=82979099>)
+* AID: 82979099
+
+For this candidate, I can see they have used AI assistant as shown in AI fluency but the AI transcript isn't available for the 1st question. Its available for the 2nd question. As per the FS, they have also used the AI assistant in the first question - [https://app.fullstory.com/ui/Q02VK/session/5349350867933921682:5349350867933921682!7469105328672555994](<https://app.fullstory.com/ui/Q02VK/session/5349350867933921682:5349350867933921682!7469105328672555994>)
+
+![Screenshot 2026-02-05 at 5.03.03 PM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/70651c28-fbba-46b6-88b6-e848b7ae29f4/c737e859-7d18-4de9-9d4b-b2385a528513)
+
+skadoosh: [admin@atlassiansandbox.com](<mailto:admin@atlassiansandbox.com>)",Mitigated,,High,,,kirthi@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-02-05T11:44:25.203Z,2026-02-06T17:11:13.459Z,,,2026-02-06T17:11:13.437Z,,,,,,,,,ec8bf0cc-87f8-4887-aeef-64671ab2298f,37429,,,,2026-02-05 11:44:25.203000+00:00,2026-02-05,False,False,False,True,False,False,False
+SUPP-1807,HackerRank Customer Support,MercadoLibre :: Attempt stuck In-Progress,"A candidate, filipe.dalepiane@gmail.com, has completed the [test](<https://www.hackerrank.com/work/tests/2159451/questions>). But their attempt is still stuck in the “In Progress” state. The candidate also shared a screenshot showing that they attempted to log in again, indicating that they had already completed the test.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/b0bd05c5-1442-410c-ab78-36b57da57ef0/6289f3e1-cf80-4fb0-80be-ea40b2c76e53)
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/d2a961fa-3103-468f-9fc9-03d25471611c/9cfb69ae-cab2-46e8-a1e5-3f478718dd4b)
+
+Could you please:
+
+* Process this candidate’s attempt manually
+* Investigate why the attempt is stuck in the “In Progress” state
+* Check if other candidates are facing the same issue, as there appear to be 24 attempts currently marked as “In Progress”
+
+Additionally, the test duration is set to 7200 minutes, which makes it unclear which candidates have actually completed the test versus those still legitimately in progress. Please help verify and advise on this as well.
+
+<!-- Pylon-Issue-ID:98df24a3-bbf7-4ba8-aba6-218b104cbad9 --!>",Mitigated,,High,,,suryanidhi@hackerrank.com,shanu@hackerrank.com,"Next-gen, Support Issue, Screen Analysed",,,,,2026-01-30T13:01:41.935Z,2026-02-05T09:06:08.543Z,2026-01-30T14:48:15.725Z,,2026-02-05T09:06:08.469Z,,,,,,,,,ba8ce982-75b3-4af0-88cb-af9337acfaf0,38673,NEX-192,,,2026-01-30 13:01:41.935000+00:00,2026-01-30,True,False,False,False,False,False,False
+SUPP-1569,HackerRank Customer Support,Agoda :: AI Assistant disabled during interview session,"'<!-- Pylon-Issue-ID:4b2183d1-a9cb-4a34-9bdd-b34d6f7b6660 --!>
+
+Hey team, 
+
+Agoda reached out stating the candidate has seen a message  which said  ""Interviewer has disabled AI Assistant for this interview."" during an AI assisted interview. After 1.5 hours into the interview and after generating some Golang code files with a few prompts, the AI Assistant suddenly showed ""Interviewer has disabled AI Assistant for this interview."" (see attached screenshot), but on interviewer's side it keeps showing as Turned On
+
+I have reviewed the complete FS but did not find any instance on anyone manually disabling the AI Assistant. Additionally, as the AI Assistant tab is masked, it is difficult to confirm what may have happened.
+
+Interview: [https://hr.gs/d0561d2](<https://hr.gs/d0561d2)>)
+
+Slug: qokujgsdtqytjrikhjuhzmgmwspkibxh
+
+FS: [https://app.fullstory.com/ui/Q02VK/session/1269601793459987468:7348039941144305871](<https://app.fullstory.com/ui/Q02VK/session/1269601793459987468:7348039941144305871>)
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/4d544de5-dcdc-4e9b-be8b-f40b3e140206/513edff4-e9db-4b35-ba43-857411cc28c4)
+
+Could you review the session and let us know what could have caused the assistant to be turned off?",Mitigated,,High,,,kirthi@hackerrank.com,sandeep.reddy@hackerrank.com,"Next-gen, Support Issue",,,,,2025-12-01T08:21:30.015Z,2025-12-25T08:10:54.373Z,2025-12-02T06:02:46.248Z,,2025-12-04T05:48:30.893Z,,,,,,,,,d7243b52-594b-4dec-a80a-1ac01c4a7525,129591,,,,2025-12-01 08:21:30.015000+00:00,2025-12-01,False,True,False,False,False,False,False
+SUPP-1534,HackerRank Customer Support,Wayfair: Feedback on Testcase correctness,"Hi Team, Wayfair is piloting the AI assisted interviews with Code repos and shared a feedback regarding the question description not being clear, suggested improvements to Improvement to PROJECT_FILES_INSTRUCTIONS 
+
+> Because of the complexity of the code it was hard for the candidate to learn the project structure. I agree AI assistant could have helped candidate but
+>
+> PROJECT_FILES_INSTRUCTIONS : This file contains which files not to touch. But better would have been to show the actual project structure. Or like certain prompts example for understanding code workflow. Because a candidate will panic at beginning I feel(I might be wrong as I don't have datapoints on this)
+
+ and 
+
+an issue with the testcase
+
+in the Bugfix : card transaction limit
+the card is not being used when making the transaction, and limits are to be imposed on card
+there is balance in card and account on which balance the limit is to be imposed
+either a default card should be set or card should be sent from UI for the transaction
+in the test case below while creating transaction we are not setting from or to account which
+results in NPE which should not be the intention of this test case
+`@Test`
+`public void testSuccessfulCardTransaction() {`
+`Transaction transaction = createTransaction(3000.0, new Date());`
+`Transaction result = transactionService.sendMoney(transaction);`
+`assertNotNull(result);`
+`assertNotNull(result.getTransactionId());`
+`assertEquals(47000.0,`
+`cardRepository.findById(sourceCard.getCardNumber()).get().getBalance());`
+`}`
+when send money is called from above test it throws an exception
+`org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be`
+`null because transaction.getFromAccountId() is null`
+`public Transaction sendMoney(Transaction transaction) {`
+`Account fromAccount = accountRepository.findById(transaction.getFromAccountId()).get();`
+`Account toAccount = accountRepository.findById(transaction.getToAccountId()).get();`",Mitigated,,High,,,akshaja@hackerrank.com,arihant@hackerrank.com,Next-gen,,,,,2025-11-23T22:04:15.280Z,2025-12-16T06:41:49.622Z,2025-11-24T20:58:42.536Z,,2025-12-16T06:41:49.609Z,,,,,,,,,b9841d98-6117-490e-b3b0-04c8c8923324,112258,SUPP-1535,,,2025-11-23 22:04:15.280000+00:00,2025-11-23,False,False,False,False,False,True,False
+SUPP-660,HackerRank Customer Support,Internal :: AI Interviewer - Intermittent error on Candidates page,"Hi team!
+
+Please look into the issue faced by one of our Solutions Engineers. An intermittent error message (""It looks like something went wrong!"") appears on the Candidates page and when accessing a candidate’s report within the AI Interviewer product. The issue occurred during a live customer demo prep session using the preview flow in a demo environment. The error could not be consistently reproduced or captured on video but a screenshot is attached.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/1c086ecc-5310-43e8-b064-9c966802d402/96e85463-3da1-4f94-b3cc-c295fae38348)
+
+Here's the interview link: [https://www.hackerrank.com/ai-interviews/interviews/2165716/overview](<https://www.hackerrank.com/ai-interviews/interviews/2165716/overview>)
+
+CID 84412
+Email: [aishwarya.iyer+demo@hackerrank.com](<mailto:aishwarya.iyer+demo@hackerrank.com>)
+
+<!-- Pylon-Issue-ID:209e88d1-ecd8-4710-960f-acf0e4de065b --!>",Mitigated,,High,,,christina@hackerrank.com,satyam@hackerrank.com,"Next-gen, Support Issue, Bug",,,,,2025-06-10T18:37:01.160Z,2025-09-09T23:12:17.818Z,,,2025-09-09T23:12:17.804Z,,,,,,,,,366fd4bf-b421-4ae3-a219-edfb4a3d0edd,252387,,,,2025-06-10 18:37:01.160000+00:00,2025-06-10,True,False,False,False,False,False,False
+SUPP-1582,HackerRank Customer Support,AI Assistant Transcript missing in new tab reports,"When viewing certain OpenAI candidate reports, the `AI Assistant Transcript` tab does not appear in the Detailed Report if the report is opened in a new browser tab. The tab is only visible when accessing the report directly from the Candidates tab. This behavior was reproduced in the demo account.
+
+[Screen Recording 2025-12-02 at 9.15.19 PM.mov](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/1e292fe8-0bb3-4861-bd70-ac4acf75bed6/70a9c8c8-d39d-41be-afac-519eedfa0e97)",Mitigated,,No priority,,,ankur@hackerrank.com,neha.tiwari@hackerrank.com,Next-gen,,,,,2025-12-03T07:34:16.104Z,2025-12-16T14:46:41.558Z,,,2025-12-16T14:46:41.543Z,,,,,,,,,e88e0d32-1a70-4619-9b31-59f935f0f39c,111773,SUPP-1591,,,2025-12-03 07:34:16.104000+00:00,2025-12-03,False,False,False,True,False,False,False
+SUPP-1544,HackerRank Customer Support,Support request for HackerRank SDE III frontend test,"Create a customer support ticket for an issue related to the ""HackerRank SDE III (Frontend Engineer) Test 2025"" as referenced in the linked Slack thread and forwarded email.
+
+Hi Prateek, 
+
+
+Working at Hackerrank has been my dream job and I would like to get another opportunity to showcase my skills in the right way. My approach in solving the problems was appropriate and I believe I could have completed the tasks with ease if it wasn't for a couple of bugs in the test which I have mentioned at the end of this email. I need this opportunity more than ever and I am willing to take another shot at it or however many it takes without wasting your precious time of course.
+
+I can join immediately and I would go the extra mile in making this company and product better.
+
+**Feedback on the test:** In a real world scenario, the localstorage variables would have been accepted with any relatively appropriate key/value pair given to it. Storing it as ""option"" instead of ""sortOption"" delayed me by a solid 20 minutes as I didn't know where the error was coming from in the test cases. I also had a light directly pointing at my eyes because the software kept saying there is not enough lighting in the room, which also would not have happened in a real world scenario. 
+
+I know there are 100+ applicants for this role that might have had a better chance to go the next round, but I have faith that I am better suited for this role and can go above and beyond to prove it. 
+I apologize for any inconvenience caused, and if you are reading this email, I appreciate your time and effort in going through it. I will try again another time if this is not it, thank you!
+
+P.S: I also spoke to Anand from Product at HackerRank the other day at Ulo ice-creams where I work part-time now, I would just like to thank him as he had mentioned he will look into this matter. 
+
+Regards
+Sharukh Babu
+
+
+
+[Fwd: HackerRank SDE III (Frontend Engineer) Test 2025](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/9bc5025f-5e6e-4ef8-9e66-3c416586c7f6/1f5ae075-0afb-4b50-8467-4138a74c69d2)",Mitigated,,No priority,,,ankur@hackerrank.com,anshu.pandey@hackerrank.com,Next-gen,,,,,2025-11-25T11:11:31.604Z,2025-12-17T09:15:41.674Z,2025-11-27T08:52:36.487Z,,2025-12-17T09:15:41.661Z,,,,,,,,,3245a0f0-1679-4a31-9d95-a52105a2764a,110664,,,,2025-11-25 11:11:31.604000+00:00,2025-11-25,False,False,False,False,False,True,True
+SUPP-1802,HackerRank Customer Support,Photon :: Cloning and Editing Code Repo Task Descriptions,"Hi team,
+
+Photon wants to clone and update the description of a code repo task in French.
+They are unable to do it in the UI.
+
+Question URL: [https://www.hackerrank.com/work/tests/2285931/questions/coderepo_task/1715802/insights](<https://www.hackerrank.com/work/tests/2285931/questions/coderepo_task/1715802/insights>)
+Question name: Bugfix: Searchbar Component Question Insights
+Is it possible to edit the description to French and add it to the customer account.
+
+Admin: [serviceassetmgmt@photon.com](<mailto:serviceassetmgmt@photon.com>)
+CID: 74790
+
+Here's the French version from them:
+[https://docs.google.com/document/d/1GW-Hdp2soAbj-gxkAoyM5gLrNqQ_aS8P1gEoFSQ6bgA/edit?usp=sharing](<https://docs.google.com/document/d/1GW-Hdp2soAbj-gxkAoyM5gLrNqQ_aS8P1gEoFSQ6bgA/edit?usp=sharing>)
+
+<!-- Pylon-Issue-ID:09039b5f-28e7-448a-82f2-de2c5b2c5eba --!>",Invalid,,Medium,,,christina@hackerrank.com,anshu.pandey@hackerrank.com,"Next-gen, Support Task",,,,,2026-01-29T21:07:34.168Z,2026-02-25T23:10:22.515Z,,,2026-02-25T23:10:22.498Z,,,,,,,,,3f02dff4-b89a-40b7-b354-8fb0f4dddea9,9029,,,,2026-01-29 21:07:34.168000+00:00,2026-01-29,False,False,False,False,False,True,False
+SUPP-1821,HackerRank Customer Support,Planning Center + Atlassian :: Incorrect AI Assistant Transcript in Test Reports,"Hi team,
+
+The AI Transcript content in candidate reports for project questions shows Java code, even though the test contains no Java questions. This behavior is occurring across multiple candidate attempts for the same test. When checking the Fullstory of the candidate below, it looks like they have not used the AI assistant at all. This issue is also seen in other candidate reports. Please look into this with priority.
+
+This creates a risk of a misleading signal for engineering managers reviewing the candidates.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/640f10a3-3dc5-4329-95aa-7dc66653bebd/3ada3f28-56ff-43a2-a0fb-de37f9d81783)
+
+Please look into this.
+
+* Customer email: [brian@planningcenter.com](<mailto:brian@planningcenter.com>)
+* Customer ID (CID): 436430
+* Example affected report:
+  * Test ID: 2268733
+  * Candidate attempt/report ID: 82945231
+  * Candidate Email: [kyreeves@icloud.com](<mailto:kyreeves@icloud.com>)
+
+Report: [https://www.hackerrank.com/work/tests/2268733/candidates/completed/82945231/report/summary?authkey=3850cb995c24d06f9bf5fe0cf2b3d46c](<https://www.hackerrank.com/work/tests/2268733/candidates/completed/82945231/report/summary?authkey=3850cb995c24d06f9bf5fe0cf2b3d46c>)
+
+FullStory:
+
+[https://app.fullstory.com/ui/Q02VK/session/1403762735840192876:1403762735840192876!6782686842095064809](<https://app.fullstory.com/ui/Q02VK/session/1403762735840192876:1403762735840192876!6782686842095064809>)
+
+# UPDATE: 
+
+Atlassian is facing an issue with the AI Assistant transcript.
+
+Report URL: https://www.hackerrank.com/work/tests/2291726/candidates/completed/82979099/report 
+
+The chat contains a lot of code, with this prompt: ""The developer was working on a section of code within the tags code_to_edit in the file located at src/main/java/com/hackerrank/sample/controller/ModelController.java. Using the given recently_viewed_code_snippets, current_file_content, edit_diff_history, area_around_code_to_edit, and the cursor position marked as <|cursor|>, please continue the developer's work. Update the code_to_edit section by predicting and completing the changes they would have made next. Start your response with <EDIT>, <INSERT>, or <NO_CHANGE>. If you are making an edit, start with <EDIT> and then provide the rewritten code window followed by </EDIT>. If you are inserting new code, start with <INSERT> and then provide only the new code that will be inserted at the cursor position followed by </INSERT>. If no changes are necessary, reply only with <NO_CHANGE>. Avoid undoing or reverting the developer's last change unless there are obvious typos or errors.""
+
+The assistant replied: <NO_CHANGE>
+
+However as per full story, candidate did ask questions like explain problem statement.
+Full story URL: https://app.fullstory.com/ui/Q02VK/session/5349350867933921682:5349350867933921682!7469105328672555994 
+
+They are facing this in other tests as well: 2291726, 2291718, 2291703, 2291481
+SU: [apathania@atlassian.com](<mailto:apathania@atlassian.com>)
+
+<!-- Pylon-Issue-ID:f49986e3-edf2-45b3-b3a3-661786544492 --!>",Resolved,,Urgent,,,christina@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-02-02T18:51:06.602Z,2026-02-03T18:25:03.353Z,2026-02-03T01:05:45.154Z,,2026-02-03T18:25:03.329Z,,,,,,,,,dcfb464c-f94c-43df-b86d-9f10b143eed0,40994,,,,2026-02-02 18:51:06.602000+00:00,2026-02-02,False,False,False,True,False,False,False
+SUPP-1827,HackerRank Customer Support,Test Ticket - Please ignore,,Resolved,,Urgent,,,anupam@hackerrank.com,,"Next-gen, Support Issue",,,,,2026-02-03T05:07:19.395Z,2026-02-09T06:38:28.689Z,,,2026-02-09T06:38:28.674Z,,,,,,,,,41e9f746-04aa-4adb-967c-72c3e1ecd46e,33061,,,,2026-02-03 05:07:19.395000+00:00,2026-02-03,False,False,False,False,False,False,True
+SUPP-1504,HackerRank Customer Support,Cant open Test Web IDE,"Hi team,
+
+A customer has reported that when attempting to review a candidate’s submission by clicking **“View in IDE”**, the IDE fails to load and displays the following error message:
+
+> **“Starting IDE failed. Failed to launch IDE, please retry.”**
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/8df4a9b5-edce-4621-84fb-9210806f4538/67dbf756-12d3-48d5-ae70-ed830a8066e6)
+
+### **Issue Summary**
+
+* The IDE fails to initialize when reviewing a candidate’s report.
+* Retrying multiple times does **not** resolve the issue.
+* The failure does **not appear in the Network tab**, so no request logs are generated to help identify what’s failing.
+
+  ![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/6b85e0c4-7881-43da-9dce-f31f595f7896/3226475a-6de4-4bc5-87f5-9649ed5d3e0b)
+* **I've tested across multiple candidate reports** within the same test, and the same error occurs consistently.
+
+### **Request**
+
+Please investigate the cause of the IDE initialization failure and review any backend or configuration issues that could be preventing the IDE from launching in report view.
+
+Details:  
+Candidate Report: [https://www.hackerrank.com/work/tests/2253786/candidates/completed/81096401/report/detailed/1715795](<https://www.hackerrank.com/work/tests/2253786/candidates/completed/81096401/report/detailed/1715795>)  
+Admin/Sk: [wbh@gearlay.com](<mailto:wbh@gearlay.com>)  
+Company ID: 330040",Resolved,,High,,,Samarth Balasubramanya,neha.tiwari@hackerrank.com,"Next-gen, Support Issue",,,,,2025-11-19T10:00:20.987Z,2026-01-15T22:37:25.625Z,2025-11-19T13:12:06.509Z,,2026-01-15T22:37:25.605Z,,,,,,,,,ac0ff18d-8760-48a7-b29c-462d82bdcda5,68102,,,,2025-11-19 10:00:20.987000+00:00,2025-11-19,True,False,False,False,False,False,False
+SUPP-1559,HackerRank Customer Support,AI Assistant Transcript not available for Code Repo questions,"Hi Team,
+
+A user from FrogsLayer has reported that they are unable to view the ""AI Assistant Transcript"" for Code Repo questions in the candidate report. 
+
+Please find the sample reports below:
+
+[https://www.hackerrank.com/work/tests/2254343/candidates?c=all&page=1&openReport=81055470](<https://www.hackerrank.com/work/tests/2254343/candidates?c=all&page=1&openReport=81055470>)
+[https://www.hackerrank.com/work/tests/2254343/candidates?c=all&page=1&openReport=81050827](<https://www.hackerrank.com/work/tests/2254343/candidates?c=all&page=1&openReport=81050827>)
+[https://www.hackerrank.com/work/tests/2253060/candidates?c=all&page=1&openReport=81025380](<https://www.hackerrank.com/work/tests/2253060/candidates?c=all&page=1&openReport=81025380>)
+[https://www.hackerrank.com/work/tests/2253060/candidates?c=all&page=1&openReport=81024706](<https://www.hackerrank.com/work/tests/2253060/candidates?c=all&page=1&openReport=81024706>)
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/bbe4646b-6659-4534-8304-808adcfad48b/314a6320-41d8-4bfa-8fc8-94055697e1d2)
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/20956189-d380-42a5-bd69-6cd051ce1ff0/57f0aaa6-07a6-406e-91c4-eb9e9e4d74be)
+
+I have verified that the AI Assistant is enable for the test as the transcript is available for other question types in the same report. I also see the AI Usage Summary in the network logs of the browser, but the transcript is not available in the browser. 
+
+Request you to please investigate the same and share an update. 
+
+Details:
+Admin/Sk: [justin.matthews@frogslayer.com](<mailto:justin.matthews@frogslayer.com>)
+CID: 453065",Resolved,,High,,,samarth@hackerrank.com,neha.tiwari@hackerrank.com,"Next-gen, Support Issue",,,,,2025-11-27T11:36:21.722Z,2025-12-16T14:42:54.501Z,,,2025-12-08T13:16:50.660Z,,,,,,,,,9f9ed066-807e-400a-9c94-59b4ad3c1224,123383,SUPP-1537,,,2025-11-27 11:36:21.722000+00:00,2025-11-27,False,False,False,True,False,False,False
+SUPP-1824,HackerRank Customer Support,Affirm:: Unable to turn off AI Assistant in Interview,"Hi team,
+
+We received a report from an interviewer that the AI assistant was turned on during their interview and could not be turned off.
+
+The interviewer reports that:
+
+* The AI assistant is auto-enabled at the start of the interview
+* Toggling the assistant off multiple times had no effect
+* The candidate refreshed the page, but the behavior persisted
+* Throughout the interview, the IDE intermittently suggested blocks of code (similar to Cursor-style tab autocomplete)
+* The suggestions appeared and disappeared inconsistently.
+
+**Interview Details**
+
+* **CodePair SLUG:** `djtojxmxwhsjfncfowlpsaicssgfwukv`
+* **Interview Link:**
+  [https://www.hackerrank.com/codepair/djtojxmxwhsjfncfowlpsaicssgfwukv/questions/1?b=eyJpbnRlcnZpZXdfaWQiOjc3NjYyNjAsInJvbGUiOiJpbnRlcnZpZXdlciIsInNob3J0X3VybCI6Imh0dHBzOi8vaHIuZ3MvNjM2MjcyZiIsImNhbmRpZGF0ZV91cmwiOiJodHRwczovL2hyLmdzLzQ3ZDgxY2IifQ](<https://www.hackerrank.com/codepair/djtojxmxwhsjfncfowlpsaicssgfwukv/questions/1?b=eyJpbnRlcnZpZXdfaWQiOjc3NjYyNjAsInJvbGUiOiJpbnRlcnZpZXdlciIsInNob3J0X3VybCI6Imh0dHBzOi8vaHIuZ3MvNjM2MjcyZiIsImNhbmRpZGF0ZV91cmwiOiJodHRwczovL2hyLmdzLzQ3ZDgxY2IifQ>)
+
+**Session Recordings**
+
+* **Candidate FullStory:**
+  [https://app.fullstory.com/ui/Q02VK/session/369609889904416729](<https://app.fullstory.com/ui/Q02VK/session/369609889904416729>)
+
+  ![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/54c98c38-65a0-4d96-be06-2fd1fadcec6f/247c0345-cf79-43b1-9c89-acfd628a2028)
+* **Interviewer FullStory:**
+  [https://app.fullstory.com/ui/Q02VK/session/7685459407498513407](<https://app.fullstory.com/ui/Q02VK/session/7685459407498513407>)
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/d969cfe8-5085-4072-a72f-7c9719cf62fb/37051c35-8a90-4169-832c-e103711b1dc6)
+
+Admin: [haylea.foss@affirm.com](<mailto:haylea.foss@affirm.com>)
+
+CID: 72050
+
++++ Customer Verbatim:
+
+Hi team, we just received an email from an interviewer who said the AI assistant was auto turned on for their interview and they could not turn it off. Could you please confirm that the assistant is not turned on for all interviews yet?
+
+Context below:
+
+I wanted to report an issue I just had in hackerrank during an interview. Hackerrank has an AI assistant that is now automatically turned on at the start of interviews.
+
+I usually turn this off at the start of the interview, and haven't had any issues before. But in the interview I just had, the autocomplete stayed on, even after I toggled off the AI assistant in hackerrank. I tried multiple times to toggle it on and off, and even had the candidate refresh the hackerrank page, but it didn't go away. 
+
+Basically, occasionally throughout the interview the IDE would ""suggest"" the candidate a block of code (like Cursor tab autocomplete, essentially). It seemed to come and go.
+
++++
+
+<!-- Pylon-Issue-ID:d9db363e-7a90-4be9-a182-4c9cbe5e8b28 --!>",Resolved,,High,,,christina@hackerrank.com,bhushan@hackerrank.com,"Next-gen, Support Issue",,,,,2026-02-03T01:28:06.982Z,2026-02-05T06:38:38.333Z,2026-02-03T01:30:00.701Z,,2026-02-04T13:00:13.976Z,,,,,,,,,568d7cec-3e32-4097-9d0f-cdae070c2692,39879,NGS-49,,,2026-02-03 01:28:06.982000+00:00,2026-02-03,False,False,True,False,False,False,False
+SUPP-1637,HackerRank Customer Support,DraftKings: Bugs reported,"Hi Team,
+
+Please review the following feedback which is blocker for the customer to train other employees:
+
+Compilation Errors (High Priority)
+
+* The Code Editor is not consistently displaying compilation errors. The candidates have to build the application to find compilation errors in the terminal and then return to the code editor to fix them. A lot of valuable time is lost in this process.
+
+The compilation errors and code navigation issues occur in almost all interviews I have conducted. I was able to recreate the issues in a test interview I created (ID 7552784), and I have attached the screenshots below.
+
+""some garbage"" should ideally throw an error in the Code Editor, but it didn't. The error is captured only when the application is built in the terminal.
+
+![image (70).png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/e7812559-7a6b-4a60-8661-6c12246bfa99/8d472911-f22d-4a52-b99f-8901c01bf7d0)
+
+The symbols are not recognized within the Code Editor and cannot be navigated easily
+
+![image (71).png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/0cfae75b-7c94-4b24-911d-e6073c16d17d/d450ec79-94f7-40b5-ae11-c87afbfb6967)
+
+Code Navigation (Medium Priority)
+
+* The files cannot be navigated by clicking on the symbols. The candidates are either using the search bar or manually going through the Source Files Explorer view on the left.
+
+Failure Recovery (Medium Priority)
+
+* When the environment is experiencing issues, it is not possible to restart it to get a fresh start. For example, during an interview (ID 7440386), the candidate's Preview crashed after they executed a Swagger command, and I was unable to restart the browser or the container to make the Preview work again. This is one example of an error, but I expect other issues to arise in the future, where the simplest way to recover could be by restarting the container, which is currently not an option for the interviewer.
+
+The Swagger command crashed the Preview in interview ID 7440386.
+
+Please let me know if you require any additional information. The high-priority items are blocking me from training more DK Employees to give this interview. ",Resolved,,High,,,akshaja@hackerrank.com,rishi.purwar@hackerrank.com,Next-gen,,,,,2025-12-15T08:18:21.196Z,2026-02-03T04:17:30.003Z,2025-12-16T06:32:57.197Z,,2026-02-03T04:17:29.992Z,,,,,,,,,656b3791-8740-4bae-abf2-d06cbe9de394,41842,,,,2025-12-15 08:18:21.196000+00:00,2025-12-15,True,False,False,False,False,False,False
+SUPP-1535,HackerRank Customer Support,Wayfair: AI assisted interviews with Code repo Bugs & Improvements,"Here are the bugs they have called out
+
+* Slowness on the platform 
+  * Feedback comment - repo is taking long time to complie ....
+  * Candidate name: Saurav Kumar Agrawal [https://hr.gs/737f21b](<https://hr.gs/737f21b>)
+* Issue with the cursor
+  * Candidate name: Saurav Kumar Agrawal [https://hr.gs/737f21b](<https://hr.gs/737f21b>)
+* On logging into the interview the Preview shows ""Something went wrong"" 
+  * Candidate name: Saurav Kumar Agrawal [https://hr.gs/737f21b](<https://hr.gs/737f21b>)
+
+Some feedback for us to improve candidate experience:
+
+* A way to allow candidates practice code repos and get familiarized with the tool
+* Platform felt overwhelming with a lot of choices
+
+Can we go through the interviews conducted and debug all the 3 issues highlighted? 
+
+Interviews conducted: [https://docs.google.com/spreadsheets/d/1Z52LFSv77CPJShtX-S1aL3F2zRmifn4D5avy2myRVMw/edit?gid=1872596142#gid=1872596142](<https://docs.google.com/spreadsheets/d/1Z52LFSv77CPJShtX-S1aL3F2zRmifn4D5avy2myRVMw/edit?gid=1872596142#gid=1872596142>) ",Resolved,,High,,,akshaja@hackerrank.com,rishi.purwar@hackerrank.com,Next-gen,,,,,2025-11-23T22:35:39.437Z,2026-01-15T22:41:14.514Z,2025-12-16T06:41:12.093Z,,2026-01-15T22:41:14.501Z,,,,,,,,,578b683c-0c41-4d71-a8bc-801c0b5736df,68098,SUPP-1534,,,2025-11-23 22:35:39.437000+00:00,2025-11-23,True,False,False,False,True,False,False
+SUPP-1501,HackerRank Customer Support,Internal :: Inconsistent warning message shown on sections,"Hi Team,
+
+The warning message *“We recommend that questions have similar type, score, skills and time to solve.”* appears inconsistently across tests when a section contains questions of different types, even when all questions in that section are set to be picked up.
+
+Example
+
+* **Warning displayed:** 
+  Test URL: [https://www.hackerrank.com/work/tests/2239768/questions](<https://www.hackerrank.com/work/tests/2239768/questions>)
+  * Section 2 includes *Code Review* and *Front End* type questions.
+  * Both questions are picked up, and the warning is shown.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/6d9162cf-6739-42b4-875a-153dbcc1f8d8/7e095139-d21d-41de-8985-759bbe22f3f6)
+
+* **Warning not displayed:** 
+  Test URL: [https://www.hackerrank.com/work/tests/2253825/questions](<https://www.hackerrank.com/work/tests/2253825/questions>)
+  * Section includes *Coding* and *Database* type questions.
+  * Both questions are picked up, but the warning does not appear.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/a62a20bb-a96c-4808-9f28-a8d057db3fc0/6edb612d-75d0-4b57-a6bc-a9fe0ce90ca4)
+
+CID:84412
+
+Skadoosh : [suryanidhi+demo@hackerrank.com](<mailto:suryanidhi+demo@hackerrank.com>)
+
+This inconsistency can confuse users and lead to incorrect assumptions about test design best practices.
+
+<!-- Pylon-Issue-ID:8ab9a335-f748-4b7e-8794-aa8981d5e9eb --!>",Resolved,,High,,,suryanidhi@hackerrank.com,neha.tiwari@hackerrank.com,"Next-gen, Support Issue",,,,,2025-11-19T07:11:36.084Z,2026-01-08T11:26:57.844Z,2025-11-21T07:12:28.058Z,,2026-01-08T11:26:57.824Z,,,,,,,,,8bda8c50-a338-4962-a059-8478f2d384f4,78853,,,,2025-11-19 07:11:36.084000+00:00,2025-11-19,False,False,False,False,True,False,False
+SUPP-1836,HackerRank Customer Support,Error setting up AI Assistant when extensions fail to load,"Sometimes, when opening the editor for the first time, extensions do not load and setting up AI Assistant fails. An error dialog appears saying that an error occurred while setting up AI Assistant with the message ""No extension gallery service configured."" Reloading the editor allows the extension to load and the error no longer occurs.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/fb360deb-e3e6-4ac6-8b9c-c6cbd3d8691e/24ec0dde-1434-4906-a4da-187b32eab85f)",Resolved,,Medium,,,bhushan@hackerrank.com,deepnarayan.sett@hackerrank.com,Next-gen,,,,,2026-02-04T04:11:35.402Z,2026-02-05T05:43:32.387Z,2026-02-04T07:41:32.398Z,,2026-02-05T05:42:19.898Z,,,,,,,,,b5245c54-e4c0-48a6-bed5-b0bebc670905,38877,,,,2026-02-04 04:11:35.402000+00:00,2026-02-04,True,True,False,False,False,False,False
+SUPP-1797,HackerRank Customer Support,Code repo question Try option broken from library,"In the code repository question view, the **Try** option shown in the library modal does not work.
+
+It should either be hidden until the flow is supported or the capability should be implemented so that trying a code repo question from the library functions correctly.
+
+![image (82).png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/c85dafc4-ce23-4b41-a1eb-e266e0e56fbe/58af439d-316c-400e-9a70-da123f3b9294)",Resolved,,No priority,,,akshaja@hackerrank.com,,Next-gen,,,,,2026-01-29T08:13:36.579Z,2026-02-03T08:31:21.725Z,2026-02-02T05:09:58.558Z,,2026-02-03T08:31:21.658Z,,,,,,,,,5c9a60a4-8ce3-4de8-8ccc-4a440327d3cb,41588,,,,2026-01-29 08:13:36.579000+00:00,2026-01-29,False,False,False,False,True,False,False
+SUPP-1537,HackerRank Customer Support,Interviewer session shows no usage despite assistant use,"During a customer demo, the interviewer session indicated there was no usage even though the assistant was used. See the session link and screenshots for context.
+
+Session: [HackerRank CodePair session](<https://www.hackerrank.com/codepair/dlnhfrqqagvfdbcpngavmxqfadjsjkzj/questions/2?b=eyJpbnRlcnZpZXdfaWQiOjc0NDM5OTcsInJvbGUiOiJpbnRlcnZpZXdlciIsInNob3J0X3VybCI6Imh0dHBzOi8vaHIuZ3MvNjc1NWQwMyIsImNhbmRpZGF0ZV91cmwiOiJodHRwczovL2hyLmdzLzQ3YWIyNGMifQ>)
+
+![Screenshot 2025-11-24 at 9.25.58 AM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/cd4b3f5b-d046-4222-9aeb-68cdd5cbbe65/779b1376-390f-4400-a9b6-bbaa24c1611e)
+
+![Screenshot 2025-11-24 at 9.26.06 AM.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/3248717a-0a4f-40b9-a2dc-6f391f79183b/15e24fff-e7a0-4607-ac9d-fe7dc94e598c)",Resolved,,No priority,,,pranamya.prasad@hackerrank.com,bhushan@hackerrank.com,Next-gen,,,,,2025-11-24T05:57:17.795Z,2026-01-15T22:41:53.562Z,2025-12-22T07:05:42.232Z,,2026-01-15T22:41:53.544Z,,,,,,,,,0e6930fc-951d-4047-9d7b-a9f4be9558f6,68098,SUPP-1559,,,2025-11-24 05:57:17.795000+00:00,2025-11-24,False,False,False,True,False,False,False
+SUPP-1580,HackerRank Customer Support,Hide AI Assistant transcript for non-applicable coding questions,"AI Assistant transcript is currently visible for coding questions where it should not appear (non-applicable questions). See attached screenshot for an example scenario.
+
+![image.png](https://uploads.linear.app/65f2b557-e546-4cd1-99ca-41866d1d1238/1f5a389e-c4dc-4be1-b60f-287f12edffef/af1fcdfe-dd93-4d02-9a16-aaa8adddd1dd)",Resolved,,No priority,,,ankur@hackerrank.com,,Next-gen,,,,,2025-12-03T04:38:13.060Z,2026-01-15T23:00:41.275Z,,,2026-01-15T23:00:41.243Z,,,,,,,,,98544d07-6f94-4347-9cba-ff68995d9088,68079,,,,2025-12-03 04:38:13.060000+00:00,2025-12-03,False,False,False,True,False,False,False

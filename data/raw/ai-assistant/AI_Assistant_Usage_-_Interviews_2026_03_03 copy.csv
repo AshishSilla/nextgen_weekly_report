@@ -1,0 +1,921 @@
+company_id,company_name,interview_id,interview_started_date,candidate_name,candidate_email,interview_owner_email,question_id,question_type,user_msg_cnt
+463502,DeepL,7590585,2025-12-19,,nikita.fidirko+cand@deepl.com,nikita.fidirko@deepl.com,1384882,fullstack,1
+266391,Expedia Sandbox,7726915,2026-01-22,,bob@gmail.com,travivarma@expediagroup.com,1720430,coderepo,2
+397956,Uber,7776739,2026-02-03,,qp28@cornell.edu,jleitch@uber.com,,,1
+397956,Uber,7880508,2026-02-25,,sairithik5@gmail.com,jleitch@uber.com,,,1
+18076,Snap Inc.,6989166,2025-09-08,,shyiaalam@gmail.com,msense@snapchat.com,1384882,fullstack,3
+397956,Uber,7768076,2026-02-09,,hgrchoi@gmail.com,jleitch@uber.com,,,1
+281885,Wayfair,7672618,2026-01-21,Priyanka Shinde,priyankashindeit@gmail.com,emato1@wayfair.com,2187938,coderepo,2
+424048,Paxos,7712292,2026-01-22,Zixi (Jerry) Liu,jerryzxliu@gmail.com,aruiz@paxos.com,2227684,fullstack,7
+424048,Paxos,7301163,2025-11-04,Venkata Sai Aniketh Bondada,bvsaniketh95@gmail.com,jperry@paxos.com,2227684,fullstack,1
+435124,,7638943,2026-01-07,,,msayed2+sandbox@atlassian.com,1783584,coderepo,9
+435124,,7638943,2026-01-07,candidate,msayed2@atlassian.com,msayed2+sandbox@atlassian.com,1783584,coderepo,9
+37714,Walmart Global Tech Talent Acquisition,7962568,2026-02-28,Alex Hu,alexhu831@gmail.com,achal.rastogi@walmart.com,2421712,fullstack,6
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,2421712,fullstack,4
+424048,Paxos,7710011,2026-01-21,Kristin Lee,krlee53@gmail.com,aruiz@paxos.com,2227684,fullstack,2
+435124,,7645172,2026-01-09,candidate,msayed2@atlassian.com,msayed2+sandbox@atlassian.com,1783584,coderepo,7
+424048,Paxos,7853741,2026-02-12,Harish Rajagopal,harishrajagopal9@gmail.com,jperry@paxos.com,2227684,fullstack,1
+424048,Paxos,7729284,2026-01-23,Alexander Preuss,alexander.preuss.goerlitz@googlemail.com,aruiz@paxos.com,2227684,fullstack,4
+424048,Paxos,7920318,2026-02-20,candidate,weason+test@paxos.com,weason@paxos.com,2227684,fullstack,5
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,2421720,fullstack,3
+281885,Wayfair,7339544,2025-11-07,Vamshi Chennoju,vamshichennoju225@gmail.com,emox@wayfair.com,2187938,coderepo,6
+37714,Walmart Global Tech Talent Acquisition,7886703,2026-02-24,,aditandadit@gmail.com,eliza.kuppens@walmart.com,2421674,fullstack,3
+405356,Uber Sandbox,7868287,2026-02-12,,shashankagarwal1706@gmail.com,shashank.agarwal+sandbox@uber.com,2275259,fullstack,8
+459346,Zenika,7512269,2025-12-05,candidate,augustin.grimprel@zenika.com,augustin.grimprel@zenika.com,820444,fullstack,1
+435124,,7759022,2026-01-27,,gianlucavaccarini@gmail.com,gvaccarini+sandbox@atlassian.com,1730406,coderepo,2
+435124,,7638434,2026-01-06,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,3
+424048,Paxos,7675879,2026-01-16,Mark Mathis,dev@cipherz.com,aruiz@paxos.com,2227684,fullstack,2
+435124,,7638751,2026-01-11,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,6
+424048,Paxos,7940348,2026-02-25,Barathkumar Sundaravaradan,barath152@gmail.com,aruiz@paxos.com,2227684,fullstack,5
+397390,Palo Alto Networks,7959211,2026-02-26,,kumath.arpan@gmail.com,lpammina@paloaltonetworks.com,2426213,fullstack,3
+435124,,7627358,2026-01-05,,ddd@gmail.com,saumarah+sandbox@atlassian.com,1720430,coderepo,3
+281885,Wayfair,7328101,2025-11-04,,ta5900@g.rit.edu,jchen4@wayfair.com,2187938,coderepo,12
+281885,Wayfair,7465481,2025-12-04,Aman Tewary,aman.tewary@live.com,emato1@wayfair.com,1537785,fullstack,2
+405356,Uber Sandbox,7870358,2026-02-12,,sriramp@uber.com,sriramp+sandbox@uber.com,2303279,fullstack,6
+367269,NBCSportsNext,7796887,2026-02-02,Xavier Richt,xavierritch@gmail.com,vchen@versantmedia.com,2380666,fullstack,24667
+424048,Paxos,7642790,2026-01-08,Kyle Ruzic,kyruzic@gmail.com,jperry@paxos.com,2227684,fullstack,3
+424048,Paxos,7608037,2026-01-05,Maksim Rylkin,msrylkin@gmail.com,jperry@paxos.com,2227684,fullstack,2
+367269,NBCSportsNext,7798682,2026-02-02,,gabrielamare.work01@gmail.com,vchen@versantmedia.com,2380666,fullstack,24667
+424048,Paxos,7141474,,candidate,crodiger@paxos.com,marcus.mok@paxos.com,2220815,fullstack,7
+424048,Paxos,7932786,2026-02-24,Guanda Li,coliguanda@gmail.com,aruiz@paxos.com,2227684,fullstack,2
+95641,DraftKings Inc,7151524,2025-10-09,,xianglongtao88@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,18
+95641,DraftKings Inc,7181529,2025-10-17,,juan.roa@lumenbyte.com,s.rosenthal@draftkings.com,2189415,coderepo,9
+95641,DraftKings Inc,7039436,2025-09-17,,hsurve@draftkings.com,hsurve@draftkings.com,2182633,coderepo,5
+95641,DraftKings Inc,7215778,2025-10-17,,hfsurve@hotmail.com,hsurve@draftkings.com,2220009,coderepo,3
+95641,DraftKings Inc,7370016,2025-11-14,,vahinimohan03@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,13
+397956,Uber,7823070,2026-02-24,,sourjatilak@gmail.com,jleitch@uber.com,,,1
+397956,Uber,7539031,2026-01-06,,arun.baskar@protonmail.com,jleitch@uber.com,2216190,coderepo,8
+266391,Expedia Sandbox,7781224,2026-01-30,,stecasasso@gmail.com,scasasso@expediagroup-sandbox.com,1720430,coderepo,1
+146325,Oracle Corporation,7433635,2025-11-21,,pratinav.e.sharma@gmail.com,johnny.vu@oracle.com,1670442,fullstack,1
+38841,Adobe Inc.,7827532,2026-02-06,,codewithvarun123@gmail.com,mshetty@adobe.com,2394174,fullstack,1
+123720,Blue Origin,7694243,2026-01-16,,sandzco@gmail.com,kmoon@blueorigin.com,2326273,fullstack,4
+146325,Oracle Corporation,7773686,2026-01-29,,akshay.gundewar@oracle.com,akshay.gundewar@oracle.com,2376474,fullstack,24667
+38013,BNY,7813608,2026-02-04,,san.m.builds@gmail.com,shree.gunjati@bny.com,2139711,coderepo,1
+50229,Coupang,7622802,2026-01-07,Tanishq Chawda,tanishq.happy@gmail.com,younjuk9817@coupang.com,1374784,fullstack,24668
+123720,Blue Origin,7768772,2026-01-28,,robert.mannuzza@gmail.com,amcbrayer@blueorigin.com,,,1
+397956,Uber,7610997,2026-01-13,,gabrielzhouquan@gmail.com,jleitch@uber.com,2216190,coderepo,10
+397956,Uber,7270075,2025-10-27,,jackworkdemo@gmail.com,jleitch@uber.com,1730396,coderepo,8
+38013,BNY,7045065,2025-09-18,Aleksandr Vysotckii,vysotskij.av@gmail.com,ben.grant@bny.com,2139711,coderepo,1
+397956,Uber,7535152,2025-12-11,,singhalhimanshu813@gmail.com,jleitch@uber.com,2314336,fullstack,3
+397956,Uber,7808285,2026-02-12,,regitaz@gmail.com,jleitch@uber.com,,,1
+397956,Uber,7829265,2026-02-18,,nick.shkaruba@gmail.com,jleitch@uber.com,,,3
+72050,Affirm,7840794,2026-02-09,,safa@test.com,safa.al-howaid@affirm.com,1730396,coderepo,1
+38841,Adobe Inc.,7909163,2026-02-19,,test@test.com,satyam@adobe.com,,,2
+72050,Affirm,7938246,2026-02-24,,jakub.firlej+hackerranktest1@affirm.com,michal.barelkowski@affirm.com,1730396,coderepo,9
+463502,DeepL,7956677,2026-02-26,,nikita.fidirko+candidate222@deepl.com,nikita.fidirko@deepl.com,2425768,fullstack,1
+38841,Adobe Inc.,7803088,2026-02-03,,vladtoncu@gmail.com,nstancioiu@adobe.com,2385488,fullstack,2
+397956,Uber,7795958,2026-02-04,,amanprk4@gmail.com,jleitch@uber.com,2387392,fullstack,1
+50229,Coupang,7837546,2026-02-12,Dhruv Rana,ranadhruvrana@gmail.com,younjuk9817@coupang.com,1959743,fullstack,1
+448712,Optiver Sandbox,7562475,2025-12-15,candidate,rishabhthakkar@optiver.us,jakescheinbart+sandbox@optiver.us,2315643,fullstack,4
+459081,Federato.ai,7779457,2026-02-02,,shayanimam99@gmail.com,antonio.cerna@federato.ai,2341787,fullstack,24667
+397956,Uber,7801894,2026-02-04,,jayanthponnada@gmail.com,jleitch@uber.com,2386952,fullstack,6
+146325,Oracle Corporation,7233787,2025-10-23,,vasireddysaidatta@gmail.com,melissa.nicholas@oracle.com,1077845,fullstack,1
+456234,Qualtrics Sandbox,7663521,2026-01-12,,kpatko@qualtrics.com,pauguscik+sandbox@qualtrics.com,1783584,coderepo,2
+397956,Uber,7051162,2025-09-24,,rahulnc1987@gmail.com,jleitch@uber.com,2214705,fullstack,1
+72050,Affirm,7361296,2025-11-14,,f.dulcinea.pena@gmail.com,cristina.hare@affirm.com,1672308,fullstack,1
+434628,Agoda,7494129,2025-12-04,,vaidas.vaitkevicius@outlook.com,cong.liu+alias@agoda.com,2300314,fullstack,12
+96577,Nuro,7684673,2026-01-15,,edwardyuded@gmail.com,adong@nuro.ai,2351560,coderepo,5
+281885,Wayfair,7585799,2025-12-18,,zongxi2014@gmail.com,twagner@wayfair.com,1537785,fullstack,2
+459346,Zenika,7910121,2026-02-19,candidate,sarrasb97@gmail.com,yohann.rodier@zenika.com,2391349,fullstack,7
+435124,,7656604,2026-01-09,candidate,awhite5@atlassian.com,awhite5+sandbox@atlassian.com,1730396,coderepo,8
+426908,,7821040,2026-02-05,,brian.yuen@gmail.com,raghavendra.shettyk@verifone.com,,,9
+462701,Zycus Inc,7923859,2026-02-21,candidate,kanikagoel2645@gmail.com,shweta.shah@zycus.com,,,3
+462701,Zycus Inc,7909474,2026-02-21,candidate,priyanknamdeo03@gmail.com,shweta.shah@zycus.com,,,10
+471989,Hcltech,7846880,2026-02-12,,bindu.rani@hcltech.com,devisd+alias@hcltech.com,,,2
+397390,Palo Alto Networks,7922729,2026-02-26,,avinashmv@gmail.com,mvanness@paloaltonetworks.com,,,5
+72050,Affirm,7910133,2026-02-19,,claire.yang@affirm.com,andrew.tam2@affirm.com,1730396,coderepo,4
+397956,Uber,7958645,2026-02-26,,abc@gmail.com,shashank.agarwal@uber.com,2216190,coderepo,6
+146325,Oracle Corporation,7923405,2026-02-26,,chenclare314@gmail.com,ota-robot1_ro@oracle.com,,,1
+412566,Wayfair Sandbox,7878202,2026-02-13,,guy@test.com,sdao+sandbox@wayfair.com,,,22
+299771,Bloomberg Avature Testing Sandbox,7890803,2026-02-17,,johnsmith@gmail.com,jwoolverton+sandbox@bloomberg.net,,,8
+38841,Adobe Inc.,7920163,2026-02-20,,stephanienewell13@gmail.com,rlucerolueva@adobe.com,,,4
+38841,Adobe Inc.,7730701,2026-01-22,,dev.t.mehta@gmail.com,akhoury@adobe.com,1929131,fullstack,4
+66856,Qualtrics,7907015,2026-02-19,,candidate@Gmail.com,echild@qualtrics.com,,,2
+123720,Blue Origin,7644246,2026-01-07,,samkgossett@gmail.com,awilson2@blueorigin.com,,,3
+412566,Wayfair Sandbox,7765372,2026-01-28,,abayat@wayfair.com,abayat+sandbox@wayfair.com,,,20
+38841,Adobe Inc.,7486617,2025-12-02,,logontodiptesh@gmail.com,fshakir@adobe.com,883910,fullstack,1
+38841,Adobe Inc.,7796730,2026-02-02,,joseluisev2@gmail.com,rajp@adobe.com,2383707,fullstack,24667
+123720,Blue Origin,7944228,2026-02-25,,kristiansromero@gmail.com,ylu2@blueorigin.com,,,1
+38013,BNY,7893914,2026-02-17,candidate,soumit.saha@hotmail.com,keshav.gupta2@bny.com,2139711,coderepo,4
+72050,Affirm,7911369,2026-02-27,,jonathanlu2005@yahoo.com,anoushka.rai@affirm.com,1730396,coderepo,9
+459081,Federato.ai,7481858,2025-12-01,,josh.leitzel@federato.ai,josh.leitzel@federato.ai,2293661,fullstack,1
+412566,Wayfair Sandbox,7877883,2026-02-13,,ChadDerp@test.com,abayat+sandbox@wayfair.com,,,10
+146325,Oracle Corporation,7903815,2026-02-18,,alan.farfan.pita@oracle.com,ernesto.l.lopez@oracle.com,,,1
+18076,Snap Inc.,7516343,2025-12-06,,asdasd@asdasd.com,xiao.li@snapchat.com,1682731,fullstack,1
+72050,Affirm,7918980,2026-02-26,,vishalmkumar3@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,20
+458073,Affirm Sandbox,7389702,2025-12-19,,kg@kg.com,krishna.guruswamy+sandbox@affirm.com,1730396,coderepo,3
+38841,Adobe Inc.,7878939,2026-02-13,,2007siddarth@gmail.com,charagon@adobe.com,2232543,fullstack,1
+123720,Blue Origin,7766905,2026-01-28,,william.wu.3637@gmail.com,munrath@blueorigin.com,,,1
+146325,Oracle Corporation,7495499,2025-12-09,,dubeyvaibhav92@gmail.com,indu.khunnikar@oracle.com,1923284,fullstack,5
+91434,OpenAI ,7363490,2025-11-10,,democandidate@emaildomain65.com,gloria@openai.com,1720430,coderepo,1
+123720,Blue Origin,7766595,2026-01-28,,saileshr2209@gmail.com,ylu2@blueorigin.com,,,1
+299771,Bloomberg Avature Testing Sandbox,7885048,2026-02-16,,filip@example.com,fsimek1+sandbox@bloomberg.net,,,46
+91434,OpenAI ,7364331,2025-11-10,,democandidate@emaildomain.com,gloria@openai.com,1720430,coderepo,1
+123720,Blue Origin,7517952,2025-12-12,,test@gmail.com,ssaijpaul@blueorigin.com,482837,fullstack,1
+72050,Affirm,7764637,2026-02-02,,lewes.goff@hotmail.co.uk,paulina.syberska@affirm.com,1664787,fullstack,24667
+299771,Bloomberg Avature Testing Sandbox,7890238,2026-02-17,,johnsmith@gmail.com,jwoolverton+sandbox@bloomberg.net,,,26
+402663,coupang.com,7810350,2026-02-04,,sejung07@coupang.com,sejung07-ghsbx@coupang.com,,,1
+299771,Bloomberg Avature Testing Sandbox,7919375,2026-02-20,,hrhieu@bloomberg.com,trev+bloombergavaturetestingsandbox@hackerrank.com,,,1
+299771,Bloomberg Avature Testing Sandbox,7919331,2026-02-24,,ethandao@ucla.edu,trev+bloombergavaturetestingsandbox@hackerrank.com,,,3
+146325,Oracle Corporation,7929864,2026-02-23,,renata.loaiza@outlook.com,bethushailaja.reddy@oracle.com,,,2
+299771,Bloomberg Avature Testing Sandbox,7920391,2026-02-20,,ayuen39@bloomberg.net,ayuen39+sandbox@bloomberg.net,,,13
+146325,Oracle Corporation,7808426,2026-02-04,,akhansudo@gmail.com,kevin.huynh@oracle.com,,,2
+38841,Adobe Inc.,7832764,2026-02-06,,taiyangdao888@gmail.com,fengw@adobe.com,2384220,fullstack,8
+146325,Oracle Corporation,7741050,2026-02-02,,sandeep.skn@gmail.com,ota-robot1_ro@oracle.com,,,2
+38841,Adobe Inc.,7843941,2026-02-09,,crowln1992@gmail.com,xingtail@adobe.com,2232543,fullstack,2
+424048,Paxos,7379929,2025-11-14,Ankur Avlani,ankuravlani@gmail.com,jperry@paxos.com,2227684,fullstack,1
+397390,Palo Alto Networks,7959993,2026-02-26,Hannah,haye@paloalotnetworks.com,nzarns@paloaltonetworks.com,2416297,fullstack,1
+424048,Paxos,7286259,2025-11-03,Michael Deol,michael.deol@icloud.com,jperry@paxos.com,2227684,fullstack,3
+281885,Wayfair,7261885,2025-10-27,Rishab N T,rishab698.n@gmail.com,emox@wayfair.com,2187938,coderepo,2
+281885,Wayfair,7467591,2025-11-27,,hpanigrahy@wayfair.com,hpanigrahy@wayfair.com,2187938,coderepo,7
+424048,Paxos,7629610,2026-01-06,Yusuf Ahmed,yusufahmed172@gmail.com,jperry@paxos.com,2227684,fullstack,2
+281885,Wayfair,7178797,2025-10-10,,nikunj.1986@gmail.com,nsharma9@wayfair.com,2187938,coderepo,1
+180807,Disney Sandbox,7711199,2026-01-20,,bob@gmail.com,john+disneysandbox@hackerrank.com,1783584,coderepo,2
+96577,Nuro,7605806,2026-01-08,Ying-Kun,yingkunwu00@gmail.com,mvelez@nuro.ai,2060902,fullstack,1
+424048,Paxos,7719904,2026-02-04,Oliver Wai,oliverkwai@gmail.com,aruiz@paxos.com,2227684,fullstack,2
+281885,Wayfair,7483762,2025-12-08,Hima Sujani Adike,adikehimasujani@gmail.com,emato1@wayfair.com,2187938,coderepo,11
+405356,Uber Sandbox,7801428,2026-02-03,,ankurkakroo2@gmail.com,jleitch+sandbox@uber.com,2303483,fullstack,1
+424048,Paxos,7301189,2025-11-07,Yevgen Vasylenko,vasylenkoye@gmail.com,jperry@paxos.com,2227684,fullstack,4
+424048,Paxos,7728970,2026-01-30,Avery Peterson,averypeterson115@gmail.com,aruiz@paxos.com,2227684,fullstack,24675
+146325,Oracle Corporation,7532549,2025-12-12,,al.madireddy@gmail.com,melissa.nicholas@oracle.com,1508766,fullstack,2
+38013,BNY,7903275,2026-02-18,Enmo Ren,vickiren7@gmail.com,raghu.gudepu@bnymellon.com,986796,fullstack,1
+123720,Blue Origin,7737997,2026-01-23,,morse.alex.j@gmail.com,amcbrayer@blueorigin.com,,,6
+412566,Wayfair Sandbox,7765369,2026-01-28,,candidate2@gmail.com,greales@wayfaircareers.com,,,2
+146325,Oracle Corporation,7784030,2026-01-30,,rsa201297@outlook.com,khoi.bui@oracle.com,1040241,fullstack,24667
+397956,Uber,7443203,2025-11-23,,pafiweb165@izeao.com,abhishek.bs@uber.com,2216190,coderepo,6
+38841,Adobe Inc.,7891093,2026-02-17,,abucur@adobe.com,nstancioiu@adobe.com,2408038,fullstack,5
+397956,Uber,7100602,2025-09-26,,niishtha@gmail.com,jleitch@uber.com,2216891,fullstack,1
+38013,BNY,7945944,2026-02-26,,priyankamarne13@gmail.com,dhwani.gadhia@bnymellon.com,806743,fullstack,6
+397956,Uber,7815801,2026-02-20,,jinfang.xu.22@gmail.com,jleitch@uber.com,,,7
+456234,Qualtrics Sandbox,7868668,2026-02-12,,pauguscik@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,2
+397956,Uber,7712481,2026-01-21,,yangyishan0901m@gmail.com,jleitch@uber.com,2257509,coderepo,44
+458073,Affirm Sandbox,7458529,2025-11-25,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1720430,coderepo,5
+397956,Uber,7445363,2025-11-24,,feyeb30756@bablace.com,abhishek.bs@uber.com,2216190,coderepo,4
+366825,Adobe (Sandbox),7041248,2025-09-17,,anuragsr@adobe.com,krizvi+sandbox@adobe.com,2105209,fullstack,7
+146325,Oracle Corporation,7694350,2026-01-16,,pratap.pachi@gmail.com,khoi.bui@oracle.com,1040241,fullstack,1
+38013,BNY,7764479,2026-01-29,,shpatil126@gmail.com,dhwani.gadhia@bnymellon.com,829935,fullstack,24667
+397956,Uber,7845721,2026-02-20,,d.trangdng@gmail.com,jleitch@uber.com,,,2
+456234,Qualtrics Sandbox,7663524,2026-01-12,,bartoszs@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,7
+397956,Uber,7631169,2026-01-21,,andrewyao1995@gmail.com,jleitch@uber.com,2216190,coderepo,24
+397956,Uber,7811856,2026-02-11,,jhanvic99@gmail.com,jleitch@uber.com,,,6
+397956,Uber,7735123,2026-02-02,,himanshu.chhangani.7@gmail.com,jleitch@uber.com,2216190,coderepo,24677
+38013,BNY,7140719,2025-10-03,,ereneld@gmail.com,sirisha.pratha@bny.com,2139711,coderepo,5
+38841,Adobe Inc.,7838461,2026-02-09,,akankshashubhi31@gmail.com,mshetty@adobe.com,,,1
+397956,Uber,7436065,2025-11-24,,devsharma23101999@gmail.com,jleitch@uber.com,2283858,fullstack,1
+397956,Uber,7639689,2026-01-15,,vineet.goyal123@gmail.com,jleitch@uber.com,2216190,coderepo,11
+38013,BNY,7067858,2025-09-22,Charles Han,hanchar@gmail.com,ben.grant@bny.com,2139711,coderepo,3
+397956,Uber,7919458,2026-02-24,,douglasantos00@gmail.com,jleitch@uber.com,2216190,coderepo,18
+272667,Groupe Onepoint,7877176,2026-02-17,Philippe Brandao,phbrandao@yahoo.fr,h.akakpo@groupeonepoint.com,,,4
+38841,Adobe Inc.,7901000,2026-02-18,,fratila@adobe.com,fratila@adobe.com,2408038,fullstack,3
+146325,Oracle Corporation,6953249,2025-09-05,,chandrasekhar2499@gmail.com,mario.conde@oracle.com,1602374,fullstack,2
+146325,Oracle Corporation,7956633,2026-02-26,,anushree.jana@oracle.com,anushree.jana@oracle.com,,,15
+50229,Coupang,7781703,2026-02-13,Marc Adrian Chua Lihan,kento@grow.team,younjuk9817@coupang.com,,,2
+146325,Oracle Corporation,7825156,2026-02-05,,layglezg@gmail.com,hermes.r.rodriguez@oracle.com,,,3
+38013,BNY,7396934,2025-11-14,,amir.anis.ahmad@gmail.com,sirisha.pratha@bny.com,2139711,coderepo,1
+397956,Uber,7576139,2026-01-09,,zhangkeer1997@gmail.com,jleitch@uber.com,2216190,coderepo,2
+397956,Uber,7712554,2026-02-02,,a.marcello92@gmail.com,jleitch@uber.com,2383665,fullstack,24667
+272667,Groupe Onepoint,7931045,2026-02-23,candidate,afdiouf@gmail.com,h.akakpo@groupeonepoint.com,,,2
+38841,Adobe Inc.,7781593,2026-01-30,,sandu.nicu94@gmail.com,apoke@adobe.com,2378803,fullstack,24667
+472729,,7762380,,,,ryan.chang@clay.com,2371025,fullstack,24667
+448712,Optiver Sandbox,7570103,2025-12-16,candidate,markperlman@optiver.us,jakescheinbart+sandbox@optiver.us,2315643,fullstack,5
+38013,BNY,7340738,,,aswini2702@gmail.com,dhwani.gadhia@bnymellon.com,1631553,fullstack,4
+123720,Blue Origin,7952128,2026-02-25,,pri.ppk@gmail.com,dadcock2@blueorigin.com,2395446,coderepo,3
+462673,Drivenets LTD,7884417,2026-02-16,,adikarol@gmail.com,akarolitsky@drivenets.com,,,9
+434628,Agoda,7064772,2025-09-22,,congliu0704@gmail.com,aleksey.galanov+alias@agoda.com,2210576,fullstack,9
+95641,DraftKings Inc,7001114,2025-09-10,,test@google.com,sselvaraj@draftkings.com,2189415,coderepo,2
+435124,,7667580,2026-01-12,candidate,dkim4@atlassian.com,dkim4+sandbox@atlassian.com,1720430,coderepo,2
+95641,DraftKings Inc,7592081,2026-01-09,,2fang.jeff@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,10
+95641,DraftKings Inc,7758736,2026-01-27,,heenaTheCandidate@hotmail.com,hsurve@draftkings.com,2182633,coderepo,4
+435124,,7626861,2026-01-05,,saumarah@atlassian.com,saumarah+sandbox@atlassian.com,1720430,coderepo,2
+457183,Amaris Consulting,7423961,2025-11-19,,trev+demo@hackerrank.com,eakakpo@amaris.com,843424,fullstack,1
+462673,Drivenets LTD,7859534,2026-02-16,Benny Lipsicas,benny@lipsicas.com,sfrieman@drivenets.com,,,25
+281885,Wayfair,7273547,2025-11-05,Saurav Kumar Agrawal,asaurav025@gmail.com,emox@wayfair.com,2187938,coderepo,12
+424048,Paxos,7135520,2025-10-07,,marcus.mok@paxos.com,marcus.mok@paxos.com,2220815,fullstack,4
+424048,Paxos,7868464,2026-02-13,John Tran,jtran0112@gmail.com,aruiz@paxos.com,2227684,fullstack,3
+405356,Uber Sandbox,7870358,2026-02-12,,sriramp@uber.com,sriramp+sandbox@uber.com,2275259,fullstack,1
+281885,Wayfair,7686458,2026-01-27,Diksha Godse,diikgodse@gmail.com,emato1@wayfair.com,1537785,fullstack,9
+424048,Paxos,7682694,2026-01-20,Gustavo Sena,gustavosena.work@gmail.com,aruiz@paxos.com,2227684,fullstack,3
+281885,Wayfair,7368136,2025-11-20,Sushma N,nsushma1030@gmail.com,emox@wayfair.com,2187938,coderepo,8
+424048,Paxos,7636182,2026-01-23,,mokmarcus@gmail.com,marcus.mok@paxos.com,2227684,fullstack,2
+424048,Paxos,7577463,2025-12-18,Mohamed Al Hammoud,alhammoud.moh@gmail.com,jperry@paxos.com,2227684,fullstack,6
+26633,Indeed,7960288,2026-02-26,,gopitest@gmail.com,gopinathamb@indeed.com,1720430,coderepo,3
+95641,DraftKings Inc,7102602,2025-09-26,,saravanan@draftkings.com,sselvaraj@draftkings.com,2182633,coderepo,3
+455843,,7341755,2025-11-06,,noreply@sample.com,alexandre.quintino@lightspeedhq.com,2257645,fullstack,17
+397390,Palo Alto Networks,7872593,2026-02-20,,snehal.gunjal11@gmail.com,roscott@paloaltonetworks.com,,,7
+435124,,7600108,2026-01-02,,,skinger+sandbox@atlassian.com,1730396,coderepo,1
+435124,,7600108,2026-01-02,candidate,skinger@atlassian.com,skinger+sandbox@atlassian.com,1730396,coderepo,1
+436430,Planning Center,7505390,2025-12-04,,geo@planningcenter.com,brian@planningcenter.com,2267174,fullstack,2
+95641,DraftKings Inc,6986388,2025-09-14,,hfsurve@hotmail.com,hsurve@draftkings.com,2182633,coderepo,1
+435124,,7646142,2026-01-08,candidate,alang@atlassian.com,alang+sandbox@atlassian.com,1730396,coderepo,6
+435124,,7761167,2026-01-28,,amiritis@atlassian.com,alang+sandbox@atlassian.com,1720430,coderepo,8
+426908,,7815755,2026-02-04,,test@trest.com,noel.sanchez@verifone.com,,,1
+37714,Walmart Global Tech Talent Acquisition,7900947,2026-02-25,Yang Hao,dudumicron11@gmail.com,achal.rastogi@walmart.com,2421673,fullstack,3
+424048,Paxos,7966120,2026-02-27,,mivanov@paxos.com,mivanov@paxos.com,2428069,fullstack,9
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,2421673,fullstack,2
+95641,DraftKings Inc,7416935,2025-11-21,,briandotgates@gmail.com,s.rosenthal@draftkings.com,2189415,coderepo,11
+397390,Palo Alto Networks,7571958,2025-12-16,,Franky@gmail.com,nzarns@paloaltonetworks.com,780897,fullstack,3
+95641,DraftKings Inc,7561637,2025-12-19,,kavyajalla139@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,10
+452940,Airbnb,7299752,2025-10-30,,foo@gad.com,s.faber+sandbox@airbnb.com,339724,fullstack,1
+456234,Qualtrics Sandbox,7671113,2026-01-13,,piotr.auguscik@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,4
+397956,Uber,7189002,2025-11-06,,a@mailinator.com,abhishek.bs@uber.com,2257509,coderepo,2
+123720,Blue Origin,7932570,2026-02-23,,arnavrajashekara2@gmail.com,jmerrill@blueorigin.com,1932540,fullstack,1
+458073,Affirm Sandbox,7409214,2025-11-17,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1488422,fullstack,1
+123720,Blue Origin,7711366,2026-01-20,candidate,danteedmonson@gmail.com,amcbrayer@blueorigin.com,,,1
+458073,Affirm Sandbox,7675300,2026-01-13,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,21
+38841,Adobe Inc.,7901265,2026-02-20,,lucian.rotariu@gmail.com,fratila@adobe.com,2408038,fullstack,3
+146325,Oracle Corporation,7768362,2026-01-28,,kuanlin.gary.liu@gmail.com,khoi.bui@oracle.com,1018859,fullstack,24667
+397956,Uber,7759299,2026-02-10,,yan12@alumni.stanford.edu,jleitch@uber.com,,,2
+146325,Oracle Corporation,7827923,2026-02-06,,gsakathmithra12@gmail.com,radhika.mukkera@oracle.com,,,2
+72050,Affirm,7778117,2026-01-29,,jzuluaga55@gmail.com,helen.gai@affirm.com,1384882,fullstack,24667
+38841,Adobe Inc.,7928962,2026-02-23,,davitv@adobe.com,sassound@adobe.com,2417312,fullstack,1
+146325,Oracle Corporation,7169896,2025-10-10,,prasad22cm@zohomail.in,chimalakonda.chaitanya@oracle.com,879017,fullstack,9
+146325,Oracle Corporation,7830581,2026-02-06,,frgonz03@gmail.com,logan.etherton@oracle.com,,,3
+38841,Adobe Inc.,7640621,2026-01-07,,muskan.kh09@gmail.com,rohisain@adobe.com,2265531,coderepo,1
+146325,Oracle Corporation,7884684,2026-02-17,,amey_tripathi@outlook.com,chisel.chavush@oracle.com,,,8
+459081,Federato.ai,7481944,2026-01-07,,josh.leitzel@federato.ai,antonio.cerna@federato.ai,2293666,fullstack,1
+397956,Uber,7774084,2026-02-18,,jimmy.lam@hotmail.com,jleitch@uber.com,2216190,coderepo,6
+366825,Adobe (Sandbox),7065509,2025-09-22,candidate,ddewanji@adobe.com,krizvi+sandbox@adobe.com,2212330,fullstack,2
+374431,Spotnana,7914287,2026-02-23,Kumuda Aggarwal,aggarwal.kumuda@gmail.com,kali@spotnana.com,,,2
+123720,Blue Origin,7759426,2026-01-27,,saad.kureshi@mail.mcgill.ca,amcbrayer@blueorigin.com,2271064,fullstack,1
+146325,Oracle Corporation,7953450,2026-02-25,candidate,rikgibson@mac.com,rik.gibson@oracle.com,,,1
+456234,Qualtrics Sandbox,7671456,2026-01-13,,mtrzop@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,4
+38841,Adobe Inc.,7773257,2026-02-02,,stancioiu.razvan@gmail.com,nstancioiu@adobe.com,,,13
+146325,Oracle Corporation,7723859,2026-01-22,,sankar.vi@northeastern.edu,khoi.bui@oracle.com,1040241,fullstack,1
+38013,BNY,7951086,2026-02-25,,eugene.grebennik@gmail.com,sirisha.pratha@bny.com,2139711,coderepo,2
+38841,Adobe Inc.,7795536,2026-02-02,candidate,asmitak83@gmail.com,athomson@adobe.com,2383921,fullstack,24668
+397956,Uber,7701356,2026-02-02,,bgbharath722@gmail.com,jleitch@uber.com,2382635,fullstack,24667
+146325,Oracle Corporation,7812363,2026-02-04,,jasmin.bedi@oracle.com,chisel.chavush@oracle.com,,,9
+146325,Oracle Corporation,7812363,2026-02-04,,thomas.massey@oracle.com,chisel.chavush@oracle.com,,,9
+459081,Federato.ai,7796575,2026-02-05,,leahofrivendell@gmail.com,antonio.cerna@federato.ai,2293666,fullstack,1
+397956,Uber,7758967,2026-02-27,,judykangsh@gmail.com,jleitch@uber.com,,,1
+38841,Adobe Inc.,7776481,2026-01-29,,tom.lei.wang@temple.edu,feiw@adobe.com,2213409,fullstack,24667
+397956,Uber,7671209,2026-01-28,,shrey.ghildiyal314@gmail.com,jleitch@uber.com,2257509,coderepo,6
+123720,Blue Origin,7879179,2026-02-13,,ghinamo@hotmail.com,akim3@blueorigin.com,,,3
+38841,Adobe Inc.,7861762,2026-02-11,candidate,maryhipprogers@gmail.com,maryr@adobe.com,,,1
+123720,Blue Origin,7822187,2026-02-05,,saileshr2209@gmail.com,rbhat@blueorigin.com,,,3
+146325,Oracle Corporation,7884698,2026-02-17,,willturner05@icloud.com,chisel.chavush@oracle.com,,,1
+397956,Uber,7615811,2026-01-12,,sundeep1405@gmail.com,jleitch@uber.com,2216190,coderepo,35
+146325,Oracle Corporation,7875601,2026-02-18,Mohamed Shariff,aamirs291@gmail.com,marcus.fallen@oracle.com,,,4
+456234,Qualtrics Sandbox,7663506,2026-01-12,,kwiecek@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,4
+146325,Oracle Corporation,7909803,2026-02-23,,rene.carballo@oracle.com,robin.k.king@oracle.com,,,1
+38841,Adobe Inc.,7901265,2026-02-20,,lucian.rotariu@gmail.com,fratila@adobe.com,,,2
+38841,Adobe Inc.,7925023,2026-02-23,,mels.vagharshyandev@gmail.com,sassound@adobe.com,2417312,fullstack,2
+397956,Uber,7753770,2026-02-02,,shreeratn939@gmail.com,jleitch@uber.com,2383190,fullstack,24667
+397956,Uber,7712490,2026-02-05,,akshatshah1710@gmail.com,jleitch@uber.com,,,5
+146325,Oracle Corporation,7919728,2026-02-20,,yindonghua@hotmail.com,jeremy.yin@oracle.com,,,1
+123720,Blue Origin,7887749,2026-02-16,,john.geddes2019@gmail.com,akim3@blueorigin.com,,,7
+146325,Oracle Corporation,7953250,2026-02-25,Rik Gibson,rikgibson@mac.com,rik.gibson@oracle.com,,,1
+146325,Oracle Corporation,7953250,2026-02-25,Rik,,rik.gibson@oracle.com,,,1
+397956,Uber,7804856,2026-02-25,,rbasired@gmail.com,jleitch@uber.com,2216190,coderepo,6
+146325,Oracle Corporation,7719356,2026-01-28,,theericfrosteric@gmail.com,kaia.hunter@oracle.com,2377052,fullstack,24667
+146325,Oracle Corporation,7730064,2026-01-22,,ngidwani@alumni.cmu.edu,johnny.vu@oracle.com,1788645,fullstack,1
+412566,Wayfair Sandbox,7710824,2026-01-21,,candidate@gmail.com,greales@wayfaircareers.com,,,1
+397956,Uber,7661185,2026-01-20,,suryaprakash.mallipamula@gmail.com,jleitch@uber.com,2359179,fullstack,13
+38841,Adobe Inc.,7921978,2026-02-20,,gregory.s.howe@gmail.com,feiw@adobe.com,2416301,fullstack,5
+38841,Adobe Inc.,7915217,2026-02-20,candidate,Shobhitsss86@gmail.com,vdua@adobe.com,,,1
+397956,Uber,7815714,2026-02-19,,zheshen0628@gmail.com,jleitch@uber.com,,,5
+397956,Uber,7681780,2026-01-27,,me@juanlopes.net,jleitch@uber.com,2216190,coderepo,2
+456234,Qualtrics Sandbox,7663521,2026-01-12,,kpatko@qualtrics.com,pauguscik+sandbox@qualtrics.com,,,3
+459081,Federato.ai,7779456,2026-02-03,,shayanimam99@gmail.com,antonio.cerna@federato.ai,2293666,fullstack,7
+366825,Adobe (Sandbox),7066663,2025-09-22,,,krizvi+sandbox@adobe.com,2212330,fullstack,1
+366825,Adobe (Sandbox),7066663,2025-09-22,candidate,anubtrip@adobe.com,krizvi+sandbox@adobe.com,2212330,fullstack,1
+397956,Uber,7543086,2025-12-18,,dhandu1995@gmail.com,jleitch@uber.com,2216190,coderepo,13
+397956,Uber,7876848,2026-02-20,,abhishek.shrotri@gmail.com,jleitch@uber.com,,,1
+397956,Uber,7436743,2025-11-27,,sundar.g12@gmail.com,jleitch@uber.com,2289105,fullstack,1
+458073,Affirm Sandbox,7661361,2026-01-11,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,6
+38841,Adobe Inc.,7830942,2026-02-06,,dshantanu5515@gmail.com,mereddy@adobe.com,2388858,fullstack,1
+146325,Oracle Corporation,7710093,2026-01-20,,hitenreddykambam@gmail.com,khoi.bui@oracle.com,1040241,fullstack,1
+424048,Paxos,7682655,2026-01-20,Martin Irman,martin.irman@outlook.com,aruiz@paxos.com,2227684,fullstack,3
+424048,Paxos,7943909,2026-02-26,Praneeth Gunasekaran,inboxpraneeth@gmail.com,aruiz@paxos.com,2227684,fullstack,8
+146325,Oracle Corporation,7807063,2026-02-03,,pratap.pachi@gmail.com,khoi.bui@oracle.com,,,3
+146325,Oracle Corporation,7876116,2026-02-13,Ric Ambridge,richard.ambridge@oracle.com,marcus.fallen@oracle.com,,,5
+458073,Affirm Sandbox,7405134,2025-11-17,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,898652,fullstack,1
+38841,Adobe Inc.,7918681,2026-02-20,Lena Whitmore,lena.whitmore@gmail.com,hbabayan@adobe.com,2205829,fullstack,1
+186995,Cisco Sandbox,7034955,2025-09-16,,john+ciscosandbox@hackerrank.com,john+ciscosandbox@hackerrank.com,1932878,fullstack,1
+448712,Optiver Sandbox,7546193,2025-12-11,candidate,jakescheinbart@optiver.us,jakescheinbart+sandbox@optiver.us,2315643,fullstack,16
+448712,Optiver Sandbox,7546193,2025-12-11,,,jakescheinbart+sandbox@optiver.us,2315643,fullstack,16
+146325,Oracle Corporation,7418456,2025-11-19,,akasham975@gmail.com,chimalakonda.chaitanya@oracle.com,1804614,fullstack,3
+146325,Oracle Corporation,7500681,2025-12-11,,balajisoundaraj@gmail.com,dhanush.reddy@oracle.com,843154,fullstack,1
+397956,Uber,7172301,2025-10-15,,singhsanghmitra24@gmail.com,jleitch@uber.com,2231634,fullstack,4
+397956,Uber,7757915,2026-02-02,,bprogyan@gmail.com,jleitch@uber.com,2382256,fullstack,24667
+458073,Affirm Sandbox,7416073,2025-11-18,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,2275896,fullstack,1
+146325,Oracle Corporation,7747358,,,kan.liang.leon@gmail.com,emileigh.suydam@oracle.com,2374776,fullstack,24667
+397956,Uber,7711377,2026-02-02,,ricardo.kojo.dev@gmail.com,jleitch@uber.com,2383727,fullstack,24672
+472729,,7862305,2026-02-11,,larryruili@gmail.com,brett.fischler+sandbox@clay.com,2371025,fullstack,8
+458073,Affirm Sandbox,7409214,2025-11-17,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1923344,fullstack,1
+455843,,7326942,2025-11-04,,alexandre.quintino@lightspeedhq.com,alexandre.quintino@lightspeedhq.com,2257645,fullstack,2
+405356,Uber Sandbox,7854451,2026-02-10,,sriramp@uber.com,sriramp+sandbox@uber.com,2274970,fullstack,4
+95641,DraftKings Inc,7774361,2026-02-04,,kovmar96@gmail.com,a.stoilova@draftkings.com,2182633,coderepo,5
+459346,Zenika,7949793,2026-02-25,,hamza.elkar93@gmail.com,maxime.sautereau@zenika.com,2391349,fullstack,5
+462673,Drivenets LTD,7924942,2026-02-26,Valery Sigal ,valery.sig1@gmail.com,sfrieman@drivenets.com,,,17
+397390,Palo Alto Networks,7859661,2026-02-11,,frank@gmail.com,nzarns@paloaltonetworks.com,2400327,fullstack,2
+26633,Indeed,7819069,2026-02-05,,akgoryan@indeed.com,gopinathamb@indeed.com,2358674,fullstack,8
+462673,Drivenets LTD,7884516,2026-02-16,,achinn@drivenets.com,achinn@drivenets.com,,,13
+435124,,7769825,2026-01-29,candidate,afabbiani@atlassian.com,msayed2+sandbox@atlassian.com,1720430,coderepo,2
+435124,,7779095,2026-01-30,,crupani@atlassian.com,skinger+sandbox@atlassian.com,1730396,coderepo,24674
+435124,,7750690,2026-01-26,VW,vwong3@atlassian.com,woyediran+sandbox@atlassian.com,1720430,coderepo,10
+95641,DraftKings Inc,7404595,2025-11-24,,harinichadalavada@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,4
+37714,Walmart Global Tech Talent Acquisition,7951841,2026-02-27,,allending313@gmail.com,karlie.woodland@walmart.com,2428842,fullstack,2
+435124,,7632804,2026-01-06,candidate,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,20
+434628,Agoda,7549048,2025-12-12,,mhtbnwl@gmail.com,aleksey.galanov+alias@agoda.com,2266338,fullstack,2
+424048,Paxos,7524520,2025-12-12,Sarvdeep Singh Bindra,sarvdeepsingh9225@gmail.com,jperry@paxos.com,2227684,fullstack,3
+397390,Palo Alto Networks,7844536,2026-02-10,,nivedithamp23@gmail.com,lpammina@paloaltonetworks.com,2397301,fullstack,1
+397390,Palo Alto Networks,7968250,2026-02-27,,sanket_edu@hotmail.com,lpammina@paloaltonetworks.com,2428613,fullstack,7
+452940,Airbnb,7259302,2025-10-24,,aishwarya.iyer@hackerrank.com,aishwarya.iyer+airbnb@hackerrank.com,1720430,coderepo,1
+448712,Optiver Sandbox,7562068,2025-12-15,candidate,addisonchan@optiver.us,jakescheinbart+sandbox@optiver.us,2315643,fullstack,6
+38841,Adobe Inc.,7770542,2026-01-29,Robin,robinvarshn@adobe.com,vvenkata@adobe.com,2131844,fullstack,24667
+397956,Uber,7493436,2025-12-15,,nilayghodasara15@gmail.com,jleitch@uber.com,2319330,fullstack,1
+459081,Federato.ai,7862938,2026-02-17,,tjberreth@gmail.com,antonio.cerna@federato.ai,2341787,fullstack,1
+397956,Uber,7453594,2025-12-09,,pavanteja@outlook.com,jleitch@uber.com,2310308,fullstack,1
+38841,Adobe Inc.,7839387,2026-02-09,,stancioiu.razvan@gmai.com,nstancioiu@adobe.com,2385632,fullstack,2
+38841,Adobe Inc.,7864944,2026-02-12,Syeda Kazmi-Shah,smk365@cornell.edu,akramer@adobe.com,2347655,fullstack,1
+463502,DeepL,7598328,2025-12-22,,nikita.fidirko+cand@deepl.com,nikita.fidirko@deepl.com,1804746,fullstack,1
+266391,Expedia Sandbox,7351788,2025-11-07,,bob@gmail.com,travivarma@expediagroup.com,1894902,coderepo,2
+472729,,7929846,2026-02-23,,furqankassa2020@gmail.com,brett.fischler+sandbox@clay.com,2371025,fullstack,8
+72050,Affirm,7776394,2026-01-29,,mehmet.gencol@blue.cloud,helen.gai@affirm.com,1672308,fullstack,24667
+472729,,7814790,2026-02-04,,matthew.quan@clay.com,brett.fischler+sandbox@clay.com,2371025,fullstack,4
+397956,Uber,7854851,2026-02-24,,luxiaolei0412@gmail.com,jleitch@uber.com,,,2
+397956,Uber,7905512,2026-02-24,,grebelskimario@gmail.com,jleitch@uber.com,,,27
+397956,Uber,7728021,2026-02-09,,richa.basak@gmail.com,jleitch@uber.com,,,6
+38013,BNY,7125733,2025-10-01,,bp@geekdom.net,sirisha.pratha@bny.com,2139711,coderepo,4
+397956,Uber,6895348,2025-08-22,,susmita31prakash@gmail.com,kfarhe@ext.uber.com,2216172,fullstack,3
+123720,Blue Origin,7585415,2025-12-18,,,kmoon@blueorigin.com,2326273,fullstack,1
+123720,Blue Origin,7585415,2025-12-18,candidate,kmoon@blueorigin.com,kmoon@blueorigin.com,2326273,fullstack,1
+91434,OpenAI ,7417095,2025-11-18,candidate,charlie.tong@openai.com,guillaume@openai.com,2275876,fullstack,2
+131682,AlphaSense,7044405,2025-09-17,,lapointe683@gmail.com,mlapointe@alpha-sense.com,1998688,fullstack,2
+459081,Federato.ai,7862877,2026-02-18,,robinsjm2@gmail.com,antonio.cerna@federato.ai,2293666,fullstack,1
+397956,Uber,7662596,2026-01-28,,ashendrabansal@gmail.com,jleitch@uber.com,2216190,coderepo,20
+435124,,7666502,2026-01-16,,woyediran@atlassian.com,woyediran+sandbox@atlassian.com,1720430,coderepo,3
+281885,Wayfair,7190992,2025-10-13,,billy.mosse@gmail.com,gmosse@wayfair.com,1730396,coderepo,1
+26633,Indeed,7801947,2026-02-03,,akgoryan@indeed.com,gopinathamb@indeed.com,2358674,fullstack,5
+405356,Uber Sandbox,7863284,2026-02-11,,sriramp@uber.com,sriramp+sandbox@uber.com,2294852,fullstack,4
+95641,DraftKings Inc,7172934,2025-10-23,,ssaberan96@gmail.com,s.rosenthal@draftkings.com,2189415,coderepo,8
+266391,Expedia Sandbox,7718878,2026-01-21,,bob@gmail.com,travivarma@expediagroup.com,1730406,coderepo,2
+397956,Uber,7687594,2026-02-02,,chenzeng0112@gmail.com,jleitch@uber.com,2383655,fullstack,24667
+38841,Adobe Inc.,7493402,2025-12-11,Fahad,f.shafq575@gmaill.com,vvenkata@adobe.com,2131844,fullstack,15
+458073,Affirm Sandbox,7416167,2025-11-18,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,2275896,fullstack,3
+374431,Spotnana,7901455,2026-02-25,,shilpamarakumbi@gmail.com,dmathew@spotnana.com,1959743,fullstack,1
+38841,Adobe Inc.,7805018,2026-02-03,,itsArminM@gmail.com,goda@adobe.com,2351992,fullstack,1
+397956,Uber,7756592,2026-01-28,,akhisai4322@gmail.com,jleitch@uber.com,2372170,fullstack,7
+456234,Qualtrics Sandbox,7671456,2026-01-13,,mtrzop@qualtrics.com,pauguscik+sandbox@qualtrics.com,1783584,coderepo,1
+397956,Uber,7306468,2025-11-03,,ekansh.baweja@gmail.com,jleitch@uber.com,2255347,fullstack,2
+38013,BNY,7900269,2026-02-18,,test@test.com,diego.barros@bny.com,2395446,coderepo,3
+389834,Trust Wallet,7774003,2026-02-02,Mingda Hong,mingdahong.1@gmail.com,ying.cao@trustwallet.com,2383156,fullstack,24667
+456234,Qualtrics Sandbox,7663506,2026-01-12,,kwiecek@qualtrics.com,pauguscik+sandbox@qualtrics.com,1783584,coderepo,3
+38841,Adobe Inc.,7782890,2026-01-30,,irina.nica00@gmail.com,ltrusca@adobe.com,2379729,fullstack,24667
+472729,,7765515,2026-01-28,,candidate@gmail.com,ryan.chang@clay.com,2371025,fullstack,24675
+71110,UPS,7818905,2026-02-05,candidate,bhabekotte@ups.com,cbirch@ups.com,1463453,fullstack,1
+37714,Walmart Global Tech Talent Acquisition,7940058,2026-02-26,,yehuaz.work@gmail.com,angelo.tan@walmart.com,1783584,coderepo,9
+37714,Walmart Global Tech Talent Acquisition,7962568,2026-02-28,Alex Hu,alexhu831@gmail.com,achal.rastogi@walmart.com,2421720,fullstack,3
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,2421747,fullstack,10
+424048,Paxos,7175034,2025-10-09,,llim@paxos.com,jamicangelo@paxos.com,2227684,fullstack,2
+424048,Paxos,7423324,2025-11-20,Vlad Hadzhiyski,vlad@hadzhiyski.com,jperry@paxos.com,2227684,fullstack,3
+435124,,7638029,2026-01-06,candidate,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,8
+435124,,7638514,2026-01-06,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,8
+435124,,7654365,2026-01-09,candidate,msayed2@atlassian.com,msayed2+sandbox@atlassian.com,1783584,coderepo,5
+405356,Uber Sandbox,7870358,2026-02-12,,sriramp@uber.com,sriramp+sandbox@uber.com,2303168,fullstack,1
+435124,,7705477,2026-01-20,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,6
+424048,Paxos,7681948,2026-01-15,Ben Finkelstein,benfink@umich.edu,aruiz@paxos.com,2227684,fullstack,8
+424048,Paxos,7786900,2026-02-03,David Yu,work@davyu.me,aruiz@paxos.com,2227684,fullstack,1
+426908,,7821036,2026-02-05,,sean.mcnealy@gmail.com,noel.sanchez@verifone.com,,,6
+462673,Drivenets LTD,7856872,2026-02-18,,msemrik@gmail.com,sfrieman@drivenets.com,,,22
+37714,Walmart Global Tech Talent Acquisition,7962568,2026-02-28,Alex Hu,alexhu831@gmail.com,achal.rastogi@walmart.com,2421673,fullstack,7
+397390,Palo Alto Networks,7914125,2026-02-20,,harsha@panw.com,kdeo@paloaltonetworks.com,,,1
+26633,Indeed,7763734,2026-01-28,,abc@gmail.com,gopinathamb@indeed.com,2358674,fullstack,24676
+37714,Walmart Global Tech Talent Acquisition,7932215,2026-02-25,Roozbeh Zabihollahi,ruzbeh@gmail.com,achal.rastogi@walmart.com,2421673,fullstack,2
+26633,Indeed,7764001,2026-01-28,,askumar@indeed.com,gopinathamb@indeed.com,2358674,fullstack,6
+462673,Drivenets LTD,7927149,2026-02-24,,eliyahumd@walla.co.il,sfrieman@drivenets.com,,,5
+95641,DraftKings Inc,7326583,2025-11-05,,dhvogel2468@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,23
+148813,Quadrature Capital,7764048,2026-01-28,candidate,kristof@quadrature.ai,emily@quadrature.ai,,,4
+50229,Coupang,7801553,2026-02-09,,ausgoo@gmail.com,yuliu@coupang.com,,,1
+458073,Affirm Sandbox,7669530,2026-01-13,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,7
+397956,Uber,7888483,2026-02-20,,arulyanasokan@gmail.com,jleitch@uber.com,2415023,fullstack,1
+458073,Affirm Sandbox,7400337,2025-11-16,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1957048,fullstack,2
+72050,Affirm,7775366,2026-01-29,Felipe Rojas,felipe.rojas@gorillalogic.com,jake.gilfix@affirm.com,1672310,fullstack,24667
+458073,Affirm Sandbox,7672616,2026-01-13,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,1
+397956,Uber,7565183,2025-12-18,,shyambhavi@uber.com,jleitch@uber.com,2326640,fullstack,10
+367269,NBCSportsNext,7798682,2026-02-02,,gabrielamare.work01@gmail.com,vchen@versantmedia.com,2372040,fullstack,24667
+405356,Uber Sandbox,7870358,2026-02-12,,sriramp@uber.com,sriramp+sandbox@uber.com,2294852,fullstack,9
+95641,DraftKings Inc,7462567,2025-11-26,,sselvaraj@draftkings.com,sselvaraj@draftkings.com,2182633,coderepo,2
+37714,Walmart Global Tech Talent Acquisition,7942482,2026-02-26,Raveena Deolankar,raveenadeolankarwork@gmail.com,achal.rastogi@walmart.com,2421673,fullstack,1
+95641,DraftKings Inc,7440386,2025-12-04,,pjcfifa@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,6
+95641,DraftKings Inc,7074167,2025-09-23,,slavskymark@gmail.com,hsurve@draftkings.com,2182633,coderepo,12
+459346,Zenika,7948815,2026-02-25,,oumardieng91@hotmail.fr,maxime.sautereau@zenika.com,2391349,fullstack,1
+95641,DraftKings Inc,7830767,2026-02-18,,a.mughal@draftkings.com,hsurve@draftkings.com,2182633,coderepo,2
+397390,Palo Alto Networks,7858484,2026-02-11,,canddaite@gmail.com,nzarns@paloaltonetworks.com,2400313,fullstack,2
+95641,DraftKings Inc,7284988,2025-11-03,,darshanrambhia@live.com,s.rosenthal@draftkings.com,2220009,coderepo,15
+95641,DraftKings Inc,7638781,2026-01-13,,vivianzhao356@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,5
+95641,DraftKings Inc,7398226,2025-11-21,,ks782@cornell.edu,s.rosenthal@draftkings.com,2220009,coderepo,9
+367269,NBCSportsNext,7796887,2026-02-02,Xavier Richt,xavierritch@gmail.com,vchen@versantmedia.com,2372040,fullstack,24667
+435124,,7779918,2026-01-30,,sbhagat2@atlassian.com,skinger+sandbox@atlassian.com,1730396,coderepo,24673
+405356,Uber Sandbox,7802538,2026-02-03,,ankurkakroo2@gmail.com,jleitch+sandbox@uber.com,2274970,fullstack,2
+473375,,7871548,2026-02-12,,evansjs09@gmail.com,jeremy.evans@usp.org,2400523,fullstack,6
+450009,SiteMinder,7799521,2026-02-03,candidate,kishen.rajan@siteminder.com,ravi.undupitiya@siteminder.com,2248962,fullstack,24667
+37714,Walmart Global Tech Talent Acquisition,7922246,2026-02-24,Erich Staehling,Erich.Staehling@walmart.com,achal.rastogi@walmart.com,2421711,fullstack,3
+397956,Uber,7889762,2026-02-18,,yrathi66@gmail.com,jleitch@uber.com,,,2
+146325,Oracle Corporation,7433268,2025-11-21,,jugalpanchal@gmail.com,khoi.bui@oracle.com,1018859,fullstack,15
+123720,Blue Origin,7784560,2026-01-30,,alokjainemail@gmail.com,ddupre2@blueorigin.com,,,3
+146325,Oracle Corporation,7408068,2025-11-17,,gajulam@gmail.com,khoi.bui@oracle.com,1018859,fullstack,1
+123720,Blue Origin,7969445,2026-02-27,candidate,paul@personalspacehub.com,amcbrayer@blueorigin.com,,,7
+397956,Uber,7773983,2026-02-03,,ayushmalewar@gmail.com,jleitch@uber.com,2216190,coderepo,6
+146325,Oracle Corporation,7884699,2026-02-17,,noahdanielbellamy@gmail.com,chisel.chavush@oracle.com,,,1
+397956,Uber,7874593,2026-02-14,,ashishkrish005@gmail.com,pshett9@ext.uber.com,,,2
+146325,Oracle Corporation,7680877,2026-01-14,,KRUSHNARANA@YAHOO.COM,khoi.bui@oracle.com,1018859,fullstack,1
+50229,Coupang,7634041,2026-01-07,,duwenfangcn@163.com,ashley.chen@coupang.com,2340830,fullstack,3
+458073,Affirm Sandbox,7457013,2025-11-25,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1720430,coderepo,1
+38841,Adobe Inc.,7898213,2026-02-18,,vinit3412@gmail.com,sas@adobe.com,,,1
+272667,Groupe Onepoint,7877175,2026-02-13,,l.leprestre@groupeonepoint.com,h.akakpo@groupeonepoint.com,1508766,fullstack,1
+146325,Oracle Corporation,7541932,2025-12-11,,pritishaw2018@gmail.com,gaurav.sinha@oracle.com,2103804,fullstack,1
+38841,Adobe Inc.,7861902,2026-02-11,candidate,maryhipprogers@gmail.com,maryr@adobe.com,,,1
+458073,Affirm Sandbox,7577047,2025-12-17,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,5
+38013,BNY,7859385,2026-02-11,,clmisce@gmail.com,sirisha.pratha@bny.com,2139711,coderepo,1
+397956,Uber,7325334,2025-11-04,,hackerrankuser@hackerrank.com,jleitch@uber.com,2257509,coderepo,3
+72050,Affirm,7778117,2026-01-29,,jzuluaga55@gmail.com,helen.gai@affirm.com,1672308,fullstack,24667
+72050,Affirm,7779190,2026-01-30,,test_generated_078a567666c241e2a7a76630492d89ea@affirm.com,helen.gai@affirm.com,1672308,fullstack,24667
+424048,Paxos,7821580,2026-02-06,Harrison Tarr,harrison.andrew.t@gmail.com,aruiz@paxos.com,2227684,fullstack,2
+281885,Wayfair,7178809,2025-10-12,,rushangdhanesha@gmail.com,rdhanesha@wayfair.com,2187938,coderepo,7
+435124,,7638379,2026-01-06,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,3
+281885,Wayfair,7472844,2025-12-01,Lakshminarasimha Swami,lakshminarasimha.malireddy@gmail.com,emox@wayfair.com,2187938,coderepo,12
+424048,Paxos,7760635,2026-02-13,Florie Cai,floriecai@hotmail.com,aruiz@paxos.com,2227684,fullstack,3
+435124,,7652462,2026-01-09,candidate,msayed2@atlassian.com,msayed2+sandbox@atlassian.com,1783584,coderepo,3
+424048,Paxos,7480718,2025-12-05,Vinit Shah,vinit.shah266@gmail.com,jperry@paxos.com,2227684,fullstack,9
+434628,Agoda,7366206,2025-12-08,,guntur.virgenius@gmail.com,aleksey.galanov+alias@agoda.com,2262734,fullstack,9
+424048,Paxos,7940369,2026-02-25,Guillermo Ramos Macias,guillermoramos330179@gmail.com,aruiz@paxos.com,2227684,fullstack,3
+424048,Paxos,7854378,2026-02-12,Daniel Tisdall,danwt.professional@gmail.com,jperry@paxos.com,2227684,fullstack,4
+37714,Walmart Global Tech Talent Acquisition,7901376,2026-02-27,Kushal Juneja,Kushal.Juneja@walmart.com,achal.rastogi@walmart.com,2421725,fullstack,3
+281885,Wayfair,7828442,2026-02-11,,anchalpandeyapd@gmail.com,nkhan4@wayfair.com,2187938,coderepo,14
+424048,Paxos,7783277,2026-02-04,Nathan Arnold,nathan@nathanarnold.co.uk,aruiz@paxos.com,2227684,fullstack,3
+435124,,7770996,2026-01-29,,fkarim@atlassian.com,skinger+sandbox@atlassian.com,1719359,coderepo,24675
+424048,Paxos,7851877,2026-02-11,Antonio Pancorbo,antonio.pancorbo.me@gmail.com,jperry@paxos.com,2227684,fullstack,2
+424048,Paxos,7761778,2026-02-05,Christopher Baek,christopherbaek@gmail.com,aruiz@paxos.com,2227684,fullstack,3
+405356,Uber Sandbox,7864711,2026-02-12,,candidate@gmail.com,sriramp+sandbox@uber.com,2303168,fullstack,5
+281885,Wayfair,7331163,2025-11-06,Shivam Pandey,shivamanticipator00077@gmail.com,emox@wayfair.com,2187938,coderepo,5
+424048,Paxos,7563296,2026-01-05,Samuel Ip,sam.qj.ip@gmail.com,jperry@paxos.com,2227684,fullstack,3
+435124,,7699882,2026-01-18,Kube,msayed2@atlassian.com,msayed2+sandbox@atlassian.com,1783584,coderepo,35
+435124,,7699882,2026-01-18,,,msayed2+sandbox@atlassian.com,1783584,coderepo,35
+424048,Paxos,7552731,2025-12-15,Trisha Cox,trishacox+jobs@gmail.com,jperry@paxos.com,2227684,fullstack,3
+435124,,7671527,2026-01-13,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,6
+281885,Wayfair,7191052,2025-10-31,Yash Mehrotra,yashmehrotra97@gmail.com,emox@wayfair.com,2187938,coderepo,3
+424048,Paxos,7868530,2026-02-24,Kevin Wang,kevinwang1998@hotmail.com,aruiz@paxos.com,2227684,fullstack,6
+424048,Paxos,7737201,2026-01-30,Aram Drambyan,ardrambyan@gmail.com,aruiz@paxos.com,2227684,fullstack,24670
+424048,Paxos,7447838,2025-11-24,,ifernandes@paxos.com,aditya.hurry@paxos.com,2227684,fullstack,4
+424048,Paxos,7675468,2026-01-16,Khushpreet Singh,singh.khushpreet18@gmail.com,aruiz@paxos.com,2227684,fullstack,4
+424048,Paxos,7950164,2026-02-27,Vincent Au,vincent.au.sensei@gmail.com,aruiz@paxos.com,2227684,fullstack,2
+424048,Paxos,7577422,2025-12-18,Sabrish Kumar Pradeep Kumar,sabrishpradeepkumar@gmail.com,jperry@paxos.com,2227684,fullstack,2
+397390,Palo Alto Networks,7784023,2026-02-02,,ankit.agar299@gmail.com,mbabish@paloaltonetworks.com,2383648,fullstack,24667
+462673,Drivenets LTD,7884037,2026-02-18,Aviad Schiffmann,schiffmann.aviad@gmail.com,sfrieman@drivenets.com,,,14
+26633,Indeed,7494809,2025-12-03,,gopi@mail.com,gopinathamb@indeed.com,2265531,coderepo,2
+426908,,7814799,2026-02-04,,Raghavendra.ShettyK@VERIFONE.com,noel.sanchez@verifone.com,,,7
+95641,DraftKings Inc,7649395,2026-01-12,,stephengreenfield@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,7
+95641,DraftKings Inc,7156170,2025-10-15,,aarontaberjobs@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,9
+435124,,7770397,2026-01-30,candidate,aperera@atlassian.com,msayed2+sandbox@atlassian.com,1720430,coderepo,4
+459346,Zenika,7965926,2026-02-27,,caninaam@gmail.com,claudine.lafine@zenika.com,1397257,fullstack,1
+452940,Airbnb,7301752,2025-10-30,,asdf@ac.com,s.faber+sandbox@airbnb.com,335450,fullstack,2
+435124,,7637526,2026-01-07,,woyediran@atlassian.com,woyediran+sandbox@atlassian.com,1720430,coderepo,2
+37714,Walmart Global Tech Talent Acquisition,7901376,2026-02-27,Kushal Juneja,Kushal.Juneja@walmart.com,achal.rastogi@walmart.com,2421673,fullstack,1
+397390,Palo Alto Networks,7859855,2026-02-11,,candidate@gmail.com,nzarns@paloaltonetworks.com,2400327,fullstack,4
+281885,Wayfair,7746060,2026-01-28,Sean Colsen,colsen.sean@gmail.com,emato1@wayfair.com,1732928,fullstack,2
+434628,Agoda,7048146,2025-09-18,,raghavendra.harapanahalli@agoda.com,aleksey.galanov+alias@agoda.com,2210576,fullstack,8
+397390,Palo Alto Networks,7858596,2026-02-11,,candidate@gmail.com,nzarns@paloaltonetworks.com,2400327,fullstack,1
+407497,"Mesh Connect, Inc.",7903951,2026-02-18,,balint@balint.com,jeff.shomali@meshconnect.com,1425808,fullstack,1
+26633,Indeed,7494077,2025-12-03,,gopi@mail.com,gopinathamb@indeed.com,2265531,coderepo,2
+397390,Palo Alto Networks,7878746,2026-02-13,,tony@gmail.com,nzarns@paloaltonetworks.com,2400327,fullstack,1
+462673,Drivenets LTD,7882449,2026-02-18,Amit Shmuelevitz,amit1shmu@gmail.com,sfrieman@drivenets.com,,,22
+436430,Planning Center,7960773,2026-02-26,Kevin,kevin@planningcenter.com,geo@planningcenter.com,2271969,fullstack,5
+462673,Drivenets LTD,7925000,2026-02-25,Orel Balilti,orel.balilti@gmail.com,sfrieman@drivenets.com,,,18
+435124,,7777474,2026-01-29,,tanziano@atlassian.com,skinger+sandbox@atlassian.com,1719359,coderepo,24671
+281885,Wayfair,7293561,2025-10-29,,isingh2@wayfair.com,isingh2@wayfair.com,2187938,coderepo,2
+424048,Paxos,7760663,2026-02-06,Philip Liu,hellophilipliu@gmail.com,aruiz@paxos.com,2227684,fullstack,1
+212384,Rippling,6992880,2025-09-09,,adamdangoor@gmail.com,adam.dangoor@rippling.com,838284,fullstack,3
+26633,Indeed,7493467,2025-12-03,,gopinathamb@indeed.com,gopinathamb@indeed.com,2265531,coderepo,3
+281885,Wayfair,7891727,2026-02-19,Steven Gadman,sgadman@proton.me,emato1@wayfair.com,1732928,fullstack,2
+263506,Goldman Sachs Sandbox,7941083,2026-02-24,,rv@hackerrank.com,trev+goldmansandbox@hackerrank.com,,,1
+95641,DraftKings Inc,7554412,2025-12-19,,veselyev@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,4
+95641,DraftKings Inc,7481616,2025-12-08,,kenjim98@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,18
+95641,DraftKings Inc,7255820,2025-10-28,,erosgulo@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,5
+95641,DraftKings Inc,7306495,2025-10-31,,saravanan.mymail@gmail.com,sselvaraj@draftkings.com,2182633,coderepo,5
+462673,Drivenets LTD,7884587,2026-02-16,,adikarol@gmail.com,akarolitsky@drivenets.com,,,5
+95641,DraftKings Inc,7512158,2025-12-11,,sai.tavva54@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,15
+397390,Palo Alto Networks,7916615,2026-02-27,,thinh.manh1993@gmail.com,savlee@paloaltonetworks.com,,,2
+397390,Palo Alto Networks,7836300,2026-02-23,,ramaraju.mup@gmail.com,savlee@paloaltonetworks.com,,,2
+435124,,7688914,2026-01-15,,skinger@atlassian.com,skinger+sandbox@atlassian.com,1730396,coderepo,2
+435124,,7770170,2026-01-29,,sleatherdale@atlassian.com,skinger+sandbox@atlassian.com,1730396,coderepo,24674
+95641,DraftKings Inc,7592561,2026-01-05,,rnatou12@gmail.com,s.rosenthal@draftkings.com,2220009,coderepo,4
+412566,Wayfair Sandbox,7765139,2026-01-28,,candidate@gmail.com,greales@wayfaircareers.com,,,6
+123720,Blue Origin,7832710,2026-02-06,,plmalone@protonmail.com,rbhat@blueorigin.com,,,1
+123720,Blue Origin,7689888,2026-01-15,,kmoon@blueorigin.com,kmoon@blueorigin.com,2326273,fullstack,3
+38841,Adobe Inc.,7888622,2026-02-17,,sandhyaskarla14@gmail.com,sas@adobe.com,,,12
+146325,Oracle Corporation,7075217,2025-09-29,,geek.bhuvnesh@gmail.com,dhanush.reddy@oracle.com,2221819,fullstack,1
+123720,Blue Origin,7822752,2026-02-05,,themichellexlin@gmail.com,mfoss@blueorigin.com,,,11
+458073,Affirm Sandbox,7523760,2025-12-08,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1730396,coderepo,3
+38013,BNY,7860667,2026-02-13,Haripal Reddy Minukuri ,haripalminukuri@gmail.com,ben.grant@bny.com,2139711,coderepo,1
+72050,Affirm,7829005,2026-02-06,,michal.barelkowski@gmail.com,michal.barelkowski@affirm.com,1730396,coderepo,1
+397956,Uber,7727616,2026-01-30,,tushar031997@gmail.com,jleitch@uber.com,2216190,coderepo,24668
+397390,Palo Alto Networks,7831590,2026-02-13,,voohitha.2000@gmail.com,savlee@paloaltonetworks.com,,,2
+462673,Drivenets LTD,7925003,2026-02-24,Mark Bramnik ,mark.bramnik@gmail.com,sfrieman@drivenets.com,,,6
+95641,DraftKings Inc,7847130,2026-02-13,,jcbackhouse@hotmail.com,a.stoilova@draftkings.com,2182633,coderepo,12
+95641,DraftKings Inc,7138048,2025-10-03,,saravanan@draftkings.com,sselvaraj@draftkings.com,2189415,coderepo,1
+95641,DraftKings Inc,7265392,2025-10-31,,mozolevski90@gmail.com,s.rosenthal@draftkings.com,2182633,coderepo,2
+424048,Paxos,7129335,2025-10-01,,marcus.mok@paxos.com,aditya.hurry@paxos.com,2220815,fullstack,1
+424048,Paxos,7878042,2026-02-17,Andrew Swe,andrew.swe.career@gmail.com,aruiz@paxos.com,2227684,fullstack,1
+424048,Paxos,7505415,2025-12-09,Christian Rentsman,chris@chrisrentsman.com,jperry@paxos.com,2227684,fullstack,6
+459346,Zenika,7576768,2025-12-17,,,augustin.grimprel@zenika.com,820444,fullstack,1
+459346,Zenika,7576768,2025-12-17,candidate,samir.yahiaoui@zenika.com,augustin.grimprel@zenika.com,820444,fullstack,1
+424048,Paxos,7673084,2026-01-15,Gannon Witt,tugw@pm.me,aruiz@paxos.com,2227684,fullstack,3
+424048,Paxos,7825903,2026-02-10,Richard Chen,3chenr@gmail.com,aruiz@paxos.com,2227684,fullstack,5
+281885,Wayfair,7288009,2025-11-11,Sanskriti Savarn,sanskritisavarn@gmail.com,emox@wayfair.com,2187938,coderepo,21
+424048,Paxos,7853458,2026-02-13,Ariya Amarjargal,aa5752@columbia.edu,jperry@paxos.com,2227684,fullstack,10
+405356,Uber Sandbox,7868287,2026-02-12,,shashankagarwal1706@gmail.com,shashank.agarwal+sandbox@uber.com,2303168,fullstack,2
+424048,Paxos,7286264,2025-10-31,Shamshad Iddu,shamshad2807@gmail.com,jperry@paxos.com,2227684,fullstack,6
+37714,Walmart Global Tech Talent Acquisition,7913485,2026-02-26,Wai ting Chan,isabel.ye@outlook.com,achal.rastogi@walmart.com,2421725,fullstack,3
+435124,,7626862,2026-01-05,candidate,rlivermore@atlassian.com,rlivermore+sandbox@atlassian.com,1719359,coderepo,20
+397390,Palo Alto Networks,7872594,2026-02-20,,snehal.gunjal11@gmail.com,roscott@paloaltonetworks.com,,,2
+37714,Walmart Global Tech Talent Acquisition,7971914,2026-02-28,,wolverineny+test@gmail.com,satish.devarapalli@walmart.com,,,1
+456234,Qualtrics Sandbox,7663524,2026-01-12,,bartoszs@qualtrics.com,pauguscik+sandbox@qualtrics.com,1783584,coderepo,5
+448712,Optiver Sandbox,7546782,2025-12-11,candidate,jamienachbar@optiver.us,jakescheinbart+sandbox@optiver.us,2315643,fullstack,11
+266391,Expedia Sandbox,7353547,2025-11-07,,bob@gmail.com,travivarma@expediagroup.com,1783584,coderepo,1
+38841,Adobe Inc.,7604302,,Ignatius J. Reilly,akramer+candidate@adobetest.com,akramer@adobe.com,2332510,fullstack,1
+458073,Affirm Sandbox,7404838,2025-11-17,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1959743,fullstack,1
+458073,Affirm Sandbox,7400337,2025-11-16,,thomas.nguyen@affirm.com,thomas.nguyen+sandbox@affirm.com,1481815,fullstack,1
+281885,Wayfair,7262277,2025-10-31,Mohammad Irshad,aashiris1907@gmail.com,emox@wayfair.com,2187938,coderepo,1
+424048,Paxos,7965266,2026-02-27,candidate,mivanov@paxos.com,mivanov@paxos.com,2427761,fullstack,2
+263506,Goldman Sachs Sandbox,7939179,2026-02-24,candidate,kajetan.kubik@gs.com,jacek.sliwerski@gs-sandbox.com,1783584,coderepo,3
+424048,Paxos,7682635,2026-01-20,Kyle Payne,paynekylem@gmail.com,aruiz@paxos.com,2227684,fullstack,6
+72208,Etsy,7189649,2025-10-15,,itelnykh@etsy.com,clemieux@etsy.com,2225430,fullstack,1
+281885,Wayfair,7810945,2026-02-06,,ramireddyvishali277@gmail.com,nkhan4@wayfair.com,2187938,coderepo,3
+405356,Uber Sandbox,7863284,2026-02-11,,sriramp@uber.com,sriramp+sandbox@uber.com,2303279,fullstack,4
+281885,Wayfair,7188185,2025-10-13,,smishra6@wayfair.com,rdhanesha@wayfair.com,2187938,coderepo,1
+281885,Wayfair,7281699,2025-11-03,Saurabh Chandrakar,saurabh13997@gmail.com,emox@wayfair.com,2187938,coderepo,9
+424048,Paxos,7301186,2025-11-03,Daniel Shay,danielpowershay@gmail.com,jperry@paxos.com,2227684,fullstack,9
+435124,,7699369,2026-01-18,,yli4@atlassian.com,yli4+sandbox@atlassian.com,1719359,coderepo,17
+424048,Paxos,7174523,2025-10-10,,wackerly@paxos.com,aditya.hurry@paxos.com,2227684,fullstack,1
+424048,Paxos,7407994,2025-11-26,Ashutosh Kumar,ashutosh.cric@gmail.com,jperry@paxos.com,2227684,fullstack,1
+434628,Agoda,7203656,2025-10-15,,agalanov.n@gmail.com,aleksey.galanov+alias@agoda.com,2195459,fullstack,1
+462673,Drivenets LTD,7958498,2026-02-26,,daniel.badea@usoftware.co,vzhuhovitsky@drivenets.com,,,2
+366825,Adobe (Sandbox),7048847,2025-09-22,,mulamba@adobe.com,krizvi+sandbox@adobe.com,1777187,fullstack,7
+18076,Snap Inc.,7712535,2026-01-21,,test@testtesttets1234.cc,ychen@snapchat.com,2308414,fullstack,19
+123720,Blue Origin,7434040,2025-11-20,,jeno@blueorigin.com,mmattox@blueorigin.com,755114,fullstack,2
+456234,Qualtrics Sandbox,7560423,2026-01-07,,pauguscik@qualtrics.com,pauguscik+sandbox@qualtrics.com,1783584,coderepo,2
+38841,Adobe Inc.,7783025,2026-01-30,Geireann,glindfieldro+hackerrank@adobetest.com,akramer@adobe.com,2347655,fullstack,24667
+397956,Uber,7041549,2025-09-17,,test@test.com,jleitch@uber.com,1894902,coderepo,2
+405356,Uber Sandbox,7854451,2026-02-10,,sriramp@uber.com,sriramp+sandbox@uber.com,2303483,fullstack,10
+281885,Wayfair,7386182,2025-11-18,Utsav Bansal,ubansal22@gmail.com,emox@wayfair.com,2187938,coderepo,14
+50229,Coupang,7810324,2026-02-04,,sejung07@coupangdummy.com,sejung07@coupang.com,,,2
+123720,Blue Origin,7760846,2026-01-27,,user2@yw.com,ylu2@blueorigin.com,,,10
+412566,Wayfair Sandbox,7765371,2026-01-28,,candidate2@gmail.com,stadwalkar+sandbox@wayfair.com,,,12
+72050,Affirm,7781075,2026-02-02,,billyjcatchpole@gmail.com,paulina.syberska@affirm.com,1672304,fullstack,24667
+72050,Affirm,7930234,2026-02-27,,pawel.m.popkiewicz@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,11
+299771,Bloomberg Avature Testing Sandbox,7919355,2026-02-27,,anandyal@terpmail.umd.edu,trev+bloombergavaturetestingsandbox@hackerrank.com,,,1
+123720,Blue Origin,7787014,2026-01-30,,rachelreyes2403@gmail.com,amartian@blueorigin.com,1932540,fullstack,24671
+18076,Snap Inc.,7517507,2025-12-07,,asdsda@asdadasd.com,xiao.li@snapchat.com,2308402,fullstack,3
+146325,Oracle Corporation,7557153,2025-12-15,,rashmi.agrawal3@gmail.com,sumit.parashar@oracle.com,1959602,fullstack,2
+38841,Adobe Inc.,7497857,2025-12-03,,trev+demo@hackerrank.com,acummins@adobe.com,1932878,fullstack,1
+123720,Blue Origin,7960227,2026-02-26,,benjaminmiller5@hotmail.com,jsickels@blueorigin.com,2395446,coderepo,6
+72050,Affirm,7745255,2026-01-29,,laurentiuchisan@yahoo.com,paulina.syberska@affirm.com,1672308,fullstack,24667
+146325,Oracle Corporation,7159851,2025-10-16,,to.ying.ding@gmail.com,ota-robot1_ro@oracle.com,1513666,fullstack,2
+38841,Adobe Inc.,7794052,2026-02-02,,jingya.ying@gmail.com,ahayton@adobe.com,2347655,fullstack,24667
+397956,Uber,7448947,2025-11-24,,sriramp@uber.com,sriramp@uber.com,1783584,coderepo,9
+397956,Uber,7036037,2025-09-22,Venkataramanan Subramanian,venk.subramanian@gmail.com,bianca.nishimura@uber.com,1783584,coderepo,8
+397956,Uber,7052875,2025-09-22,,khangnguyen@uber.com,kdudley@uber.com,1783584,coderepo,12
+26633,Indeed,7691601,2026-01-16,,mkothari@indeed.com,vidhem@indeed.com,1720430,coderepo,9
+26633,Indeed,7679741,2026-01-14,,mfrench@indeed.com,mfrench@indeed.com,2350398,fullstack,13
+397390,Palo Alto Networks,7888900,2026-02-17,MD FAISAL SOHAIL,faisalmd1947@gmail.com,rr4@paloaltonetworks.com,,,1
+281885,Wayfair,7562974,2025-12-15,,jackyc@gmail.com,twagner@wayfair.com,1732928,fullstack,4
+281885,Wayfair,7127677,2025-10-01,,jesse@gmail.com,jfredrickson@wayfair.com,1730396,coderepo,3
+95641,DraftKings Inc,7232050,2025-10-22,,mjo4rk@virginia.edu,k.grady@draftkings.com,2189415,coderepo,15
+26633,Indeed,7486465,2025-12-02,,rishabhlodha103@gmail.com,rlodha@indeed.com,2265531,coderepo,5
+95641,DraftKings Inc,7592861,2026-01-09,,vitaly.zisserman@gmail.com,k.grady@draftkings.com,2182633,coderepo,4
+450009,SiteMinder,7339018,2025-11-06,,earl.savadera@siteminder.com,harsh.sanjanwala@siteminder.com,2248962,fullstack,24667
+435124,,7600286,2025-12-22,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1730396,coderepo,1
+435124,,7589657,2025-12-19,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1788645,fullstack,1
+26633,Indeed,7551466,2025-12-12,,mfrench@indeed.com,mfrench@indeed.com,2317462,fullstack,6
+26633,Indeed,7707231,2026-01-20,,rtammewar@indeed.com,adhiwal@indeed.com,1720430,coderepo,11
+26633,Indeed,7568043,2025-12-16,,sverma@indeed.com,rlodha@indeed.com,2305129,fullstack,16
+426908,,7968274,2026-02-27,,samanth.marisetty@gmail.com,raghavendra.shettyk@verifone.com,,,1
+37714,Walmart Global Tech Talent Acquisition,7942823,2026-02-24,,Ex@emaple.com,sashank.kakaraparty@walmart.com,,,2
+38841,Adobe Inc.,7889300,2026-02-17,,varunrawat9254@gmail.com,vanigam@adobe.com,,,9
+299771,Bloomberg Avature Testing Sandbox,7830187,2026-02-06,,russ@russ.com,trev+bloombergavaturetestingsandbox@hackerrank.com,,,1
+397956,Uber,7933758,2026-02-23,,sriramp@uber.com,sriramp@uber.com,2216190,coderepo,10
+72050,Affirm,7927792,2026-02-26,,dominikaboguszewska62@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,6
+299771,Bloomberg Avature Testing Sandbox,7919334,2026-02-25,,mmashigo@nd.edu,trev+bloombergavaturetestingsandbox@hackerrank.com,,,2
+397956,Uber,7241887,2025-10-22,,kdudley@uber.com,kdudley@uber.com,843424,fullstack,1
+435124,,7651866,2026-01-27,,rwasher+sandbox+testttttttt@atlassian.com,rwasher+sandbox@atlassian.com,1719359,coderepo,1
+96577,Nuro,7681723,2026-01-23,,reddyvasanth41@gmail.com,vbaddam@nuro.ai,2351560,coderepo,2
+281885,Wayfair,7411272,2025-11-18,,anurag.alla@gmail.ocm,pp1@wayfair.com,2187938,coderepo,3
+435124,,7770277,2026-01-29,,gthakur@atlassian.com,jgao3+sandbox@atlassian.com,1730406,coderepo,24682
+96577,Nuro,7630058,2026-01-05,,candidate@gmail.com,bwilliams@nuro.ai,2318704,coderepo,2
+397390,Palo Alto Networks,7761485,2026-01-28,candidate,gaowhoisrex@gmail.com,nsandhu@paloaltonetworks.com,2374790,fullstack,24667
+26633,Indeed,7686727,2026-01-15,,mfrench@indeed.com,tsingla@indeed.com,2316984,fullstack,16
+435124,,7648913,2026-01-08,,cschandragiri+32@gmail.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,4
+435124,,7737589,2026-01-27,,vchen3@atlassian.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,6
+281885,Wayfair,7313733,2025-11-02,,sagarbudavi@gmail.com,sbudavi@wayfair.com,1783584,coderepo,6
+281885,Wayfair,7598384,2025-12-22,,jq357@hotmail.com,twagner@wayfair.com,2187938,coderepo,8
+26633,Indeed,7403986,2025-11-17,,singlatanu27@gmail.com,tsingla@indeed.com,1730406,coderepo,3
+397390,Palo Alto Networks,7967423,2026-02-27,,nglass@paloaltonetworks.com,nglass@paloaltonetworks.com,2428600,fullstack,20
+281885,Wayfair,7283532,2025-10-28,,nikshiptha.g@nextitjobs.com,mzyla1@wayfair.com,2187938,coderepo,3
+459346,Zenika,7916959,2026-02-20,,foued.bagga@gmail.com,thomas.bejuit@zenika.com,2391406,fullstack,2
+473037,Razorpay,7917371,2026-02-24,,sujan.adiga@razorpay.com,sujan.adiga@razorpay.com,2414073,fullstack,1
+26633,Indeed,7403986,2025-11-17,,singlatanu27@gmail.com,tsingla@indeed.com,1730396,coderepo,1
+367269,NBCSportsNext,7792152,2026-02-06,Jacinth Varghese,joy237@gmail.com,kpujari@fandango.com,1625757,fullstack,24667
+397390,Palo Alto Networks,7761485,2026-01-28,candidate,gaowhoisrex@gmail.com,nsandhu@paloaltonetworks.com,2374819,fullstack,24667
+37714,Walmart Global Tech Talent Acquisition,7967524,2026-02-27,,saju_ahmad@ymail.com,saju.ahmad0@walmart.com,1783584,coderepo,9
+281885,Wayfair,7533660,2025-12-10,,knkrish.19@gmail.com,knadesan@wayfair.com,2187938,coderepo,16
+435124,,7601352,2025-12-23,,abocan+rn@usersinbuckets.org,abocan+sandbox@atlassian.com,1719359,coderepo,74
+435124,,7769726,2026-01-28,,rsnoyman@atlassian.com,rwasher+sandbox@atlassian.com,1719359,coderepo,24672
+462701,Zycus Inc,7907526,2026-02-20,candidate,padmanavadutta82@gmail.com,shweta.shah@zycus.com,1279249,fullstack,4
+38841,Adobe Inc.,7763828,2026-01-28,,prashant.srs@gmail.com,atulk@adobe.com,2373659,fullstack,24667
+38841,Adobe Inc.,7966191,2026-02-27,,mihalache.c94@gmail.com,stanescu@adobe.com,2408038,fullstack,9
+402663,coupang.com,7581790,2026-01-07,,tisun@coupang.com,sejung07-ghsbx@coupang.com,2320947,fullstack,15
+123720,Blue Origin,7629285,2026-01-05,,luke.adsit1@gmail.com,awilson2@blueorigin.com,,,3
+123720,Blue Origin,7767717,2026-01-28,,mathew.vogel@gmail.com,jsickels@blueorigin.com,2265531,coderepo,24667
+397956,Uber,7957943,2026-02-26,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,2216190,coderepo,12
+72050,Affirm,7916011,2026-02-24,,diwasraii38@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,8
+18076,Snap Inc.,7805157,2026-02-20,Sundar,ucisundar@gmail.com,agilbert@c.snap.com,,,1
+146325,Oracle Corporation,7816727,2026-02-09,,nirupavardhanreddy.l@gmail.com,ota-robot1_ro@oracle.com,,,1
+123720,Blue Origin,7865147,2026-02-12,,omar.faruk.buet@gmail.com,ssaijpaul@blueorigin.com,,,3
+123720,Blue Origin,7862784,2026-02-11,,sophialin7b@gmail.com,amartian@blueorigin.com,1932540,fullstack,5
+402663,coupang.com,7445550,2025-12-02,,hothero0705+test@gmail.com,sejung07-ghsbx@coupang.com,2320947,fullstack,2
+123720,Blue Origin,7886942,2026-02-16,,william.wu.3637@gmail.com,zshim@blueorigin.com,,,9
+38841,Adobe Inc.,7450658,2025-12-05,,sauradipnag95@gmail.com,xingtail@adobe.com,2232543,fullstack,3
+402663,coupang.com,7639942,2026-01-07,,sejung07@coupangdummy.com,sejung07-ghsbx@coupang.com,2301804,fullstack,1
+123720,Blue Origin,7667797,2026-01-12,,eaorkun@gmail.com,jsickels@blueorigin.com,1720430,coderepo,2
+72050,Affirm,7929588,2026-02-23,,mohamed.essalhi@affirm.com,bogdana.semaniv@affirm.com,1730396,coderepo,3
+72050,Affirm,7766260,2026-01-30,,yini@live.co.uk,paulina.syberska@affirm.com,1664787,fullstack,24667
+146325,Oracle Corporation,7746908,2026-01-29,,hemanthvh96@gmail.com,shanda.parmly@oracle.com,2383763,fullstack,24667
+146325,Oracle Corporation,7774030,2026-01-29,,greg.gt33@yahoo.com,jesse.jeun@oracle.com,1435317,fullstack,24667
+18076,Snap Inc.,7584902,2025-12-18,,tskillian@gmail.com,tkillian@snapchat.com,2308427,fullstack,1
+397956,Uber,7014193,2025-09-24,,prashik@uber.com,kdudley@uber.com,1783584,coderepo,24
+397956,Uber,7030432,2025-09-19,,rohitn@uber.com,kdudley@uber.com,1783584,coderepo,11
+38841,Adobe Inc.,7806791,2026-02-03,,hannah@ekman.cx,jmack@adobe.com,2386687,fullstack,1
+397956,Uber,7030439,2025-09-22,,ashishr@uber.com,kdudley@uber.com,1783584,coderepo,11
+123720,Blue Origin,7737574,2026-01-23,,adrian.sali@outlook.com,jsickels@blueorigin.com,1783584,coderepo,5
+38841,Adobe Inc.,7878109,2026-02-13,,itsArminM@gmail.com,jmack@adobe.com,2404987,fullstack,1
+402663,coupang.com,7451566,2025-12-08,,wehsu+test@coupang.com,sejung07-ghsbx@coupang.com,2310358,fullstack,4
+397956,Uber,7014177,2025-09-23,,ayush.goyal@uber.com,kdudley@uber.com,1783584,coderepo,14
+38841,Adobe Inc.,7703597,,,,kshitiza@adobe.com,1932898,fullstack,24667
+123720,Blue Origin,7750103,2026-01-26,,brian.boccia@gmail.com,jsickels@blueorigin.com,1730406,coderepo,3
+38841,Adobe Inc.,7849293,2026-02-10,,reddyhasini904@gmail.com,ahayton@adobe.com,2347655,fullstack,1
+18076,Snap Inc.,7659376,2026-01-28,DANIEL,danielzwang97+jobs@gmail.com,agilbert@c.snap.com,2374596,fullstack,24667
+131682,AlphaSense,7042879,2025-09-17,,tsahay@alpha-sense.com,tsahay@alpha-sense.com,2207034,fullstack,2
+26633,Indeed,7946817,2026-02-25,,rohan8arora@gmail.com,iyadav@indeed.com,,,8
+397390,Palo Alto Networks,7879997,2026-02-23,candidate,sameerhsave@gmail.com,tdo@paloaltonetworks.com,,,3
+435124,,7752428,2026-01-27,,hkim3@atlassian.com,aaung+sandbox@atlassian.com,1720430,coderepo,10
+95641,DraftKings Inc,7642605,2026-01-15,,yashagrawalboston@gmail.com,k.grady@draftkings.com,2220009,coderepo,6
+435124,,7627184,2026-01-05,,rwasher+sandbox+test@atlassian.com,rwasher+sandbox@atlassian.com,1719359,coderepo,3
+435124,,7627436,2026-01-06,,aaung+sandboxcandidate@atlassian.com,aaung+sandbox@atlassian.com,1720430,coderepo,4
+462701,Zycus Inc,7891119,2026-02-20,candidate,abhidshinde98@gmail.com,shweta.shah@zycus.com,,,1
+26633,Indeed,7493598,2025-12-03,,asd@asd.com,adhiwal@indeed.com,1720430,coderepo,3
+462701,Zycus Inc,7891086,2026-02-19,candidate,omkarpatil2040@gmail.com,shweta.shah@zycus.com,,,3
+473037,Razorpay,7917371,2026-02-24,,sujan.adiga@razorpay.com,sujan.adiga@razorpay.com,2414075,fullstack,1
+26633,Indeed,7715400,2026-01-21,,vidhem+hr@indeed.com,vidhem@indeed.com,2358674,fullstack,2
+435124,,7590008,2025-12-19,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1788645,fullstack,1
+72050,Affirm,7781054,2026-02-02,,abelfriasdiaz@yahoo.es,paulina.syberska@affirm.com,1672308,fullstack,24667
+123720,Blue Origin,7831635,2026-02-06,,Joe.Mama@gmail.com,jsickels@blueorigin.com,1783584,coderepo,2
+38841,Adobe Inc.,7703597,,,,kshitiza@adobe.com,1670978,fullstack,24667
+38013,BNY,7163460,2025-10-14,candidate,denis.sytenkov@gmail.com,keshav.gupta2@bny.com,1783584,coderepo,4
+38841,Adobe Inc.,7700651,2026-01-19,,satyam7991@gmail.com,sanyamm@adobe.com,1846878,fullstack,1
+458073,Affirm Sandbox,7389580,2025-11-13,,krishna.guruswamy@affirm.com,krishna.guruswamy+sandbox@affirm.com,1826264,fullstack,1
+123720,Blue Origin,7877372,2026-02-13,,dhungelatul99@gmail.com,jsickels@blueorigin.com,1783584,coderepo,5
+18076,Snap Inc.,7517539,2025-12-07,,john.doe@email.address,xiao.li@snapchat.com,2308414,fullstack,3
+402663,coupang.com,7445550,2025-12-02,,hothero0705+test@gmail.com,sejung07-ghsbx@coupang.com,2310358,fullstack,4
+458073,Affirm Sandbox,7414886,2025-11-18,,krishna.guruswamy@affirm.com,krishna.guruswamy+sandbox@affirm.com,1859687,fullstack,1
+397956,Uber,7947639,2026-02-25,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,2395446,coderepo,6
+18076,Snap Inc.,7681682,2026-01-20,Abraham,abemooreodell@gmail.com,agilbert@c.snap.com,1932878,fullstack,7
+380219,IBM Digital Talent for Business Company Limited ,7773228,2026-01-29,,krittaphat.niramitmahapanya@gmail.com,thawatchai.c@ibmdt.co.th,1279249,fullstack,1
+146325,Oracle Corporation,7815242,2026-02-12,,ucisundar@gmail.com,paola.pulido@oracle.com,,,1
+38841,Adobe Inc.,7888593,2026-02-17,candidate,niraj.kr.tech@gmail.com,anuragsr@adobe.com,,,10
+299771,Bloomberg Avature Testing Sandbox,7880763,2026-02-14,,candidate10@sampleorg.com,dsharma29+sandbox@bloomberg.net,,,18
+123720,Blue Origin,7665223,2026-01-12,,leandroalfonso14@gmail.com,awilson2@blueorigin.com,,,3
+299771,Bloomberg Avature Testing Sandbox,7919360,2026-02-27,,andyliang810@gmail.com,trev+bloombergavaturetestingsandbox@hackerrank.com,,,1
+38841,Adobe Inc.,7644732,2026-01-07,,tflsguoyu@gmail.com,xingtail@adobe.com,2232543,fullstack,2
+95641,DraftKings Inc,7224118,2025-10-17,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,3
+435124,,7590752,2025-12-19,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1788645,fullstack,1
+435124,,7590142,2025-12-19,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1788645,fullstack,2
+26633,Indeed,7771892,2026-01-29,,admodak@indeed.com,tsingla@indeed.com,2305129,fullstack,24673
+123720,Blue Origin,7681287,2026-01-14,,zachmkhan@gmail.com,jsickels@blueorigin.com,1783584,coderepo,2
+146325,Oracle Corporation,7435751,2025-11-28,,akasham975@gmail.com,indu.khunnikar@oracle.com,1510252,fullstack,1
+459081,Federato.ai,7930436,2026-02-25,Danny Beyrer,beyrerdn@gmail.com,braeden.kepner@federato.ai,2341787,fullstack,1
+146325,Oracle Corporation,7495499,2025-12-09,,dubeyvaibhav92@gmail.com,indu.khunnikar@oracle.com,1923344,fullstack,2
+146325,Oracle Corporation,7774041,2026-01-29,,jasonasmits@gmail.com,jesse.jeun@oracle.com,1435317,fullstack,24667
+18076,Snap Inc.,7565722,2026-01-16,Evgeny,evgenyvinnik@gmail.com,agilbert@c.snap.com,2355064,fullstack,3
+18076,Snap Inc.,7569966,2025-12-18,Kevin,kevinglavelle@gmail.com,agilbert@c.snap.com,2308427,fullstack,10
+462701,Zycus Inc,7647957,2026-01-09,Manav Sah,manavminsk@gmail.com,shweta.shah@zycus.com,1399855,fullstack,3
+462701,Zycus Inc,7891055,2026-02-18,candidate,samar.srivastav235@gmail.com,shweta.shah@zycus.com,1399855,fullstack,11
+281885,Wayfair,7747838,2026-01-26,,ihaseeb1995@gmail.com,twagner@wayfair.com,1537785,fullstack,9
+435124,,7642179,2026-01-07,,cschandragiri@gmail.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,9
+462701,Zycus Inc,7923493,2026-02-21,candidate,jordanhudson231@gmail.com,shweta.shah@zycus.com,1399855,fullstack,6
+462701,Zycus Inc,7647956,2026-01-09,Madhav Kumar,kumarmadhav1920@gmail.com,shweta.shah@zycus.com,1399855,fullstack,1
+435124,,7645544,2026-01-08,,,alad+sandbox@atlassian.com,1730406,coderepo,2
+435124,,7645544,2026-01-08,candidate,alad@atlassian.com,alad+sandbox@atlassian.com,1730406,coderepo,2
+37714,Walmart Global Tech Talent Acquisition,7961401,2026-02-26,,tony.p.doan@gmail.com,miguel.jimenezjacome@walmart.com,1740361,fullstack,1
+96577,Nuro,7630264,2026-01-05,,candidate@gmail.com,bwilliams@nuro.ai,2318704,coderepo,9
+462701,Zycus Inc,7918943,2026-02-21,candidate,bhanu.carrer@gmail.com,shweta.shah@zycus.com,1399855,fullstack,3
+434628,Agoda,7383596,2025-11-13,,ranjan.k.niraj@gmail.com,cong.liu+alias@agoda.com,2266338,fullstack,7
+263506,Goldman Sachs Sandbox,7939234,2026-02-24,,test@test.com,simon.compston@gs-sandbox.com,2395446,coderepo,1
+435124,,7737554,2026-01-26,,mtak@atlassian.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,8
+435124,,7746869,2026-01-26,,cschandragiri+345@gmail.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,6
+26633,Indeed,7549995,2025-12-12,,msadiq@indeed.com,tsingla@indeed.com,2316984,fullstack,12
+435124,,7627538,2026-01-29,,lpugh@atlassian.com,jgao3+sandbox@atlassian.com,1730406,coderepo,24679
+281885,Wayfair,7386277,2025-11-13,,ashishkonduri@gmail.com,mstinson@wayfair.com,2187938,coderepo,2
+434628,Agoda,7357686,2025-11-10,,rakadityas97@gmail.com,cong.liu+alias@agoda.com,2262734,fullstack,4
+96577,Nuro,7591744,2025-12-19,,rhsu@nuro.ai,vbaddam@nuro.ai,2318704,coderepo,2
+435124,,7687877,2026-01-15,candidate,prasanna.bableshwar@gmail.com,pbableshwar+sandbox@atlassian.com,1783584,coderepo,4
+462701,Zycus Inc,7907369,2026-02-19,candidate,abhishekkgupta193@gmail.com,shweta.shah@zycus.com,1399855,fullstack,5
+405356,Uber Sandbox,7839622,2026-02-09,,wefipo7903@newtrea.com,abhishek.bs+sandbox@uber.com,2303168,fullstack,3
+434628,Agoda,7383249,2025-11-13,Vinayak K S,vinayak.kamsala.s@gmail.com,raghavendra.harapanahalli+alias@agoda.com,2262734,fullstack,4
+405356,Uber Sandbox,7966159,2026-02-27,,abcd@efgh.com,abhishek.bs+sandbox@uber.com,2303168,fullstack,10
+96577,Nuro,7630156,2026-01-05,,candidate@gmail.com,bwilliams@nuro.ai,2318704,coderepo,3
+26633,Indeed,7957820,2026-02-26,,rishabhlodha13@gmail.com,rlodha@indeed.com,2305129,fullstack,1
+26633,Indeed,7459830,2025-11-26,,max.rage@gmail.com,adhiwal@indeed.com,1720430,coderepo,1
+95641,DraftKings Inc,7276487,2025-11-05,,briancharlesmeehan@gmail.com,k.grady@draftkings.com,2220009,coderepo,17
+471989,Hcltech,7847093,2026-02-13,,bindu.rani@hcltech.com,devisd+alias@hcltech.com,,,5
+426908,,7822491,2026-02-05,,alexchelfrich@gmail.com,tobias.albig@verifone.com,,,5
+462029,,7517949,2025-12-08,,demo@demo.com,david.levine+alias@xero.com,2265531,coderepo,1
+471989,Hcltech,7846610,2026-02-10,Devi,devisd+alias@hcltech.com,devisd+alias@hcltech.com,,,2
+459346,Zenika,7956459,2026-02-26,Marlon Saenz Farret,marlon.saenz.farret@gmail.com,yohann.rodier@zenika.com,2391349,fullstack,1
+95641,DraftKings Inc,7100771,2025-09-26,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,4
+434628,Agoda,6984363,2025-09-08,Cong liu,cong.liu@agoda.com,raghavendra.harapanahalli+alias@agoda.com,2197078,fullstack,3
+26633,Indeed,7526810,2025-12-09,,nishants@indeed.com,rlodha@indeed.com,2305129,fullstack,6
+26633,Indeed,7957140,2026-02-27,,anujtaley0205@gmail.com,anampalli@indeed.com,2358674,fullstack,6
+26633,Indeed,7428748,2025-11-20,candidate,adhiwal@indeed.com,vidhem@indeed.com,2265531,coderepo,2
+405356,Uber Sandbox,7957424,2026-02-26,,abc@xyz.com,abhishek.bs+sandbox@uber.com,2274970,fullstack,13
+26633,Indeed,7928334,2026-02-27,,yaralahruthikreddy@gmail.com,sapnan@contractor.indeed.com,2305129,fullstack,10
+26633,Indeed,7535430,2025-12-10,,sswaminathan@indeed.com,adhiwal@indeed.com,1720430,coderepo,13
+435124,,7743286,2026-01-25,,testcandidate@email.com,aaung+sandbox@atlassian.com,1720430,coderepo,26
+397390,Palo Alto Networks,7761478,,candidate,vishesh2k6@gmail.com,nsandhu@paloaltonetworks.com,2374548,fullstack,24667
+26633,Indeed,7403298,2025-11-17,,rishabhlodha103@gmail.com,rlodha@indeed.com,2265531,coderepo,2
+26633,Indeed,7802123,2026-02-03,,graghuvanshi+candidate@indeed.com,rlodha@indeed.com,2305129,fullstack,2
+281885,Wayfair,7541403,2025-12-11,,knkrish.19@gmail.com,knadesan@wayfair.com,2187938,coderepo,6
+281885,Wayfair,7485880,2025-12-04,,sample_test@test.com,pp1@wayfair.com,2187938,coderepo,3
+172878,Ceiba Software,7487792,2025-12-02,,esteban.castro@ceiba.com.co,hackerrank.admin@ceiba.com.co,1673459,fullstack,7
+148813,Quadrature Capital,7802670,2026-02-03,,matt@quadrature.ai,matt@quadrature.ai,,,9
+435124,,7588061,2025-12-19,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1085713,fullstack,2
+462701,Zycus Inc,7874694,2026-02-16,candidate,prakharwakhale@gmail.com,shweta.shah@zycus.com,,,3
+148813,Quadrature Capital,7803861,2026-02-03,candidate,kristof@quadrature.ai,matt@quadrature.ai,2385690,fullstack,5
+26633,Indeed,7917870,2026-02-26,,anujtaley0205@gmail.com,anampalli@indeed.com,2305129,fullstack,12
+26633,Indeed,7519234,2025-12-08,,vnannaka@indeed.com,rlodha@indeed.com,2305129,fullstack,10
+397390,Palo Alto Networks,7968318,2026-02-27,,yonathanhalperin@gmail.com,lmukhtar@paloaltonetworks.com,,,1
+462701,Zycus Inc,7891023,2026-02-18,candidate,mishra789himanshu@gmail.com,shweta.shah@zycus.com,,,4
+462701,Zycus Inc,7909411,2026-02-21,candidate,kapseaman1432@gmail.com,shweta.shah@zycus.com,,,5
+435124,,7696004,2026-01-16,candidate,awhite5@atlassian.com,awhite5+sandbox@atlassian.com,1730396,coderepo,8
+96577,Nuro,7591470,2025-12-19,,reddyvasanth41@gmail.com,vbaddam@nuro.ai,2321439,coderepo,2
+434628,Agoda,7427132,2025-11-20,,SWAPNILBGAIKWAD99@GMAIL.COM,cong.liu+alias@agoda.com,2277985,fullstack,15
+26633,Indeed,7493732,2025-12-03,,max.rage+f3@gmail.com,adhiwal@indeed.com,1720430,coderepo,8
+462701,Zycus Inc,7907190,2026-02-20,candidate,vipinchaurasiya1052@gmail.com,shweta.shah@zycus.com,,,6
+26633,Indeed,7647061,2026-01-08,,bbhala@indeed.com,vidhem@indeed.com,1720430,coderepo,13
+95641,DraftKings Inc,7537100,2025-12-19,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,3
+72050,Affirm,7927987,2026-02-26,,iszablow@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,8
+123720,Blue Origin,7933796,2026-02-23,,arnavrajashekara2@gmail.com,mhall@blueorigin.com,,,2
+299771,Bloomberg Avature Testing Sandbox,7958596,2026-02-26,,a@b.com,fsimek1+sandbox@bloomberg.net,,,5
+38841,Adobe Inc.,7970452,2026-02-27,,justinwong.dev@gmail.com,rlucerolueva@adobe.com,,,1
+38841,Adobe Inc.,7768920,2026-01-29,,dhapke@adobe.com,igrant@adobe.com,2265531,coderepo,24667
+38841,Adobe Inc.,7798382,2026-02-02,candidate,lfeujio@adobe.com,lfeujio@adobe.com,2383921,fullstack,24667
+397956,Uber,7965687,2026-02-27,,osama.denat@gmail.com,gpensi@ext.uber.com,2216190,coderepo,17
+38841,Adobe Inc.,7901511,2026-02-18,,ria.me2194@gmail.com,riac@adobe.com,,,7
+431745,Syndio,7836383,2026-02-09,candidate,nasirosman13@gmail.com,maha.shouman@synd.io,,,11
+95641,DraftKings Inc,6985829,2025-09-08,,connor.j.welch@gmail.com,cwelch@draftkings.com,2189415,coderepo,1
+397390,Palo Alto Networks,7906343,2026-02-19,Piyush Yadhav,PiyushTheGoku@gmail.com,rr4@paloaltonetworks.com,,,3
+26633,Indeed,7733579,2026-01-23,,mpokharia@indeed.com,rlodha@indeed.com,2305129,fullstack,3
+26633,Indeed,7459831,2025-12-03,,max.rage+t1@gmail.com,adhiwal@indeed.com,1720430,coderepo,8
+426908,,7901649,2026-02-18,,gt.matthew.duane@gmail.com,tobias.albig@verifone.com,,,9
+26633,Indeed,7428748,2025-11-20,candidate,adhiwal@indeed.com,vidhem@indeed.com,1720430,coderepo,1
+84487,Pendo,7967851,2026-02-27,,tjhmusic11@gmail.com,jordan.hensley@pendo.io,2417191,coderepo,5
+459346,Zenika,7928413,2026-02-23,,landryfomena09@gmail.com,ali.elamrani@zenika.com,2391406,fullstack,1
+434628,Agoda,7178337,2025-10-10,,raghavendra.harapanahalli@agoda.com,cong.liu+alias@agoda.com,2227304,fullstack,13
+435124,,7599428,2025-12-22,candidate,vvasani@atlassian.com,vvasani+sandbox@atlassian.com,1783584,coderepo,1
+281885,Wayfair,5231352,2024-07-19,Test,hoshangcharania@gmail.com,hcharania@wayfair.com,2187938,coderepo,19
+281885,Wayfair,7687615,2026-01-15,,contact@khaledgabr.com,twagner@wayfair.com,1537785,fullstack,2
+462701,Zycus Inc,7715602,2026-01-30,Sanskar Soni,sonisanskar223@gmail.com,shweta.shah@zycus.com,1399855,fullstack,24671
+435124,,7717462,2026-01-21,,cchandragiri+2345@atlassian.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,1
+95641,DraftKings Inc,7667337,2026-01-20,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,9
+26633,Indeed,7715432,,,,vidhem@indeed.com,2358674,fullstack,24667
+95641,DraftKings Inc,7711382,2026-01-20,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,1
+95641,DraftKings Inc,7899738,2026-02-23,,oleh.yashnyi@gmail.com,k.scottini@draftkings.com,2220009,coderepo,8
+95641,DraftKings Inc,7683179,2026-01-21,,jltendler@gmail.com,k.grady@draftkings.com,2182633,coderepo,13
+462701,Zycus Inc,7923738,2026-02-26,candidate,sriganeshsharma@outlook.in,shweta.shah@zycus.com,,,2
+95641,DraftKings Inc,7481824,2025-12-04,,stanislav.davidkov1@gmail.com,k.scottini@draftkings.com,2182633,coderepo,9
+435124,,7770198,2026-01-29,,amare@atlassian.com,aaung+sandbox@atlassian.com,1720430,coderepo,24675
+26633,Indeed,7518635,2025-12-08,,rishabhlodha103@gmail.com,rlodha@indeed.com,2305129,fullstack,1
+123720,Blue Origin,7545317,2025-12-11,,cwrenaud8@gmail.com,awilson2@blueorigin.com,1730396,coderepo,3
+397956,Uber,7947639,2026-02-25,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,2216190,coderepo,12
+38841,Adobe Inc.,7703597,,,,kshitiza@adobe.com,1488422,fullstack,24667
+397956,Uber,7482419,2025-12-02,,baran+candidate@uber.com,kdudley@uber.com,2216190,coderepo,29
+18076,Snap Inc.,7224252,2025-10-17,,shyiaalam@gmail.com,kshah2@snapchat.com,842965,fullstack,1
+299771,Bloomberg Avature Testing Sandbox,7890672,2026-02-17,,johnsmith@gmail.com,jwoolverton+sandbox@bloomberg.net,,,8
+38841,Adobe Inc.,7796261,2026-02-02,,fe@fd.com,fengw@adobe.com,,,9
+72050,Affirm,7389766,2025-11-26,,kg@affirm.com,krishna.guruswamy@affirm.com,808709,fullstack,1
+18076,Snap Inc.,7516354,2025-12-06,,asdasd@zsfasda.com,xiao.li@snapchat.com,1924074,fullstack,1
+397956,Uber,7052944,2025-09-24,,krishna.swaroop@uber.com,kdudley@uber.com,1783584,coderepo,9
+123720,Blue Origin,7711490,2026-01-20,,shreysurti7@gmail.com,jsickels@blueorigin.com,1783584,coderepo,3
+38841,Adobe Inc.,7455089,2025-11-25,,trev@hackerrank.com,acummins@adobe.com,1932878,fullstack,2
+38841,Adobe Inc.,7735903,2026-01-23,,DanaCzinsky@gmail.com,ahayton@adobe.com,2347655,fullstack,1
+123720,Blue Origin,7776217,2026-01-29,,hamad@webappn.com,jsickels@blueorigin.com,1783584,coderepo,24669
+397956,Uber,7017760,2025-09-22,,rohitn@uber.com,kdudley@uber.com,1783584,coderepo,15
+123720,Blue Origin,7799046,2026-02-02,,lnguyen2@blueorigin.com,munrath@blueorigin.com,1930566,fullstack,24667
+38841,Adobe Inc.,7799788,2026-02-03,,fff@fdf.com,fengw@adobe.com,2384212,fullstack,24667
+366825,Adobe (Sandbox),6970459,2025-09-04,,missyvicky10@gmail.com,gtovm@adobe.co.in,1894902,coderepo,2
+102108,Thoughtworks ,6967976,2025-09-04,,balramkukreja@yahoo.com,adrian.manolache1@thoughtworks.com,2199900,fullstack,2
+397956,Uber,7014198,2025-09-19,,shivam.gargsya@uber.com,kdudley@uber.com,1783584,coderepo,19
+18076,Snap Inc.,7587610,2025-12-19,,d@jaicom.com,xiao.li@snapchat.com,2308414,fullstack,3
+281885,Wayfair,7157566,2025-10-21,Ron Yosipovich,ronyosipov@gmail.com,imartyniv@wayfair.com,2187938,coderepo,4
+435124,,7606034,2025-12-24,,pricopsel@example.com,abocan+sandbox@atlassian.com,1719359,coderepo,1
+26633,Indeed,7567203,2025-12-16,,mpokharia@indeed.com,tsingla@indeed.com,2316984,fullstack,21
+281885,Wayfair,7585291,2025-12-18,,dev.wsameer@gmail.com,twagner@wayfair.com,2187938,coderepo,2
+435124,,7646272,2026-01-08,,,alad+sandbox@atlassian.com,1730406,coderepo,3
+435124,,7646272,2026-01-08,candidate,alad@atlassian.com,alad+sandbox@atlassian.com,1730406,coderepo,3
+397390,Palo Alto Networks,7761509,2026-01-29,candidate,sunhang728@gmail.com,nsandhu@paloaltonetworks.com,2374819,fullstack,24667
+96577,Nuro,7591373,2025-12-19,,reddyvasanth41@gmail.com,vbaddam@nuro.ai,2318704,coderepo,10
+281885,Wayfair,7381413,2025-11-13,Sidhdharth Pandya,sidhdharth19pandya@gmail.com,imartyniv@wayfair.com,1537785,fullstack,4
+26633,Indeed,7679320,2026-01-14,,Shivamk@indeed.com,tsingla@indeed.com,2316984,fullstack,5
+435124,,7770209,2026-01-29,,sogrady@atlassian.com,jgao3+sandbox@atlassian.com,1730406,coderepo,24673
+397390,Palo Alto Networks,7761509,2026-01-29,candidate,sunhang728@gmail.com,nsandhu@paloaltonetworks.com,2374790,fullstack,24667
+281885,Wayfair,7534235,2025-12-10,,knkrish.19@gmail.com,knadesan@wayfair.com,2187938,coderepo,2
+462701,Zycus Inc,7909411,2026-02-21,candidate,kapseaman1432@gmail.com,shweta.shah@zycus.com,1399855,fullstack,1
+462701,Zycus Inc,7882030,2026-02-15,candidate,amitv0103@gmail.com,shweta.shah@zycus.com,1399855,fullstack,6
+397390,Palo Alto Networks,7761504,2026-01-28,candidate,achyuthv3@gmail.com,nsandhu@paloaltonetworks.com,2374819,fullstack,24667
+281885,Wayfair,7407856,2025-11-20,Srinivas Matta,mohit.m@mymailworks.com,imartyniv@wayfair.com,2187938,coderepo,4
+435124,,7648078,2026-01-08,,cschandragiri+2@gmail.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,7
+462701,Zycus Inc,7783839,2026-01-31,Vanushree,vanushreemuniraj@gmail.com,shweta.shah@zycus.com,1399855,fullstack,24670
+397390,Palo Alto Networks,7761504,2026-01-28,candidate,achyuthv3@gmail.com,nsandhu@paloaltonetworks.com,2374790,fullstack,24667
+459346,Zenika,7890877,2026-02-17,,damien@borie.pro,samir.yahiaoui@zenika.com,2391406,fullstack,1
+37714,Walmart Global Tech Talent Acquisition,7970121,2026-02-27,,saju_ahmad@ymail.com,saju.ahmad0@walmart.com,2265531,coderepo,8
+95641,DraftKings Inc,7667850,2026-01-16,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,2
+26633,Indeed,7682270,2026-01-14,,maxwellr@indeed.com,mfrench@indeed.com,2350398,fullstack,28
+366825,Adobe (Sandbox),7387332,2025-11-13,,trev+demo@hackerrank.com,gtovm@adobe.co.in,1932878,fullstack,1
+458073,Affirm Sandbox,7414886,2025-11-18,,krishna.guruswamy@affirm.com,krishna.guruswamy+sandbox@affirm.com,2275896,fullstack,8
+397956,Uber,7052861,2025-09-24,,utkarsh.sinha@uber.com,kdudley@uber.com,1783584,coderepo,25
+18076,Snap Inc.,7659376,2026-01-28,DANIEL,danielzwang97+jobs@gmail.com,agilbert@c.snap.com,2375023,fullstack,24667
+397956,Uber,7030424,2025-09-23,,hkriplani@uber.com,kdudley@uber.com,1783584,coderepo,14
+397956,Uber,7017776,2025-09-23,,kartik.tomar@uber.com,kdudley@uber.com,1783584,coderepo,31
+397956,Uber,7017742,2025-09-19,,paul.larsen@uber.com,kdudley@uber.com,1783584,coderepo,19
+18076,Snap Inc.,7747421,2026-01-28,Tahira,tahirakazimi@vt.edu,agilbert@c.snap.com,2375062,fullstack,24667
+397956,Uber,7017735,2025-09-18,,tejsard@gmail.com,kdudley@uber.com,1783584,coderepo,7
+397956,Uber,7439607,2025-11-21,,sriramp@uber.com,sriramp@uber.com,1783584,coderepo,6
+397956,Uber,7273497,2025-10-27,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,1777187,fullstack,2
+123720,Blue Origin,7785853,2026-01-30,,cristian@webappn.com,jsickels@blueorigin.com,1783584,coderepo,24672
+18076,Snap Inc.,7638646,2026-01-22,Arthur,arthurzhang0701@gmail.com,agilbert@c.snap.com,2308414,fullstack,7
+123720,Blue Origin,7816564,2026-02-04,,rachel.mancini92@gmail.com,munrath@blueorigin.com,1930566,fullstack,1
+146325,Oracle Corporation,7746908,2026-01-29,,hemanthvh96@gmail.com,shanda.parmly@oracle.com,2211966,fullstack,24667
+402663,coupang.com,7522222,2025-12-08,,test@gmail.com,sejung07-ghsbx@coupang.com,1894902,coderepo,1
+18076,Snap Inc.,7059248,2025-09-19,,brad18@outlook.com,bkotsopoulos@snapchat.com,1990237,fullstack,6
+38841,Adobe Inc.,7665899,2026-01-12,candidate,dlevenson@adobetest.com,ahayton@adobe.com,2347655,fullstack,1
+18076,Snap Inc.,7601335,2025-12-23,,jeerry@asdasdasd.com,xiao.li@snapchat.com,2308414,fullstack,4
+123720,Blue Origin,7719123,2026-01-21,,johubertj@gmail.com,jsickels@blueorigin.com,1730406,coderepo,7
+38841,Adobe Inc.,7907110,2026-02-19,,mvinturis@gmail.com,cionca@adobe.com,2385632,fullstack,2
+38841,Adobe Inc.,7730701,2026-01-22,,dev.t.mehta@gmail.com,akhoury@adobe.com,1679824,fullstack,8
+26633,Indeed,7928334,2026-02-27,,yaralahruthikreddy@gmail.com,sapnan@contractor.indeed.com,1720430,coderepo,8
+462701,Zycus Inc,7946604,2026-02-26,Aharta Dudhe,ahartadudhe99@gmail.com,shweta.shah@zycus.com,,,10
+26633,Indeed,7965158,2026-02-27,,max.rage@gmail.com,adhiwal@indeed.com,1720430,coderepo,1
+281885,Wayfair,7958873,2026-02-26,,candidate@gmail.com,hslowey@wayfair.com,,,1
+26633,Indeed,7763650,2026-01-28,,ybhandari@indeed.com,tsingla@indeed.com,2305129,fullstack,24693
+26633,Indeed,7683238,2026-01-14,,andrewjones@indeed.com,mfrench@indeed.com,2350398,fullstack,23
+95641,DraftKings Inc,7222011,2025-10-17,,cwelch@draftkings.com,cwelch@draftkings.com,2189415,coderepo,6
+26633,Indeed,7671105,2026-01-13,,prateekg@indeed.com,rlodha@indeed.com,2305129,fullstack,16
+26633,Indeed,7647077,2026-01-16,,adhiwal+dev1@indeed.com,adhiwal@indeed.com,1720430,coderepo,4
+72050,Affirm,7800349,2026-02-10,,claire.yang@affirm.com,andrew.tam2@affirm.com,1730396,coderepo,10
+38841,Adobe Inc.,7675927,2026-01-13,,lushao.ls1232@gmail.com,charagon@adobe.com,2232543,fullstack,2
+72050,Affirm,7917220,2026-02-27,,j.bochniarz.paziewska@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,9
+299771,Bloomberg Avature Testing Sandbox,7870910,2026-02-12,,filip@example.com,fsimek1+sandbox@bloomberg.net,,,13
+38841,Adobe Inc.,7513905,2025-12-12,,gyhui.liam@gmail.com,xingtail@adobe.com,2232543,fullstack,2
+263506,Goldman Sachs Sandbox,7431913,2025-11-20,,bob@gmail.com,jessica.johnson@gs-sandbox.com,1894902,coderepo,1
+435124,,7647802,2026-01-08,,cschandragiri+1@gmail.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,4
+281885,Wayfair,7495686,2025-12-03,,gayathri.balaji.1998@gmail.com,ccarducci@wayfair.com,2187938,coderepo,6
+26633,Indeed,7508374,2025-12-05,,mfrench+test@indeed.com,mfrench@indeed.com,900732,fullstack,1
+435124,,7628781,2026-01-05,,jgao3+test@atlassian.com,jgao3+sandbox@atlassian.com,1730406,coderepo,6
+443890,Wise sandbox,7196526,2025-10-14,,conorach@gmail.com,simon.bruins+sandbox@wise.com,1783584,coderepo,6
+435124,,7737634,2026-01-28,,tyao2@atlassian.com,cchandragiri+sandbox@atlassian.com,1783584,coderepo,24672
+435124,,7650080,2026-01-08,candidate,alad@atlassian.com,alad+sandbox@atlassian.com,1730406,coderepo,1
+435124,,7652318,2026-01-09,candidate,alad@atlassian.com,alad+sandbox@atlassian.com,1730406,coderepo,1
+26633,Indeed,7347353,2025-11-07,,rlodha@gmail.com,vidhem@indeed.com,1783584,coderepo,1
+299771,Bloomberg Avature Testing Sandbox,7887923,2026-02-17,,candidate11@sampleorg.com,dsharma29+sandbox@bloomberg.net,,,11
+38841,Adobe Inc.,7863585,2026-02-11,,chao_qian@alumni.brown.edu,fengw@adobe.com,2384220,fullstack,16
+38841,Adobe Inc.,7648221,2026-01-08,candidate,alex.hayton@gmail.com,ahayton@adobe.com,2343228,fullstack,1
+397956,Uber,7239112,2025-10-21,,kdudley@uber.com,kdudley@uber.com,339724,fullstack,1
+397956,Uber,7735905,2026-01-25,,aleksiyantsa@gmail.com,kdudley@uber.com,2216190,coderepo,45
+397956,Uber,7358174,2025-11-10,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,2257509,coderepo,5
+458073,Affirm Sandbox,7681256,2026-01-14,,thomas.nguyen@affirm.com,krishna.guruswamy+sandbox@affirm.com,1730396,coderepo,14
+123720,Blue Origin,7963733,2026-02-27,,jirka.fajfr@gmail.com,ssaijpaul@blueorigin.com,,,3
+146325,Oracle Corporation,7720557,2026-01-29,,sam.xin.tian@gmail.com,katie.mulhollen@oracle.com,,,1
+38841,Adobe Inc.,7798320,2026-02-02,,alexyangshan@gmail.com,charagon@adobe.com,2232543,fullstack,24667
+458073,Affirm Sandbox,7474364,2025-11-28,,kg@kg.com,krishna.guruswamy+sandbox@affirm.com,1730396,coderepo,9
+123720,Blue Origin,7816488,2026-02-04,,ashok.adarsh54@gmail.com,amartian@blueorigin.com,1932540,fullstack,4
+38841,Adobe Inc.,7805099,2026-02-03,,f@f.com,fengw@adobe.com,2384220,fullstack,6
+72050,Affirm,7918688,2026-02-26,,kurulenkoanastasia@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,12
+38841,Adobe Inc.,7893297,2026-02-17,,elinero86@gmail.com,rlucerolueva@adobe.com,,,5
+146325,Oracle Corporation,7771702,2026-01-29,candidate,aditya.nalwaya@oracle.com,nanditha.gade@oracle.com,,,5
+146325,Oracle Corporation,7771702,2026-01-29,,,nanditha.gade@oracle.com,,,5
+402663,coupang.com,7451566,2025-12-08,,wehsu+test@coupang.com,sejung07-ghsbx@coupang.com,2320947,fullstack,1
+146325,Oracle Corporation,7878993,2026-02-17,,janice.chang@oracle.com,janice.chang@oracle.com,,,1
+380219,IBM Digital Talent for Business Company Limited ,7793872,2026-02-02,,kritawit.bu@gmail.com,thawatchai.c@ibmdt.co.th,1277280,fullstack,24667
+72050,Affirm,7911058,2026-02-23,,Daniel.Guryev@gmail.com,anoushka.rai@affirm.com,1730396,coderepo,11
+402663,coupang.com,7445550,2025-12-02,,hothero0705+test@gmail.com,sejung07-ghsbx@coupang.com,2301804,fullstack,2
+72050,Affirm,7263079,2025-11-03,,krishna.guruswamy@affirm.com,krishna.guruswamy@affirm.com,815360,fullstack,4
+38841,Adobe Inc.,7967974,2026-02-27,,hrish2006@gmail.com,brobert@adobe.com,,,2
+431745,Syndio,7870229,2026-02-12,candidate,nirmohi2304@gmail.com,maha.shouman@synd.io,,,2
+146325,Oracle Corporation,7824568,2026-02-05,,rafaelchen4@gmail.com,vinti.verma@oracle.com,,,3
+38841,Adobe Inc.,7425779,2025-11-19,,neoxygong@gmail.com,charagon@adobe.com,2232543,fullstack,1
+397956,Uber,7725336,2026-01-22,,shashankagarwal1706@gmail.com,shashank.agarwal@uber.com,2257509,coderepo,1
+18076,Snap Inc.,7592415,2026-01-08,Fangfan,fangfanli28@gmail.com,agilbert@c.snap.com,2308427,fullstack,9
+402663,coupang.com,7445550,2025-12-02,,hothero0705+test@gmail.com,sejung07-ghsbx@coupang.com,1719359,coderepo,1
+397956,Uber,7014130,2025-09-18,,sanath303@gmail.com,kdudley@uber.com,1783584,coderepo,10
+462701,Zycus Inc,7927532,2026-02-27,candidate,rajdeepsinghsethi215@gmail.com,shweta.shah@zycus.com,,,2

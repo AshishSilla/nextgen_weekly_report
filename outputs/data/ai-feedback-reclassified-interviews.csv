@@ -1,0 +1,19 @@
+company_id,company_name,interview_id,interview_started_date,candidate_name,candidate_email,interview_owner_email,user_msg_cnt,feedback_user_email,feedback_user_role,product_rating,feedback,content_flag,performance_flag,ai_assistant_flag,uiux_flag,core_functionality_flag
+397956,Uber,7189002,2025-11-06,,a@mailinator.com,abhishek.bs@uber.com,2,a@mailinator.com,candidate,5,,False,False,False,False,False
+397390,Palo Alto Networks,7906343,2026-02-19,Piyush Yadhav,PiyushTheGoku@gmail.com,rr4@paloaltonetworks.com,3,PiyushTheGoku@gmail.com,candidate,5,,False,False,False,False,False
+263506,Goldman Sachs Sandbox,7939234,2026-02-24,,test@test.com,simon.compston@gs-sandbox.com,1,test@test.com,candidate,1,hoo,False,False,False,False,False
+281885,Wayfair,7381413,2025-11-13,Sidhdharth Pandya,sidhdharth19pandya@gmail.com,imartyniv@wayfair.com,4,sidhdharth19pandya@gmail.com,candidate,2,,False,False,False,False,False
+397956,Uber,7756592,2026-01-28,,akhisai4322@gmail.com,jleitch@uber.com,7,akhisai4322@gmail.com,candidate,5,,False,False,False,False,False
+397956,Uber,7610997,2026-01-13,,gabrielzhouquan@gmail.com,jleitch@uber.com,10,roopansh@uber.com,interviewer,5,,False,False,False,False,False
+397956,Uber,7189002,2025-11-06,,a@mailinator.com,abhishek.bs@uber.com,2,kshailesh@uber.com,interviewer,5,,False,False,False,False,False
+462673,Drivenets LTD,7958498,2026-02-26,,daniel.badea@usoftware.co,vzhuhovitsky@drivenets.com,2,daniel.badea@usoftware.co,candidate,5,,False,False,False,False,False
+26633,Indeed,7917870,2026-02-26,,anujtaley0205@gmail.com,anampalli@indeed.com,12,anujtaley0205@gmail.com,candidate,3,,False,False,False,False,False
+397390,Palo Alto Networks,7761485,2026-01-28,candidate,gaowhoisrex@gmail.com,nsandhu@paloaltonetworks.com,49334,gaowhoisrex@gmail.com,candidate,3,"I had issues with the platform keep scrolling up and down randomly, and there's no easy way to disable the AI autocomplete feature",False,False,False,False,False
+26633,Indeed,7957140,2026-02-27,,anujtaley0205@gmail.com,anampalli@indeed.com,6,anujtaley0205@gmail.com,candidate,1,,False,False,False,False,False
+123720,Blue Origin,7737997,2026-01-23,,morse.alex.j@gmail.com,amcbrayer@blueorigin.com,6,morse.alex.j@gmail.com,candidate,4,,False,False,False,False,False
+462701,Zycus Inc,7927532,2026-02-27,candidate,rajdeepsinghsethi215@gmail.com,shweta.shah@zycus.com,2,rajdeepsinghsethi215@gmail.com,candidate,5,Excellent Platform,False,False,False,False,False
+462701,Zycus Inc,7891086,2026-02-19,candidate,omkarpatil2040@gmail.com,shweta.shah@zycus.com,3,omkarpatil2040@gmail.com,candidate,4,,False,False,False,False,False
+462701,Zycus Inc,7647956,2026-01-09,Madhav Kumar,kumarmadhav1920@gmail.com,shweta.shah@zycus.com,1,deepak.ms@zycus.com,interviewer,4,,False,False,False,False,False
+426908,,7901649,2026-02-18,,gt.matthew.duane@gmail.com,tobias.albig@verifone.com,9,gt.matthew.duane@gmail.com,candidate,5,,False,False,False,False,False
+462701,Zycus Inc,7909411,2026-02-21,candidate,kapseaman1432@gmail.com,shweta.shah@zycus.com,6,kapseaman1432@gmail.com,candidate,5,great,False,False,False,False,False
+397956,Uber,7030424,2025-09-23,,hkriplani@uber.com,kdudley@uber.com,14,hkriplani@uber.com,candidate,1,tests files not allowed to change. No Python.,False,False,False,False,False

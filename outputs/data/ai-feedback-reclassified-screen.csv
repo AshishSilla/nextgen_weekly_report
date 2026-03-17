@@ -1,0 +1,13 @@
+company_id,company_name,test_id,test_owner,owner_email,attempt_id,attempt_start_date,candidate_email,user_msg_count,feedback_user_role,feedback_user_email,product_rating,feedback,content_flag,performance_flag,ai_assistant_flag,uiux_flag,core_functionality_flag
+450931,New York Life,2249849,1407644,rita_fuller@newyorklife.com,83721394,2026-02-27,zi2141@columbia.edu,1,candidate,zi2141@columbia.edu,5,,False,False,False,False,False
+390136,FDM Group,2182820,1190051,mayank.arora@fdmgroup.com,79826527,2025-10-07,abhinton8@gmail.com,1,candidate,abhinton8@gmail.com,4,,False,False,False,False,False
+463316,"MIMO Tech Co., Ltd.",2276194,1428011,kritsanc@ais.co.th,82505536,2026-01-14,jarinyas@ais.co.th,4,candidate,jarinyas@ais.co.th,5,,False,False,False,False,False
+371483,NPCI,1938305,1027694,sangita.rajpoot@npci.org.in,83359536,2026-02-13,prashantsrivastava1001@gmail.com,9,candidate,prashantsrivastava1001@gmail.com,5,,False,False,False,False,False
+457608,Nedbank,2264120,1416854,martinba@nedbank.co.za,81716143,2025-12-10,surajp@nedbank.co.za,1,candidate,surajp@nedbank.co.za,4,Test was good but programming questions were quite tricky to understand.,False,False,False,False,False
+371483,NPCI,2032392,1173919,nisha.rodi@npci.org.in,83456868,2026-02-17,ssonawane9702@gmail.com,8,candidate,ssonawane9702@gmail.com,4,,False,False,False,False,False
+457608,Nedbank,2264120,1416854,martinba@nedbank.co.za,81743152,2025-12-11,rameshn@nedbank.co.za,2,candidate,rameshn@nedbank.co.za,5,,False,False,False,False,False
+457608,Nedbank,2259121,1416854,martinba@nedbank.co.za,81719873,2025-12-10,sushantka@nedbank.co.za,9,candidate,sushantka@nedbank.co.za,5,good experience,False,False,False,False,False
+457608,Nedbank,2264200,1416850,josiahz@nedbank.co.za,81771036,2025-12-12,komalu@nedbank.co.za,5,candidate,komalu@nedbank.co.za,3,"Not good user experience, environment is very slow",False,False,False,False,False
+457608,Nedbank,2265685,1416850,josiahz@nedbank.co.za,81769574,2025-12-12,nareshn@nedbank.co.za,11,candidate,nareshn@nedbank.co.za,5,,False,False,False,False,False
+457608,Nedbank,2265685,1416850,josiahz@nedbank.co.za,81771965,2025-12-12,santoshk@nedbank.co.za,21,candidate,santoshk@nedbank.co.za,4,The test environment runs smoothly. However it doesn't displays preview for iOS simulator.,False,False,False,False,False
+26581,Salesforce,2259894,1377437,awijesekera@salesforce.com,82723573,2026-01-21,spathrose@salesforce.com,10,candidate,spathrose@salesforce.com,4,The AI tool is slow in response and does not suggest  code snippets and gives answers around the bush. Good for syntax checking but not as powerful as claude code or cursor,False,False,False,False,False

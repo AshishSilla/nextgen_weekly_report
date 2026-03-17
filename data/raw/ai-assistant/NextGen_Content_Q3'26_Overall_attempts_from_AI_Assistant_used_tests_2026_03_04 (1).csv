@@ -1,0 +1,254 @@
+company_id,company_name,company_owner_email,test_id,test_name,ai_assistant_first_used_date,attempts_used_ai_assistant,count_overal_attempts,min_attempt_started_date
+100519,Paycom,david.crabtree@paycomonline.com,2083042,Deployment Engineer Intern Candidate Test,2025-10-06,1,1,2025-10-06
+101749,Problem Setters,dhruvi.shah@problemsetters.com,2272456,Django SME Hiring Test,2026-01-05,9,23,2026-01-05
+101749,Problem Setters,dhruvi.shah@problemsetters.com,2272490,Spring Boot SME Hiring Test,2026-01-05,11,19,2026-01-05
+101749,Problem Setters,dhruvi.shah@problemsetters.com,2301370,React SME Hiring Test,2026-02-22,1,1,2026-02-22
+101749,Problem Setters,dhruvi.shah@problemsetters.com,2301371,Node SME Hiring Test,2026-02-17,3,4,2026-02-17
+102108,Thoughtworks ,michelle.rodriguez@thoughtworks.com,2111813,AMS Thoughtworks Graduate SW Dev Online Assessment (75 min) -  May 2025 ,2025-10-07,1,1,2025-10-07
+102108,Thoughtworks ,vishnugopal.vs@thoughtworks.com,2215719,IME:2025:Thoughtworks Off Campus App Dev Online Assessment,2025-10-06,3,210,2025-10-06
+102108,Thoughtworks ,michelle.rodriguez@thoughtworks.com,2228075,AMS Global Thoughtworks Graduate SW Dev Online Assessment - 60min Oct 2025 ,2025-10-05,19,28,2025-10-05
+102108,Thoughtworks ,vishnugopal.vs@thoughtworks.com,2228113,IME:2026:Thoughtworks Campus App Dev Online Assessment - Pune,2025-10-04,70,207,2025-10-04
+105203,Softtech Yazilim Teknolojileri Arastirma Gelistirme Ve Pazarlama Ticaret An,nisa.koc@softtech.com.tr,2306550,LLM Engineer (Duplicate),2026-02-25,3,3,2026-02-25
+105203,Softtech Yazilim Teknolojileri Arastirma Gelistirme Ve Pazarlama Ticaret An,nisa.koc@softtech.com.tr,2306720,Softtech Software Engineer Coding Test - II (Duplicate),2026-02-26,2,2,2026-02-26
+105203,Softtech Yazilim Teknolojileri Arastirma Gelistirme Ve Pazarlama Ticaret An,nisa.koc@softtech.com.tr,2306787,Softtech Software Engineer Coding Test - I (Duplicate),2026-02-28,1,1,2026-02-28
+115581,Amazon,stemera@amazon.com,2208168,The Amazon Coding Challenge,2025-10-07,786,1005,2025-10-07
+115581,Amazon,rbalyeat@amazon.com,2230915,Sample Test for Node.JS,2025-11-14,92,127,2025-11-14
+115581,Amazon,rbalyeat@amazon.com,2230918,Sample Test for Django,2025-11-11,220,278,2025-12-12
+115581,Amazon,rbalyeat@amazon.com,2230920,Sample Test for Spring Boot,2025-11-06,80,104,2025-11-06
+115581,Amazon,stemera@amazon.com,2235912,Django Code Repo October,2025-10-16,4,1,2025-10-28
+115581,Amazon,stemera@amazon.com,2235913,Springboot Code Repo October,2025-10-16,4,1,2025-10-16
+115581,Amazon,stemera@amazon.com,2235914,Node.JS Code Repo October,2025-10-16,7,2,2025-10-16
+115581,Amazon,stemera@amazon.com,2254787,Spring Boot Code Repo November,2026-02-25,3,1,2026-02-25
+115581,Amazon,stemera@amazon.com,2254789,Node.JS Code Repo November,2026-01-21,3,2,2026-01-21
+115581,Amazon,stemera@amazon.com,2254791,Django Code Repo November,2026-01-21,6,3,2026-01-21
+115581,Amazon,stemera@amazon.com,2269411,Django Code Repo December,2026-02-24,4,1,2026-02-24
+115581,Amazon,rbalyeat@amazon.com,2304670,BLAT Austin - Feb 2026 - 2,2026-02-26,1,2,2026-02-26
+121883,ServiceNow Sandbox Account,qa-noemi.delrosario@servicenow.com,2291330,5142 - AI Assessment1,2026-02-27,2,1,2026-02-27
+129342,MoneyLion Inc,amzadkhan.f@gendigital.com,2257560,Gen-IT Intern - FY26,2025-11-24,58,101,2025-11-24
+159261,Cognizant Technology Solutions,sandhya.kalaikko@cognizant.com,1042441,ADM React Developer -practice,2025-11-19,1,1,2025-11-19
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,1474056,Angular Coding Challenge 201 - Intermediate,2025-10-06,1,452,2025-10-06
+159261,Cognizant Technology Solutions,nagapriya.v@cognizant.com,1510414,SE Microsoft Basic (C#) [201 - Intermediate] ,2025-10-05,3,68,2025-10-05
+159261,Cognizant Technology Solutions,sandhya.kalaikko@cognizant.com,1588034,JSE_SE_React_PL2 [201 – Intermediate],2025-10-06,2,158,2025-10-06
+159261,Cognizant Technology Solutions,nagapriya.v@cognizant.com,1614386,TL_Node Js_PL3 [301 - ADVANCED],2025-10-07,1,22,2025-10-07
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,1619007,Practice programming challenge 2 for React,2025-10-06,1,6,2025-10-06
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,1826538,React Coding Challenge (201 - Intermediate),2025-10-06,1,424,2025-10-06
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,1827081,Proctored Programming Challenge (React),2025-10-07,1,177,2025-10-07
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,1827086,Proctored Programming Challenge ( Java Springboot ),2025-10-06,4,366,2025-10-06
+159261,Cognizant Technology Solutions,vallinayagi.chandrasekharan@cognizant.com,2113731,Cognizant - Java Skill Test,2025-10-03,22,438,2025-10-03
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,2150834,"Software Engineer (Java, Spring Boot) Coding Challenge",2025-10-07,2,524,2025-10-07
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,2150889,"Sr. Software Engineer B2 (Java, Spring Boot) Coding Challenge",2025-10-06,1,379,2025-10-06
+159261,Cognizant Technology Solutions,vishalsingh.raghuwanshi@cognizant.com,2152393,Cognizant Technology Solutions Back-End SQL Final,2025-11-26,1,2,2025-11-26
+159261,Cognizant Technology Solutions,menaka.r@cognizant.com,2154366,"Sr. Software Engineer (C#, .Net API) Coding Challenge",2025-10-06,1,264,2025-10-06
+159261,Cognizant Technology Solutions,jason.monroe@cognizant.com,2239786,C# - Hackerrank practice 1 (AI-Enabled),2025-10-20,6,5,2025-10-23
+159261,Cognizant Technology Solutions,jason.monroe@cognizant.com,2239838,C# - Hackerrank practice 2 (AI Enabled),2025-10-23,2,2,2025-10-23
+159261,Cognizant Technology Solutions,jason.monroe@cognizant.com,2239842,C# - Hackerrank practice 4 (AI Enabled),2025-10-23,2,3,2025-10-23
+159261,Cognizant Technology Solutions,jason.monroe@cognizant.com,2239844,C# - Hackerrank practice 3 (AI Enabled),2025-10-23,2,2,2025-10-23
+159261,Cognizant Technology Solutions,jason.monroe@cognizant.com,2244370,C# NA Gen C Final Hackerrank (New),2025-10-28,1,3,2025-10-28
+159261,Cognizant Technology Solutions,manoh.sp@cognizant.com,2258994,React Hiring Test,2025-12-24,8,23,2025-12-24
+159261,Cognizant Technology Solutions,nagapriya.v@cognizant.com,2285453,Pre-requisite HR assessment - Cognizant Flowsource - Plugin Engineer,2026-02-04,4,4,2026-02-04
+159261,Cognizant Technology Solutions,ashokkumar.kalyanam@cognizant.com,2294613,Cognizant Technology Solutions Sr. Front-End Developer (React) Hiring Test,2026-02-17,1,1,2026-02-17
+170120,Amazon Hook,elise@amazonhrsandbox.com,2223131,Amazon AUTA - Nodejs Next-gen Recommendation,2025-09-24,4,5,2025-09-24
+170120,Amazon Hook,alex@amazonhrsandbox.com,2250121,Amazon Coding Challenge - Pilot 4 - GAMMA (option C),2025-12-09,4,6,2025-12-09
+186995,Cisco Sandbox,awehling+sandbox@cisco.com,2208225,AI Feature Pilot Sample Test,2025-09-26,2,2,2025-09-29
+186995,Cisco Sandbox,kevcarpe+sandbox@cisco.com,2223219,Duo Mobile Android Interview - Test,2025-09-24,1,1,2025-09-24
+191973,Equinix,rlekkala@equinix.com,2229563,Dummy Test for Evaluation of new features,2025-10-06,2,1,2025-10-06
+191973,Equinix,rlekkala@equinix.com,2277650,Equinix  Senior Associate Developer Test // JR-156807,2026-01-21,1,4,2026-01-21
+20865,Bloomberg LP,eparisi5@bloomberg.net,2213762,Guarded Pilot,2025-09-17,4,8,2025-09-17
+20865,Bloomberg LP,eparisi5@bloomberg.net,2213764,Unguarded Pilot,2025-09-12,6,4,2025-09-16
+21736,Optmyzr,manas@optmyzr.com,2305259,LPU - SDE INTERN 2026 - R2,2026-02-24,44,51,2026-02-24
+21736,Optmyzr,manas@optmyzr.com,2305532,CHITKARA - SDE INTERN 2026 - R2,2026-02-24,46,50,2026-02-24
+250117,ISZT Nonprofit Kft. - HU20763091,bodor.csaba@domain.hu,2300080,Domain.hu - QA engineer test,2026-02-23,5,15,2026-02-23
+254505,Unosquare,luis.naranjo@unosquare.com,2219402,Unosquare Test (React 2026),2025-09-19,1,12,2025-09-19
+26581,Salesforce,awijesekera@salesforce.com,2259894,Salesforce Next-Gen Test,2025-11-27,15,17,2025-11-27
+26581,Salesforce,awijesekera@salesforce.com,2289463,NextGen Software Engineering Assessment,2026-02-17,5,6,2026-02-17
+26581,Salesforce,awijesekera@salesforce.com,2293802,[INTERNAL] NextGen Software Engineering Assessment,2026-02-07,1,1,2026-02-12
+272667,Groupe Onepoint,h.akakpo@groupeonepoint.com,2263477,[TSIO]  Spring Angular Docker IA [IT]  ,2026-02-17,1,2,2026-02-17
+272667,Groupe Onepoint,j.fabre@groupeonepoint.com,2271811,[TSIO] Advanced Front-End Engineer (React),2026-02-12,1,1,2026-02-12
+272667,Groupe Onepoint,j.fabre@groupeonepoint.com,2272925,[TSIO] Fullstack Engineer (React & Node),2026-02-20,1,1,2026-02-20
+272667,Groupe Onepoint,h.akakpo@groupeonepoint.com,2288706,[TSIO] Coding Spring Angular IA [IT],2026-01-25,2,2,2026-01-25
+272667,Groupe Onepoint,l.leprestre@groupeonepoint.com,2305132,[TSIO] Fullstack Engineer Agentic ,2026-02-26,1,1,2026-02-26
+281885,Wayfair,hslowey@wayfair.com,1644055,Wayfair Back-End Developer Hiring Test - L3 - Set 2,2025-10-06,2,140,2025-10-06
+281885,Wayfair,ishcherbak@wayfair.com,1869780,ML_Test_May2024,2025-10-05,5,11,2025-10-05
+281885,Wayfair,hslowey@wayfair.com,1890337,Business Analyst Technical Assessment,2025-10-04,1,153,2025-10-04
+281885,Wayfair,srastogi1@wayfair.com,1932198,SWE_L2-L4_Hiring Test 1,2025-10-03,1,194,2025-10-03
+281885,Wayfair,mreiser@wayfair.com,2067390,L1 ML Scientist Hiring Assessment (Early Careers),2025-10-04,2,17,2025-10-04
+281885,Wayfair,mreiser@wayfair.com,2120801,Early Careers SWE,2025-10-04,3,86,2025-10-04
+281885,Wayfair,rkeator@wayfair.com,2207186,Wayfair SWE Intern Hiring Test (2025-2026),2025-10-06,1,77,2025-10-06
+294913,HCLTech,agrawal.sumit@hcltech.com,1944151,HCLTech SBTM Frontend Assessment (2024) V1,2025-10-07,6,98,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,1962398,HCLTech SBTM Front-End Developer (React) Assessment (2024) V1,2025-10-07,1,8,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,1992558,HCLTech SBTM Back-End Developer (Spring Boot with Java) Assessment (2024) V1,2025-10-07,6,111,2025-10-07
+294913,HCLTech,agrawal.sumit@hcltech.com,2016275,HCLTech SBTM SQL Server Assessment (2024) V1,2025-10-07,8,55,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2019726,HCLTech SBTM Backend with Java Assessment(2024) V1,2025-10-07,1,142,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2022444,HCLTech SBTM Backend with Python Assessment(2024) V1,2025-10-07,5,170,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2022692,HCLTech SBTM Backend with C# Assessment(2024) V1,2025-10-07,1,3,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2030117,HCLTech SBTM .Net with C# Assessment(2024) V1,2025-10-07,4,118,2025-10-07
+294913,HCLTech,agrawal.sumit@hcltech.com,2042755,HCLTech SBTM SQL Server & PLSQL Assessment (2024) V1,2025-10-07,1,5,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2048895,HCLTech SBTM Front-End Developer (HTML/CSS/JS with Angular) Assessment(2024) V1,2025-10-07,1,68,2025-10-07
+294913,HCLTech,pooja.arora@hcltech.com,2222607,HCLTech L1 Skill Pre-Assessment Java V3,2025-10-07,33,40,2025-10-07
+297000,Inspekt AI,matt@inspektai.com,2305645,Inspekt AI Sr. Front-End Developer (React) Hiring Test 2026Q1 v2,2026-02-25,3,4,2026-02-25
+304831,Dentira,kritika@dentira.com,1700687,Dentira Hiring Test #1,2025-09-11,2,28,2025-09-11
+304831,Dentira,kritika@dentira.com,1703687,Dentira Lead Frontend Developer (SDE3) Hiring Test,2025-09-05,3,2,2025-09-05
+304831,Dentira,kritika@dentira.com,1703697,Dentira Frontend Developer (SDE1/SDE2) Hiring Test,2025-09-04,8,77,2025-09-04
+304831,Dentira,kritika@dentira.com,2174868,SDET (Selenium),2025-09-02,10,151,2025-09-02
+36821,MercadoLibre,horacio.brizuela@mercadolibre.com,2220101,Challenge - Backend Developer AI - Seed (SH/CX/FIN),2025-10-09,190,243,2026-01-23
+36821,MercadoLibre,pablo.minones@mercadolibre.com,2237782, Challenge - Frontend Developer AI - Seed (SH/CX/FIN),2025-11-18,39,53,2025-11-18
+371483,NPCI,sangita.rajpoot@npci.org.in,1938305,NPCI Coder/Developer Hiring Test - Basic (Golang),2026-01-29,54,120,2026-01-29
+371483,NPCI,nisha.rodi@npci.org.in,2024065,NPCI AIML Data Science Hiring Test - Intermediate,2026-01-30,36,41,2026-01-30
+371483,NPCI,nisha.rodi@npci.org.in,2024066,NPCI AIML Data Science Hiring Test - Basic,2026-01-30,54,103,2026-01-30
+371483,NPCI,nisha.rodi@npci.org.in,2029030,NPCI AIML Data Engineer Hiring Test - Intermediate ,2026-02-22,1,1,2026-02-22
+371483,NPCI,nisha.rodi@npci.org.in,2032389,NPCI Advance Open Source (Coding - JavaScript) - Basic,2026-01-29,25,55,2026-01-29
+371483,NPCI,nisha.rodi@npci.org.in,2032392,NPCI Advance Open Source (Coding - Python) - Basic,2026-02-10,12,24,2026-02-10
+371483,NPCI,sangita.rajpoot@npci.org.in,2032827,NPCI Coder/Developer Hiring Test - Basic (Rust Developer) ,2026-02-09,2,3,2026-02-09
+371483,NPCI,nisha.rodi@npci.org.in,2053067,NPCI Advance Open Source (Coding - Java) - Basic,2026-01-29,127,230,2026-01-29
+371483,NPCI,nisha.rodi@npci.org.in,2053072,NPCI Advance Open Source (Coding - Java) - Intermediate,2026-02-01,2,2,2026-02-01
+371483,NPCI,nisha.rodi@npci.org.in,2152192,NPCI Production Support Hiring Test - Basic (New),2026-02-12,2,6,2026-02-12
+371483,NPCI,nisha.rodi@npci.org.in,2209414,NPCI Infosec Hiring Test - Basic,2026-01-31,8,10,2026-01-31
+371483,NPCI,nisha.rodi@npci.org.in,2252650,NPCI Research Manager Hiring Test - Basic,2026-02-15,1,1,2026-02-15
+371483,NPCI,nisha.rodi@npci.org.in,2274144,NPCI GPU Architecture Hiring Test - Intermediate,2026-01-31,2,4,2026-01-31
+372466,Atlassian Sandbox,apathania@atlassian.com,2266986,FastTrack Dry Run Test,2025-12-11,3,4,2025-12-11
+372466,Atlassian Sandbox,apathania@atlassian.com,2291481,Atlassian FastTrack IIT Madras 2026 - Demo Test,2026-01-29,1,1,2026-01-29
+372466,Atlassian Sandbox,apathania@atlassian.com,2291703,Atlassian FastTrack IIT Madras 2026 - Flask,2026-01-31,5,5,2026-01-31
+372466,Atlassian Sandbox,apathania@atlassian.com,2291718,Atlassian FastTrack IIT Madras 2026 - Django,2026-01-31,2,2,2026-01-31
+372466,Atlassian Sandbox,apathania@atlassian.com,2291726,Atlassian FastTrack IIT Madras 2026 - React,2026-01-29,2,2,2026-01-29
+372466,Atlassian Sandbox,apathania@atlassian.com,2296809,Atlassian FastTrack IIT Bombay 2026 - React,2026-02-08,1,1,2026-02-08
+372466,Atlassian Sandbox,apathania@atlassian.com,2296819,Atlassian FastTrack IIT Bombay 2026 - Django,2026-02-08,1,1,2026-02-08
+372466,Atlassian Sandbox,apathania@atlassian.com,2296824,Atlassian FastTrack IIT Bombay 2026 - Flask,2026-02-08,7,7,2026-02-08
+37714,Walmart Global Tech Talent Acquisition,jessica.petor@walmart.com,2210596,Walmart Early Careers SWE Intern Assessment - 2025,2025-10-01,311,355,2025-10-01
+37714,Walmart Global Tech Talent Acquisition,jessica.petor@walmart.com,2223934,SWE Level H (do not use),2025-09-30,5,3,2025-09-30
+37714,Walmart Global Tech Talent Acquisition,katie.gunther@walmart.com,2231815,Walmart Early Careers Data Science Intern Assessment - 2025,2025-10-22,27,78,2025-10-22
+37714,Walmart Global Tech Talent Acquisition,katie.gunther@walmart.com,2237411,Walmart Software Engineering Assessment,2026-01-21,241,354,2026-01-21
+37714,Walmart Global Tech Talent Acquisition,katie.gunther@walmart.com,2296938,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2026-02-13,75,81,2026-02-13
+38013,BNY,jerry.tierney@bnymellon.com,2165069,Banking App (JAM) Code-repository Test,2025-09-19,10,21,2025-09-19
+38841,Adobe Inc.,ganter@adobe.com,2268028,API - Apartment Reviews,2025-12-18,1,1,2025-12-18
+38841,Adobe Inc.,weiguo@adobe.com,2293771,Adobe Intelligence Platform AI Engineer (Test 2),2026-02-10,32,41,2026-02-10
+38841,Adobe Inc.,shaharyars@adobe.com,2295398,Commerce Data Scientist Hiring Test,2026-02-06,1,1,2026-02-06
+390038,Black Duck Software,rch@blackduck.com,2212285,Black Duck Software India Campus Hiring Sept25,2025-10-09,5,10,2025-10-09
+390136,FDM Group,chris.spencer@fdmgroup.com,2163498,APAC Software Engineering Recruitment Test,2025-10-04,14,26,2025-10-04
+390136,FDM Group,nichola.marron@fdmgroup.com,2174712,UK & EMEA Data and Analytics Graduate Programme Assessment,2025-10-04,2,3,2025-10-04
+390136,FDM Group,nichola.marron@fdmgroup.com,2174743,N. America Data and Analytics Career Development Program Assessment,2025-10-04,5,5,2025-10-04
+390136,FDM Group,mayank.arora@fdmgroup.com,2182820,North America Software Engineering Bespoke Hiring Assessment,2025-10-03,13,44,2025-10-03
+390136,FDM Group,lauren.peares@fdmgroup.com,2191241,N. America Software Engineering Career Development Program Assessment,2025-10-03,3,5,2025-10-03
+390136,FDM Group,lauren.peares@fdmgroup.com,2191246,UK & EMEA Software Engineering Graduate Programme Assessment,2025-10-04,6,11,2025-10-04
+390136,FDM Group,mayank.arora@fdmgroup.com,2212919,Software Engineering Scotia Core Sprints Test,2025-10-06,9,16,2025-10-06
+390136,FDM Group,mayank.arora@fdmgroup.com,2214394,Software Engineering Scotia Advanced Sprints Test,2025-10-03,2,120,2025-10-03
+390136,FDM Group,nichola.marron@fdmgroup.com,2223003,FDM Group Legal Review - AI features,2025-09-25,1,1,2025-09-25
+390136,FDM Group,chris.spencer@fdmgroup.com,2228154,Junior Software Engineering Coach Test,2025-10-05,1,3,2025-10-05
+390136,FDM Group,lauren.peares@fdmgroup.com,2228802,UK & EMEA Software Engineering Graduate Programme Assessment,2025-10-07,1,7,2025-10-07
+397956,Uber,natallia.pinelli@uber.com,2222443,"Graduate 2025 Software Engineer I Backend, Brazil",2025-10-04,7,33,2025-10-04
+397956,Uber,aolvera@uber.com,2224800,"Graduate 2025 Software Engineer I, Chile",2025-10-05,12,68,2025-10-05
+397956,Uber,jleitch@uber.com,2226551,"2026 Software Engineering Internship, Amsterdam",2025-10-04,4,105,2025-10-04
+397956,Uber,austinsilva@uber.com,2226811,"Uber 2026 Winter Software Engineering Internship, US",2025-10-03,5,15,2025-10-03
+397956,Uber,sanuja.das@uber.com,2226835,"Uber 2026 Winter Software Engineering Internship, US",2025-10-03,8,17,2025-10-03
+397956,Uber,jeremyg@uber.com,2226840,"Uber 2026 Winter Software Engineering Internship, US ",2025-10-03,7,23,2025-10-03
+397956,Uber,vickic@uber.com,2226848,2026 Winter Software Engineering Internship,2025-10-03,6,23,2025-10-03
+397956,Uber,jleitch@uber.com,2227028,"2026 Software Engineering Internship, Aarhus",2025-10-05,4,49,2025-10-05
+400774,Edvisorly,danny.g0125@edvisorly.com,2144043,Edvisorly Backend Engineer (Cloud & Node) Hiring Test,2026-02-27,2,2,2026-02-27
+403892,Amplify Health,bobby.koteski@amplifyhealth.com,2175580,Amplify Health Sr. Mobile Applications Developer (React Native) Hiring Test,2026-02-10,2,4,2026-02-10
+411632,Crest Advisory Group,mc@cammaratainc.com,2249942,Crest Advisory Group Sr. Full-Stack Engineer (React & Node),2025-11-20,30,49,2025-11-20
+413717,Accenture,karen.quanborough@accenture.com,2247617,Accenture | Mid-Senior Back-End Developer (Java-Spring Boot),2026-02-06,2,4,2026-02-06
+413717,Accenture,karen.quanborough@accenture.com,2282368,ACN_HackerRank_SpringBoot Developer_ML9_ Philippines (Benchmarking),2026-01-30,32,41,2026-01-30
+413717,Accenture,karen.quanborough@accenture.com,2282378,ACN_HackerRank_SpringBoot Developer_ML10_ Philippines (Benchmarking),2026-01-30,29,43,2026-01-30
+413717,Accenture,s.chatzikotoulas@accenture.com,2285837,Accenture | iOS Engineer,2026-02-12,2,2,2026-02-12
+413717,Accenture,georgios.sampatakos@accenture.com,2286934,Accenture | Senior React Software Engineer,2026-01-31,1,2,2026-01-31
+413717,Accenture,georgios.sampatakos@accenture.com,2286970,Accenture | React Developer,2026-02-03,3,5,2026-02-03
+413717,Accenture,georgios.sampatakos@accenture.com,2287314,Accenture | Entry Level Front-End Developer (General),2026-02-08,6,7,2026-02-08
+413717,Accenture,karen.quanborough@accenture.com,2287632,ACN_HackerRank_Java FullStack Developer_EE_ML9_ Philippines (Benchmarking),2026-02-13,4,7,2026-02-13
+413717,Accenture,karen.quanborough@accenture.com,2287633,ACN_HackerRank_Java FullStack Developer_EE_ML10_ Philippines (Benchmarking),2026-02-19,2,3,2026-02-19
+413717,Accenture,p.triantafyllopoulos@accenture.com,2288098,Accenture | Senior Front-End Developer (Angular),2026-02-13,1,1,2026-02-13
+413717,Accenture,s.chatzikotoulas@accenture.com,2288172,Accenture | Android Engineer,2026-02-04,3,5,2026-02-04
+413717,Accenture,s.chatzikotoulas@accenture.com,2288226,Accenture | Senior Android Engineer,2026-02-08,1,2,2026-02-08
+413717,Accenture,karen.quanborough@accenture.com,2292878,ACN_HackerRank_Java FullStack Developer_Spring_ML9_ Philippines (Benchmarking),2026-02-15,14,19,2026-02-15
+413717,Accenture,karen.quanborough@accenture.com,2292896,ACN_HackerRank_Java FullStack Developer_Spring_ML10_ Philippines (Benchmarking),2026-02-11,16,23,2026-02-11
+413717,Accenture,karen.quanborough@accenture.com,2292901,ACN_HackerRank_Java FullStack Developer_Node_ML9_ Philippines (Benchmarking),2026-02-12,6,12,2026-02-12
+413717,Accenture,karen.quanborough@accenture.com,2292903,ACN_HackerRank_Java FullStack Developer_Ruby_ML9_ Philippines (Benchmarking),2026-02-13,3,2,2026-02-13
+413717,Accenture,karen.quanborough@accenture.com,2292905,ACN_HackerRank_Java FullStack Developer_Node_ML10_ Philippines (Benchmarking),2026-02-11,5,13,2026-02-11
+413717,Accenture,karen.quanborough@accenture.com,2292907,ACN_HackerRank_Java FullStack Developer_Ruby_ML10_ Philippines (Benchmarking),2026-02-11,1,4,2026-02-11
+431745,Syndio,maha.shouman@synd.io,2293319,Syndio Coding Hiring Test,2026-02-03,1,1,2026-02-03
+435124,,vvasani+sandbox@atlassian.com,2269529,Front-End Developer Hiring Test - AI Enabled,2025-12-16,6,8,2025-12-16
+436430,Planning Center,brian@planningcenter.com,2254544,FSE Take Home Assessment Q1 2026 - OLD,2025-12-05,2,2,2025-12-05
+436430,Planning Center,brian@planningcenter.com,2268733,Full-Stack Engineer Assessment,2025-12-15,35,45,2025-12-15
+445583,,akotlus+apieval@pdri.com,2269550,Software Engineer Hiring Test W/O Proctor,2026-01-22,1,1,2026-01-22
+445954,ISB,saisriramya_gorripati@isb.edu,2227982,CAF ISB October 2025 - Group 1,2025-10-12,7,8,2025-10-12
+445954,ISB,saisriramya_gorripati@isb.edu,2232023,CAF ISB October 2025 - Group 2,2025-10-12,5,5,2025-10-12
+445954,ISB,saisriramya_gorripati@isb.edu,2232024,CAF ISB October 2025 - Group 3,2025-10-12,7,7,2025-10-12
+445954,ISB,saisriramya_gorripati@isb.edu,2232028,CAF ISB October 2025 - Group 4,2025-10-12,5,5,2025-10-12
+445954,ISB,saisriramya_gorripati@isb.edu,2242922,CAF ISB Pilot II - Group B,2025-10-26,7,8,2025-10-26
+445954,ISB,saisriramya_gorripati@isb.edu,2242923,CAF ISB Pilot II - Group C,2025-10-26,8,9,2025-10-26
+445954,ISB,saisriramya_gorripati@isb.edu,2242924,CAF ISB Pilot II - Group D,2025-10-26,5,7,2025-10-26
+445954,ISB,saisriramya_gorripati@isb.edu,2242925,CAF ISB Pilot II - Group A,2025-10-26,8,9,2025-10-26
+448358,Matillion,anton.polomkin@matillion.com,2232596,Sr. Front-End Developer Hiring Test,2026-01-05,6,11,2026-01-05
+448358,Matillion,david.brown@matillion.com,2264559,Staff Quality Engineer Hiring Test,2026-01-15,2,2,2026-01-15
+448358,Matillion,mark.davies@matillion.com,2265397,Java (Spring Boot) Assessment,2026-01-17,8,14,2026-01-17
+448358,Matillion,david.brown@matillion.com,2266142,Senior Quality Engineer Hiring Test (Playwright),2026-01-11,12,15,2026-01-11
+448358,Matillion,kevin.mavely@matillion.com,2302546,Senior Quality Engineer Hiring Test,2026-02-19,2,3,2026-02-19
+449714,Proximal,navid@proximal.so,2251029,Proximal Async - NodeJS Typescript,2025-11-10,3,2,2025-11-12
+450356,Adyen (Sandbox),peter.miklos+sandbox@adyen.com,2264820,Adyen Java Engineer Hiring Test,2025-12-12,1,1,2025-12-12
+450356,Adyen (Sandbox),meet.dattani+sandbox@adyen.com,2276138,Adyen-Internal-BED-Test,2026-01-06,6,11,2026-01-06
+450931,New York Life,tracy_lafontant@newyorklife.com,2233048,"New York Life Technology, Data, AI & Ventures (TDAV) Internship Hiring Test",2025-10-22,5,11,2025-10-22
+450931,New York Life,rita_fuller@newyorklife.com,2249231,New York Life Data Engineer Intern Hiring Test,2025-11-25,32,39,2025-11-25
+450931,New York Life,rita_fuller@newyorklife.com,2249849,New York Life Data Scientist - Intern Hiring Test (Python),2025-12-10,53,85,2025-12-10
+453003,Silk River,peter@silkriver.com,2287164,Silk River Applied AI Engineer Hiring Test,2026-01-28,3,3,2026-01-28
+453065,Frogslayer,justin.matthews@frogslayer.com,2248435,General Developer Technical Assessment,2026-02-15,3,3,2026-02-15
+453065,Frogslayer,justin.matthews@frogslayer.com,2253060,Frontend Skills Assessment,2025-11-14,1,1,2025-11-14
+453065,Frogslayer,justin.matthews@frogslayer.com,2254343,Contractor Frontend Skills Assessment,2025-11-16,2,3,2025-11-16
+453521,Verdi,nart.barileva@verdiag.com,2248562,Sr SWE (Frontend) / Technical Assessment,2025-11-05,43,49,2025-11-05
+453521,Verdi,nart.barileva@verdiag.com,2281150,SWE Intern / Technical Assessment,2026-01-13,31,38,2026-01-15
+453521,Verdi,charles.ju@verdiag.com,2296412,Verdi Firmware Engineer Test,2026-02-18,6,6,2026-02-18
+455561,Instacart Sandbox,simon.jenkins@instacart.com,2254434,Instacart Sandbox Flask & AI test,2025-11-14,2,1,2025-11-14
+457608,Nedbank,lehopotsengr@nedbank.co.za,2257212,Nedbank Software Engineer,2025-11-28,1,5,2025-11-28
+457608,Nedbank,martinba@nedbank.co.za,2257623,Nedbank SQE_Baseline Assessment,2025-12-11,5,7,2025-12-11
+457608,Nedbank,martinba@nedbank.co.za,2259121,Nedbank SQE_Baseline Assessment,2025-12-05,146,184,2025-12-05
+457608,Nedbank,martinba@nedbank.co.za,2260056,NedBank - Data Science & Machine Learning Engineer Roles,2025-12-10,5,6,2025-12-10
+457608,Nedbank,martinba@nedbank.co.za,2260166,NedBank - Data Science & Machine Learning Engineer Roles,2025-12-10,2,3,2025-12-10
+457608,Nedbank,martinba@nedbank.co.za,2260704,Nedbank BI Assessment,2025-12-08,10,21,2025-12-08
+457608,Nedbank,josiahz@nedbank.co.za,2261918,Nedbank Mobile Software Engineer,2025-12-04,1,1,2025-12-04
+457608,Nedbank,josiahz@nedbank.co.za,2262306,Nedbank Mobile Software Engineer,2025-12-03,2,2,2025-12-03
+457608,Nedbank,josiahz@nedbank.co.za,2262420,Nedbank Mobile Software Engineer,2025-12-10,3,3,2025-12-10
+457608,Nedbank,lehopotsengr@nedbank.co.za,2262792,Nedbank Software Engineer,2025-12-09,42,430,2025-12-09
+457608,Nedbank,martinba@nedbank.co.za,2264120,Nedbank SQE_Baseline Assessment,2025-12-09,92,145,2025-12-09
+457608,Nedbank,martinba@nedbank.co.za,2264133,Nedbank BI Assessment,2025-12-09,4,9,2025-12-09
+457608,Nedbank,josiahz@nedbank.co.za,2264135,Nedbank Mobile Software Engineer,2025-12-08,3,5,2025-12-08
+457608,Nedbank,martinba@nedbank.co.za,2264136,Nedbank BI Assessment,2025-12-10,7,11,2025-12-10
+457608,Nedbank,josiahz@nedbank.co.za,2264149,Nedbank Mobile Software Engineer,2026-01-25,1,1,2026-01-25
+457608,Nedbank,martinba@nedbank.co.za,2264176,Nedbank DevOps Assessment,2025-12-09,14,54,2025-12-09
+457608,Nedbank,martinba@nedbank.co.za,2264184,Nedbank DevOps Assessment,2025-12-08,12,68,2025-12-08
+457608,Nedbank,martinba@nedbank.co.za,2264203,Nedbank Data Engineer Assessment,2025-12-10,22,37,2025-12-10
+457608,Nedbank,josiahz@nedbank.co.za,2264205,Nedbank Data Engineer Assessment,2025-12-05,73,120,2025-12-05
+457608,Nedbank,lehopotsengr@nedbank.co.za,2264206,Nedbank Software Engineer,2025-12-05,73,916,2025-12-05
+457608,Nedbank,martinba@nedbank.co.za,2264207,Nedbank Data Engineer Assessment,2025-12-08,15,25,2025-12-08
+458221,The Hartford,kotiramamurthy.davuluri@thehartford.com,2295097,The Hartford Jr. Back-End Developer (.NET) Hiring Test,2026-02-05,3,8,2026-02-05
+458221,The Hartford,kotiramamurthy.davuluri@thehartford.com,2295992,The Hartford Jr. Java Hiring Test,2026-02-12,3,3,2026-02-12
+458221,The Hartford,kotiramamurthy.davuluri@thehartford.com,2296014,The Hartford Sr. Data Engineer Hiring Test,2026-02-22,1,2,2026-02-22
+458664,Garner Health,ryan.clapp@getgarner.com,2260198,Garner Intern and L1 Take Home Test,2025-12-03,69,90,2025-12-05
+459346,Zenika,augustin.grimprel@zenika.com,2255949,Back-End Developer Hiring Test,2025-12-16,2,1,2025-12-17
+460544,Leidos,isaac.k.earl@leidos.com,2265201,Leidos Software Engineer Hiring Test,2025-12-18,7,12,2025-12-18
+460544,Leidos,isaac.k.earl@leidos.com,2265613,Leidos Junior Software Engineer Hiring Test,2025-12-14,6,9,2025-12-14
+460722,Spoki,cosimo.franco@spoki.com,2285998, Frontend Developer - L3/L4,2026-01-24,2,5,2026-01-24
+460722,Spoki,cosimo.franco@spoki.com,2286060, FullStack Developer - L3/L4,2026-01-22,10,14,2026-01-22
+462701,Zycus Inc,shweta.shah@zycus.com,2264494, Java Full Stack Developer Test,2025-12-06,122,141,2025-12-06
+462701,Zycus Inc,shweta.shah@zycus.com,2304722,Lead Java Developer,2026-02-24,12,13,2026-02-24
+463316,"MIMO Tech Co., Ltd.",kritsanc@ais.co.th,2276194,Data Engineering Skill Assessment,2026-01-12,35,42,2026-01-12
+463316,"MIMO Tech Co., Ltd.",kritsanc@ais.co.th,2276235,BI Engineering Skill Assessment,2026-01-14,20,27,2026-01-14
+465376,TMD Technology Limited,jozef@embeddable.de,2293263,Embeddable - Take home Senior QA Test,2026-02-05,3,3,2026-02-05
+467959,Ampcus Inc,kamal.vadrevu@ampcus.com,2286154,Full Stack Developer 307540,2026-01-20,2,2,2026-01-20
+470153,"Bee Techy, LLC.",cto@beetechy.com,2298622,Bee Techy Python/Next.js Hiring Test,2026-02-12,8,11,2026-02-12
+470153,"Bee Techy, LLC.",cto@beetechy.com,2300380,Bee Techy React Team Leader Hiring Test,2026-02-13,3,9,2026-02-13
+470635,JALF | JUST A LITTLE FUN,nicolas@jalf.com,2288741,JALF | Développeur·se Front-End - Hiring Test,2026-01-27,5,5,2026-01-27
+470635,JALF | JUST A LITTLE FUN,nicolas@jalf.com,2291178,JALF | Développeur·se Front-End - Hiring Test (V2),2026-01-28,1,1,2026-01-28
+471629,,assam.zafar@flydubai.com,2298563,FZ - Sr. Full-Stack Engineer (React & Node) Hiring Test,2026-02-10,2,2,2026-02-25
+471728,,suryaveer.singh@blinkhealth.com,2294958,Senior Software Engineer ,2026-02-06,10,11,2026-02-06
+471989,Hcltech,devisd+alias@hcltech.com,2298011,Python test,2026-02-10,1,1,2026-02-11
+471999,Phia,marissa@phia.com,2293741,Phia Principal Full-Stack Engineer Hiring Test (2),2026-02-13,7,9,2026-02-13
+471999,Phia,marissa@phia.com,2293746,Phia Full-Stack Engineer Hiring Test (2),2026-02-17,34,42,2026-02-17
+472477,SK Life Science,jnoe@sklsi.com,2294751,SK Life Science Inc. online coding test,2026-02-14,4,4,2026-02-14
+472822,Mathisys India,harsha.malhotra@mathisys-india.com,2296724,Mathisys Quantcap Internship 2026 - IIT Delhi,2026-02-07,3,9,2026-02-07
+472822,Mathisys India,harsha.malhotra@mathisys-india.com,2297304,Mathisys Quantcap Internship 2026 - IIT Bombay,2026-02-08,10,14,2026-02-08
+473081,Keragon,hello@keragon.com,2301790,Keragon Integrations Software Engineer,2026-02-16,3,3,2026-02-18
+473162,TIG,scott.stainton@ii-solutions.co.uk,2298544,Senior Frontend Engineer Test,2026-02-13,1,1,2026-02-13
+473721,Skytech Communications,davidplessis@skytech.com,2300359,Développeur Full Stack,2026-02-24,1,3,2026-02-24
+5764,KLA India,harikishan.vootori@kla.com,2261236,KLA-AI Algo Lead Engr Test,2025-12-16,13,15,2025-12-16
+59893,Honeywell,bapi.reddy@honeywell.com,1861660,Honeywell Intern AI/ML Test 2025,2025-10-06,1,11,2025-10-06
+59893,Honeywell,joshua.cotton@honeywell.com,1933391,Honeywell AI Candidate Assessment 2025 (HQ),2025-10-04,1,20,2025-10-04
+59893,Honeywell,nathan.studebaker@honeywell.com,2211512,Honeywell Software Engineer Graduate Hiring Test (2025),2025-09-28,20,33,2025-09-28
+71110,UPS,cayetin@ups.com,2288425,Happy Returns DevOps Engineer Cloud Infrastructure Test (v2),2026-01-26,19,48,2026-01-26
+95641,DraftKings Inc,jdugginsss@draftkings.comm,411255,DraftKings Software Engineering Challenge (Org Chart),2025-10-04,6,67,2025-10-04

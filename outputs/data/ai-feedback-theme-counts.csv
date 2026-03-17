@@ -1,0 +1,16 @@
+week_start,week_label,channel,poor_quality_n,fairness_n,ux_interface_n,performance_n,missing_limited_n
+2025-09-29,Sep W5 '25,screen,0,0,1,1,0
+2025-10-06,Oct W1 '25,screen,0,0,0,0,1
+2025-12-08,Dec W2 '25,screen,1,0,0,1,1
+2025-12-08,Dec W2 '25,interview,1,0,0,0,0
+2026-01-05,Jan W1 '26,screen,0,0,0,1,0
+2026-01-12,Jan W2 '26,screen,0,0,1,0,0
+2026-01-12,Jan W2 '26,interview,2,0,0,1,1
+2026-01-19,Jan W3 '26,screen,0,0,0,1,0
+2026-01-26,Jan W4 '26,screen,0,0,4,0,0
+2026-01-26,Jan W4 '26,interview,1,0,1,1,0
+2026-02-02,Feb W1 '26,screen,2,0,2,1,0
+2026-02-09,Feb W2 '26,screen,0,0,0,0,1
+2026-02-16,Feb W3 '26,screen,0,0,1,0,0
+2026-02-23,Feb W4 '26,screen,1,0,1,0,0
+2026-02-23,Feb W4 '26,interview,0,0,0,0,1

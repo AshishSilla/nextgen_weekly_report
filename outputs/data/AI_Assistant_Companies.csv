@@ -1,0 +1,141 @@
+company_id,company_name,screen_attempts_with_ai,interviews_with_ai,uses_screen,uses_interviews,salesforce_region,company_segment_type,industry_type,arr,company_country,company_stripe_plan,hr_cam_fullname,company_owner_email,in_metadata,is_sandbox,first_screen_activity,last_screen_activity,first_interview_activity,last_interview_activity,is_testing_screen,is_testing_interview
+115581,Amazon,1210,0,Y,N,NAMER,ENT,Non-Core Tech,4016000.0,united states,basecamp_3_premium,Russ Vaughan,stemera@amazon.com,Y,N,2025-10-07,2026-02-28,,,N,N
+37714,Walmart Global Tech Talent Acquisition,659,15,Y,Y,NAMER,ENT,Non-Core Tech,2087500.0,united states,basecamp-3-premium,Lauren Siegel,jessica.petor@walmart.com,Y,N,2025-09-08,2026-02-28,2026-02-24,2026-02-28,N,N
+457608,Nedbank,533,0,Y,N,EMEA,ENT,Tech-Forward,82500.0,united states,basecamp_3_premium,Zedi Ramzan,teresaj@nedbank.co.za,Y,N,2025-11-28,2026-01-28,,,N,N
+371483,NPCI,326,0,Y,N,APAC,ENT,,27700.0,india,basecamp-1-premium,Anshul Nagar,sangita.rajpoot@npci.org.in,Y,N,2026-01-29,2026-02-28,,,N,N
+36821,MercadoLibre,229,0,Y,N,LATAM,ENT,Non-Core Tech,300000.0,argentina,basecamp-3-premium,Tyler Mullin,maria.trejo@mercadolibre.com,Y,N,2025-09-19,2026-02-27,,,N,N
+462701,Zycus Inc,134,21,Y,Y,,,,,united states,pro-v3,,shweta.shah@zycus.com,Y,N,2025-12-06,2026-02-27,2026-01-09,2026-02-27,N,N
+397956,Uber,53,93,Y,Y,NAMER,ENT,Non-Core Tech,575000.0,united states,basecamp-1-premium,Casey Pedersen,ta-selections-and-assessments@uber.com,Y,N,2025-10-03,2025-10-07,2025-08-22,2026-02-27,N,N
+413717,Accenture,131,0,Y,N,,,,,united states,basecamp-1-premium,,karen.quanborough@accenture.com,Y,N,2026-01-30,2026-02-25,,,N,N
+38841,Adobe Inc.,34,69,Y,Y,NAMER,ENT,Tech-First,502500.0,united states,basecamp-3-premium,Tyler Mullin,acummins@adobe.com,Y,N,2025-11-25,2026-02-28,2025-11-19,2026-02-27,N,N
+102108,Thoughtworks,93,1,Y,Y,NAMER,ENT,Tech-Forward,64500.0,australia,basecamp-1-premium,Anshul Nagar,vishnugopal.vs@thoughtworks.com,Y,N,2025-10-04,2025-10-07,2025-09-04,2025-09-04,N,Y
+21736,Optmyzr,90,0,Y,N,,,,,,user-enterprise-v2,,manas@optmyzr.com,Y,N,2026-02-24,2026-02-24,,,N,N
+450931,New York Life,90,0,Y,N,NAMER,ENT,Tech-Forward,102000.0,united states,basecamp_3_premium,Lauren Siegel,tracy_lafontant@newyorklife.com,Y,N,2025-10-22,2026-02-28,,,N,N
+453521,Verdi,80,0,Y,N,NAMER,SMB,,0.0,canada,pro-v3,Data Mgmt User,nart.barileva@verdiag.com,Y,N,2025-11-04,2026-02-28,,,N,N
+458664,Garner Health,69,0,Y,N,NAMER,MM,Non-Core Tech,19250.0,united states,basecamp-3-premium,Rachael Kitchens,michi.kono@getgarner.com,Y,N,2025-12-03,2026-02-11,,,N,N
+159261,Cognizant Technology Solutions,68,0,Y,N,NAMER,ENT,Tech-Forward,368104.0,india,basecamp_3_premium,Sindhu Selvaraj,thai.nguyen@cognizant.com,Y,N,2025-09-04,2026-02-25,,,N,N
+294913,HCLTech,67,0,Y,N,APAC,ENT,Tech-Forward,38787.0,india,basecamp-1-premium,Sindhu Selvaraj,agrawal.sumit@hcltech.com,Y,N,2025-10-07,2025-10-07,,,N,N
+281885,Wayfair,15,47,Y,Y,NAMER,ENT,Non-Core Tech,80000.0,united states,enterprise-dsp-premium,Casey Pedersen,emox@wayfair.com,Y,N,2025-10-03,2026-01-12,2024-07-19,2026-02-26,N,N
+424048,Paxos,0,60,N,Y,NAMER,MM,Tech-Forward,16900.0,united states,basecamp_3_premium,Alyssa Baricevich,jperry@paxos.com,Y,N,,,2025-10-01,2026-02-27,N,N
+129342,MoneyLion Inc,58,0,Y,N,APAC,MM,Tech-First,0.0,malaysia,free,Shivangi Agarwal,yztan@moneylion.com,Y,N,2025-11-24,2025-11-24,,,N,N
+390136,FDM Group,57,0,Y,N,EMEA,ENT,Tech-Forward,119502.0,united kingdom,basecamp-3-premium,Zedi Ramzan,nichola.marron@fdmgroup.com,Y,N,2025-09-25,2025-10-07,,,N,N
+95641,DraftKings Inc,6,49,Y,Y,NAMER,ENT,Non-Core Tech,183250.0,united states,basecamp_3_premium,Scott Peeler,jduggins@draftkings.com,Y,N,2025-10-04,2025-10-07,2025-09-08,2026-02-23,N,N
+463316,"MIMO Tech Co., Ltd.",55,0,Y,N,,,,,thailand,pro-v3,,kritsanc@ais.co.th,Y,N,2026-01-12,2026-02-24,,,N,N
+146325,Oracle Corporation,0,54,N,Y,NAMER,ENT,Tech-Forward,275000.0,united states,enterprise-dsp-premium,Tyler Mullin,satheshkumar.sathyamurthy@oracle.com,Y,N,,,2025-09-05,2026-02-26,N,N
+445954,ISB,52,0,Y,N,,,,,united states,basecamp-3-premium,,saisriramya_gorripati@isb.edu,Y,N,2025-10-09,2025-10-26,,,N,N
+26633,Indeed,0,48,N,Y,NAMER,ENT,Tech-Forward,100000.0,united states,basecamp_3_premium,Lauren Siegel,rebekah@indeed.com,Y,N,,,2025-11-07,2026-02-27,N,N
+123720,Blue Origin,0,47,N,Y,NAMER,ENT,Tech-Forward,57570.48,united states,basecamp_3_premium,STR CAM West,dkinney@blueorigin.com,Y,N,,,2025-11-20,2026-02-27,N,N
+471999,Phia,41,0,Y,N,NAMER,SMB,,20500.0,,basecamp_3_premium,Alyssa Baricevich,hiring@phia.com,Y,N,2026-02-13,2026-02-27,,,N,N
+436430,Planning Center,37,2,Y,Y,NAMER,MM,,19100.0,united states,basecamp-3-premium,Rachael Kitchens,brian@planningcenter.com,Y,N,2025-11-18,2026-01-29,2025-12-04,2026-02-26,N,N
+411632,Crest Advisory Group,30,0,Y,N,NAMER,MM,,0.0,united states,pro-v3,Data Mgmt User,mc@cammaratainc.com,Y,N,2025-11-20,2026-02-22,,,N,N
+448358,Matillion,30,0,Y,N,NAMER,MM,Tech-First,13500.0,united states,basecamp_3_premium,Dipesh Shamji,natasha.cobb@matillion.com,Y,N,2026-01-05,2026-02-22,,,N,N
+72050,Affirm,0,27,N,Y,NAMER,ENT,Tech-Forward,66000.0,india,basecamp-3-premium,STR CAM West,haylea.foss@affirm.com,Y,N,,,2025-11-03,2026-02-27,N,N
+397390,Palo Alto Networks,0,27,N,Y,NAMER,ENT,Tech-First,166666.67,united states,basecamp_3_premium,Tyler Mullin,nzarns@paloaltonetworks.com,Y,N,,,2025-12-16,2026-02-27,N,N
+38013,BNY,10,16,Y,Y,NAMER,ENT,Tech-Forward,155000.0,united states,enterprise-dsp-premium,Russ Vaughan,jerry.tierney@bnymellon.com,Y,N,2025-09-19,2026-02-27,2025-09-18,2026-02-26,N,N
+101749,Problem Setters,24,0,Y,N,,,,,india,user-enterprise-v2,,karthik.g+problemsetters@hackerrank.com,Y,N,2026-01-05,2026-02-28,,,N,N
+304831,Dentira,23,0,Y,N,APAC,SMB,Non-Core Tech,2350.0,india,basecamp-1-premium,Simranjit Kaur,kritika@dentira.com,Y,N,2025-09-02,2025-09-25,,,N,N
+59893,Honeywell,22,0,Y,N,NAMER,ENT,Tech-Forward,216937.5,united states,basecamp-1-premium,Lauren Siegel,diana.torres@honeywell.com,Y,N,2025-09-28,2025-10-06,,,N,N
+26581,Salesforce,21,0,Y,N,NAMER,ENT,Tech-First,959444.44,united states,basecamp-3-premium,Tyler Mullin,azyka@salesforce.com,Y,N,2025-11-26,2026-02-25,,,N,N
+71110,UPS,19,0,Y,Y,NAMER,ENT,Non-Core Tech,37500.0,united states,basecamp-3-premium,Alyssa Baricevich,amymanifold@ups.com,Y,N,2026-01-26,2026-02-28,2026-02-05,2026-02-05,N,N
+18076,Snap Inc.,0,19,N,Y,NAMER,ENT,Tech-First,85000.0,united states,basecamp-3-premium,STR CAM West,sbach@snapchat.com,Y,N,,,2025-09-08,2026-02-20,N,N
+5764,KLA India,13,0,Y,N,APAC,ENT,Tech-Forward,59293.75,india,basecamp-1-premium,Sindhu Selvaraj,sivakumar.sukumaran@kla.com,Y,N,2025-12-16,2026-02-26,,,N,N
+460544,Leidos,13,0,Y,N,,,,,united states,pro-v3,,lanecg@leidos.com,Y,N,2025-12-14,2026-01-12,,,N,N
+472822,Mathisys India,13,0,Y,N,APAC,SMB,,0.0,us,basecamp_3_premium,Hamzah Khan,harsha.malhotra@mathisys-india.com,Y,N,2026-02-06,2026-02-08,,,N,N
+459346,Zenika,2,10,Y,Y,EMEA,MM,,17000.0,,basecamp_3_premium,Dipesh Shamji,augustin.grimprel@zenika.com,Y,N,,,2025-12-05,2026-02-27,N,N
+460722,Spoki,12,0,Y,N,EMEA,SMB,,11500.0,italy,basecamp_3_premium,Sanjana Francis,mai.badawy@spoki.com,Y,N,2026-01-22,2026-02-19,,,N,N
+434628,Agoda,0,12,N,Y,,,,,india,enterprise-dsp-premium,,aleksey.galanov+alias@agoda.com,Y,N,,,2025-09-08,2025-12-12,N,N
+462673,Drivenets LTD,0,12,N,Y,EMEA,MM,,0.0,denmark,pro-v3,Sanjana Francis,ohecht@drivenets.com,Y,N,,,2026-02-16,2026-02-26,N,N
+470153,"Bee Techy, LLC.",11,0,Y,N,NAMER,SMB,,0.0,ukraine,pro-v3,Hamzah Khan,cto@beetechy.com,Y,N,2026-02-12,2026-02-28,,,N,N
+20865,Bloomberg LP,10,0,Y,N,NAMER,ENT,Tech-Forward,600000.0,united states,basecamp-3-premium,Russ Vaughan,eparisi5@bloomberg.net,Y,N,2025-09-12,2025-09-24,,,N,N
+471728,,10,0,Y,N,,,,,australia,free,,john.matthew@blinkhealth.com,Y,N,2026-02-06,2026-02-08,,,N,N
+272667,Groupe Onepoint,6,3,Y,Y,EMEA,ENT,Tech-Forward,18000.0,united states,basecamp-3-premium,Dipesh Shamji,j.fabre@groupeonepoint.com,Y,N,2026-01-25,2026-02-26,2026-02-13,2026-02-23,N,N
+96577,Nuro,0,9,N,Y,NAMER,ENT,Tech-Forward,36000.0,united states,basecamp-1-premium,Alyssa Baricevich,bwilliams@nuro.ai,Y,N,,,2025-12-19,2026-01-23,N,N
+170120,Amazon Hook,8,0,Y,N,,,,,united states,user-enterprise-v2,,daniel.somrack+hook@hackerrank.com,Y,N,2025-09-05,2025-12-12,,,N,N
+459081,Federato.ai,0,8,N,Y,,,,,united states,basecamp-3-premium,,braeden.kepner@federato.ai,Y,N,,,2025-12-01,2026-02-25,N,N
+458221,The Hartford,7,0,Y,N,APAC,ENT,Tech-Forward,143000.0,united states,basecamp_3_premium,Anshul Nagar,pranouti.pagare@thehartford.com,Y,N,2026-02-05,2026-02-24,,,N,N
+105203,Softtech Yazilim Teknolojileri Arastirma Gelistirme Ve Pazarlama Ticaret An,6,0,Y,N,EMEA,ENT,Tech-First,14000.0,turkey,user-enterprise-v2,Dipesh Shamji,numan.kacar@softtech.com.tr,Y,N,2026-02-25,2026-02-28,,,N,N
+453065,Frogslayer,6,0,Y,N,,,,,united states,pro-v3,,justin.matthews@frogslayer.com,Y,N,2025-11-14,2026-02-21,,,N,N
+470635,JALF | JUST A LITTLE FUN,6,0,Y,N,,,,,canada,free,,nicolas@jalf.com,Y,N,2026-01-27,2026-01-29,,,N,N
+50229,Coupang,0,6,N,Y,APAC,ENT,Non-Core Tech,182100.0,united states,basecamp-3-premium,Sindhu Selvaraj,younjuk9817@coupang.com,Y,N,,,2026-01-07,2026-02-13,N,N
+250117,ISZT Nonprofit Kft. - HU20763091,5,0,Y,N,EMEA,SMB,Tech-Forward,0.0,hungary,pro-v3,Data Mgmt User,bodor.csaba@domain.hu,Y,N,2026-02-23,2026-02-27,,,N,N
+390038,Black Duck Software,5,0,Y,N,NAMER,ENT,Tech-First,40000.0,united states,basecamp-1-premium,Alyssa Baricevich,arshad@blackduck.com,Y,N,2025-10-03,2025-10-13,,,N,N
+472729,,0,5,N,Y,NAMER,MM,,0.0,united states,basecamp-3-premium,Alyssa Baricevich,larry.li@clay.com,Y,N,,,2026-01-28,2026-02-23,N,N
+472477,SK Life Science,4,0,Y,N,NAMER,Unknown,,0.0,united states,pro-v3,Hamzah Khan,jnoe@sklsi.com,Y,N,2026-02-14,2026-02-25,,,N,N
+191973,Equinix,3,0,Y,N,NAMER,ENT,Tech-Forward,56000.0,singapore,enterprise-dsp-premium,Anshul Nagar,mande@equinix.com,Y,N,2025-10-06,2026-01-21,,,N,N
+297000,Inspekt AI,3,0,Y,N,NAMER,SMB,,0.0,thailand,pro-v3,Data Mgmt User,matt@inspektai.com,Y,N,2026-02-25,2026-02-26,,,N,N
+431745,Syndio,1,2,Y,Y,,,,,,pro-v3,,engineer.testing@synd.io,Y,N,2026-02-03,2026-02-03,2026-02-09,2026-02-12,Y,Y
+449714,Proximal,3,0,Y,N,NAMER,Unknown,,0.0,,pro-v3,Data Mgmt User,navid@proximal.so,Y,N,2025-11-10,2025-11-12,,,Y,N
+453003,Silk River,3,0,Y,N,NAMER,SMB,,0.0,,pro-v3,Data Mgmt User,grant@silkriver.com,Y,N,2026-01-28,2026-01-30,,,Y,N
+465376,TMD Technology Limited,3,0,Y,N,EMEA,Unknown,,0.0,ireland,pro-v3,Data Mgmt User,steve@embeddable.com,Y,N,2026-02-05,2026-02-28,,,N,N
+473081,Keragon,3,0,Y,N,EMEA,SMB,,0.0,us,basecamp-3-premium,Hamzah Khan,hello@keragon.com,Y,N,2026-02-16,2026-02-24,,,N,N
+91434,OpenAI,0,3,N,Y,NAMER,MM,Tech-First,12000.0,united states,enterprise-dsp-premium,Tyler Mullin,stefanie@openai.com,Y,N,,,2025-11-10,2025-11-18,N,N
+148813,Quadrature Capital,0,3,N,Y,EMEA,MM,Tech-Forward,38621.0,united kingdom,user-enterprise-v2,Dipesh Shamji,emily@quadrature.ai,Y,N,,,2026-01-28,2026-02-03,N,Y
+367269,Versant Digital Platform Ventures,0,3,N,Y,NAMER,ENT,,0.0,united states,pro-v3,Data Mgmt User,ops-billing+hackerrank@golfnow.io,Y,N,,,2026-02-02,2026-02-06,N,Y
+400774,Edvisorly,2,0,Y,N,NAMER,SMB,,0.0,united states,pro-v3,Data Mgmt User,stacey.maresco@edvisorly.com,Y,N,2026-02-27,2026-02-28,,,N,N
+403892,Amplify Health,2,0,Y,N,APAC,MM,,0.0,singapore,pro-v3,Shivangi Agarwal,bobby.koteski@amplifyhealth.com,Y,N,2026-02-10,2026-02-12,,,Y,N
+467959,Ampcus Inc,2,0,Y,N,,,,,united states,basecamp_3_premium,,kamal.vadrevu@ampcus.com,Y,N,2026-01-20,2026-01-22,,,Y,N
+471629,,2,0,Y,N,,,,,israel,basecamp-3-premium,,sabu.george@flydubai.com,Y,N,2026-02-10,2026-02-25,,,N,N
+131682,AlphaSense,0,2,N,Y,NAMER,ENT,Tech-First,35500.0,united states,basecamp-3-premium,Alyssa Baricevich,bhanu.chitturi@alpha-sense.com,Y,N,,,2025-09-17,2025-09-17,N,Y
+374431,Spotnana,0,2,N,Y,NAMER,MM,Tech-First,30900.0,united states,basecamp-1-premium,Alyssa Baricevich,kali@spotnana.com,Y,N,,,2026-02-23,2026-02-25,N,N
+380219,IBM Digital Talent for Business Company Limited,0,2,N,Y,APAC,SMB,,0.0,thailand,pro-v3,Data Mgmt User,sarocha.b@ibmdt.co.th,Y,N,,,2026-01-29,2026-02-02,N,Y
+450009,SiteMinder,0,2,N,Y,,,,,united states,basecamp-3-premium,,shu.feng@siteminder.com,Y,N,,,2025-11-06,2026-02-03,N,N
+455843,,0,2,N,Y,,,,,switzerland,free,,alexandre.quintino@lightspeedhq.com,Y,N,,,2025-11-04,2025-11-06,N,Y
+100519,Paycom,1,0,Y,N,NAMER,ENT,Tech-First,0.0,united states,free,Madeline Green,david.crabtree@paycomonline.com,Y,N,2025-10-06,2025-10-06,,,Y,N
+254505,Unosquare,1,0,Y,N,NAMER,MM,Tech-Forward,29328.0,united states,enterprise-dsp-premium,Alyssa Baricevich,adam.lynch@unosquare.com,Y,N,2025-09-19,2025-09-19,,,Y,N
+445583,,1,0,Y,N,,,,,united states,enterprise-dsp-premium,,akotlus+apieval@pdri.com,Y,N,2026-01-22,2026-01-22,,,Y,N
+471989,Hcltech,1,0,Y,Y,,,,,us,basecamp-3-premium,,devisd+alias@hcltech.com,Y,N,2026-02-10,2026-02-10,2026-02-10,2026-02-13,Y,N
+473162,TIG,1,0,Y,N,Unknown,SMB,,0.0,united kingdom,pro-v3,Hamzah Khan,scott.stainton@ii-solutions.co.uk,Y,N,2026-02-10,2026-02-13,,,Y,N
+473721,Skytech Communications,1,0,Y,N,,,,,united states,pro-v3,,davidplessis@skytech.com,Y,N,2026-02-16,2026-02-24,,,N,N
+66856,Qualtrics,0,1,Y,Y,NAMER,ENT,Tech-First,172500.0,united states,basecamp_3_premium,Casey Pedersen,schiles@qualtrics.com,Y,N,2025-09-26,2025-09-26,2026-02-19,2026-02-19,N,Y
+72208,Etsy,0,1,N,Y,NAMER,ENT,Non-Core Tech,102700.0,united states,basecamp-3-premium,Lauren Siegel,iademoyo@etsy.com,Y,N,,,2025-10-15,2025-10-15,N,Y
+84487,Pendo,0,1,N,Y,NAMER,MM,Tech-First,15687.5,united states,basecamp-3-premium,Alyssa Baricevich,stephen@pendo.io,Y,N,,,2026-02-27,2026-02-27,N,N
+172878,Ceiba Software,0,1,N,Y,LATAM,MM,Tech-Forward,8058.0,colombia,user-enterprise-v2,Simranjit Kaur,hackerrank.admin@ceiba.com.co,Y,N,,,2025-12-02,2025-12-02,N,Y
+212384,Rippling,0,1,N,Y,NAMER,ENT,Tech-First,75000.0,united states,basecamp-3-premium,STR CAM West,adam@rippling.com,Y,N,,,2025-09-09,2025-09-09,N,Y
+389834,Trust Wallet,0,1,N,Y,NAMER,MM,,0.0,united states,pro-v3,Data Mgmt User,eng-admin@trustwallet.com,Y,N,,,2026-02-02,2026-02-02,N,Y
+407497,"Mesh Connect, Inc.",0,1,N,Y,NAMER,SMB,,0.0,united states,pro-v3,Data Mgmt User,henry.hang@meshconnect.com,Y,N,,,2026-02-18,2026-02-18,N,Y
+457183,Amaris Consulting,0,1,N,Y,,,,,united states,free,,eakakpo@amaris.com,Y,N,,,2025-11-19,2025-11-19,N,Y
+462029,,0,1,N,Y,,,,,united states,free,,david.levine+alias@xero.com,Y,N,,,2025-12-08,2025-12-08,N,Y
+473375,,0,1,N,Y,,,,,united states,free,,jeremy.evans@usp.org,Y,N,,,2026-02-12,2026-02-12,N,Y
+19983,Source Allies,0,0,Y,N,NAMER,MM,Tech-Forward,0.0,united states,pro-v3,Alyssa Baricevich,cwinton@sourceallies.com,Y,N,2026-02-09,2026-02-09,,,N,N
+65569,Salesforce,0,0,Y,N,,,,,united states,user-enterprise-v2,,hackerrankadmins@salesforce.com,Y,N,2025-10-08,2025-10-27,,,N,N
+137560,Technical Support Test Account,0,0,Y,N,,,,,india,basecamp-1-premium,,suryanidhi+trial@hackerrank.com,Y,N,2026-01-07,2026-01-07,,,N,N
+149221,Maven Securities,0,0,Y,N,EMEA,MM,Tech-Forward,40500.0,united kingdom,basecamp-1-premium,Jamie Hirst,reanne.patterson@mavensecurities.com,Y,N,2026-01-30,2026-01-30,,,N,N
+426908,,0,0,Y,Y,,,,,united states,pro-v3,,jason+verifone@hackerrank.com,Y,N,2026-02-04,2026-02-04,2026-02-04,2026-02-27,N,N
+445106,Lightspeed,0,0,Y,N,,,,,,free,,peter.scardera@lightspeedhq.com,Y,N,2025-09-23,2025-09-23,,,N,N
+445251,Shutterfly,0,0,Y,N,,,,,united states,free,,kangesh.gunaseelan@shutterfly.com,Y,N,2026-02-07,2026-02-07,,,N,N
+452059,,0,0,Y,N,,,,,india,free,,deepika.p+newcom@hackerrank.com,Y,N,2025-10-15,2025-10-15,,,N,N
+457006,,0,0,Y,N,,,,,croatia,free,,luka.dugi@spaceinch.com,Y,N,2025-11-13,2025-11-13,,,N,N
+467545,Granted,0,0,Y,N,,,,,united states,basecamp_3_premium,,jimmy@medbill.ai,Y,N,2026-01-09,2026-01-13,,,N,N
+469761,Stepful,0,0,Y,N,,,,,,pro-v3,,lena.roufaeal@stepful.com,Y,N,2026-02-25,2026-02-27,,,N,N
+470114,Portside LLC,0,0,Y,N,,,,,canada,basecamp_3_premium,,mrainesh@portside.co,Y,N,2026-02-26,2026-02-26,,,N,N
+474427,Welocalize,0,0,Y,N,,,,,united states,basecamp_3_premium,,olesia.khrapunova@welocalize.com,Y,N,2026-02-19,2026-02-19,,,N,N
+476409,Celonis,0,0,Y,N,,,,,us,basecamp-1-premium,,r.balakrishnan@celonis.de,Y,N,2026-02-24,2026-02-24,,,N,N
+-448358,Matillion,0,0,Y,N,,,,,,,,david.brown@matillion.com,N,N,2026-01-11,2026-02-13,,,N,N
+-459346,Zenika,0,0,Y,N,,,,,,,,augustin.grimprel@zenika.com,N,N,2025-12-16,2025-12-17,,,N,N
+-36821,MercadoLibre,0,0,Y,N,,,,,,,,horacio.brizuela@mercadolibre.com,N,N,2025-09-17,2025-09-17,,,N,N
+-436430,Planning Center,0,0,Y,N,,,,,,,,brian@planningcenter.com,N,N,2025-11-10,2025-11-10,,,N,N
+-426375,,0,0,Y,N,,,,,,,,carlottamaria.crippa@maggioli.it,N,N,2025-10-10,2025-10-10,,,N,N
+452940,Airbnb,0,0,N,Y,,,,,united states,basecamp-1-premium,,aishwarya.iyer+airbnb@hackerrank.com,Y,N,,,2025-10-24,2025-10-30,N,N
+463502,DeepL,0,0,N,Y,,,,,united states,basecamp-3-premium,,jake.lamb@deepl.com,Y,N,,,2025-12-19,2026-02-26,N,N
+473037,Razorpay,0,0,N,Y,,,,,us,basecamp-3-premium,,sujan.adiga@razorpay.com,Y,N,,,2026-02-24,2026-02-24,N,N
+435124,,6,69,Y,Y,,,,,united states,basecamp-1-premium,,vvasani+sandbox@atlassian.com,Y,Y,2025-12-16,2025-12-19,2025-12-19,2026-01-30,N,N
+372466,Atlassian Sandbox,22,0,Y,N,,,,,united states,basecamp_3_premium,,admin@atlassiansandbox.com,Y,Y,2025-12-09,2026-02-08,,,N,N
+458073,Affirm Sandbox,0,19,N,Y,,,,,united states,basecamp-3-premium,,thomas.nguyen+sandbox@affirm.com,Y,Y,,,2025-11-13,2026-01-14,N,N
+405356,Uber Sandbox,0,10,N,Y,,,,,united states,basecamp-1-premium,,jleitch+sandbox@uber.com,Y,Y,,,2026-02-03,2026-02-27,N,N
+450356,Adyen (Sandbox),7,0,Y,N,,,,,united states,basecamp-1-premium,,deborah.desouza+sandbox@adyen.com,Y,Y,2025-12-12,2026-02-15,,,N,N
+412566,Wayfair Sandbox,0,7,N,Y,,,,,united states,basecamp-1-premium,,greales@wayfaircareers.com,Y,Y,,,2026-01-21,2026-02-13,N,N
+366825,Adobe (Sandbox),0,6,N,Y,,,,,united states,enterprise-dsp-premium,,gtovm@adobe.co.in,Y,Y,,,2025-09-04,2025-11-13,N,N
+402663,coupang.com,0,6,N,Y,,,,,united states,basecamp-1-premium,,tachoi41+sandbox@coupang.com,Y,Y,,,2025-12-02,2026-02-04,N,N
+266391,Expedia Sandbox,0,5,Y,Y,,,,,united states,user-enterprise-v2,,travivarma@expediagroup.com,Y,Y,2025-11-07,2026-02-04,2025-11-07,2026-01-30,N,N
+448712,Optiver Sandbox,0,5,N,Y,,,,,united states,enterprise-dsp-premium,,heathersolov+sandbox@optiver.us,Y,Y,,,2025-12-11,2025-12-16,N,N
+186995,Cisco Sandbox,3,0,Y,Y,,,,,united states,enterprise-dsp-premium,,john+ciscosandbox@hackerrank.com,Y,Y,2025-09-16,2025-10-01,2025-09-16,2025-09-16,N,N
+121883,ServiceNow Sandbox Account,2,0,Y,N,,,,,united states,basecamp-3-premium,,ginger.beck@servicenow.com,Y,Y,2026-02-27,2026-02-27,,,N,N
+455561,Instacart Sandbox,2,0,Y,N,,,,,united states,basecamp_3_premium,,jason+instacart@hackerrank.com,Y,Y,2025-11-14,2025-11-17,,,N,N
+443890,Wise sandbox,0,1,Y,Y,,,,,united states,basecamp-1-premium,,nick.dante+1@wise.com,Y,Y,2025-10-13,2025-10-13,2025-10-14,2025-10-14,N,N
+180807,Disney Sandbox,0,0,Y,Y,,,,,united states,user-enterprise-v2,,john+disneysandbox@hackerrank.com,Y,Y,2025-12-16,2026-02-03,2026-01-20,2026-01-20,N,N
+263506,Goldman Sachs Sandbox,0,0,Y,Y,,,,,united states,user-enterprise-v2,,trev+goldmansandbox@hackerrank.com,Y,Y,2025-11-20,2026-02-04,2025-11-20,2026-02-24,N,N
+375820,TCS Sandbox,0,0,Y,N,,,,,india,basecamp-1-premium,,haritha.thangavel+new_features_sandbox@tcs.com,Y,Y,2025-10-28,2025-10-28,,,N,N
+454010,,0,0,Y,N,,,,,united states,enterprise-dsp-premium,,julianne+sandbox@sproutsocial.com,Y,Y,2025-11-11,2025-11-11,,,N,N
+467958,VISA Sandbox,0,0,Y,N,,,,,united states,basecamp-3-premium,,aishwarya.iyer+visa@hackerrank.com,Y,Y,2026-01-26,2026-01-27,,,N,N
+299771,Bloomberg Avature Testing Sandbox,0,0,N,Y,,,,,united states,basecamp-1-premium,,trev+bloombergavaturetestingsandbox@hackerrank.com,Y,Y,,,2026-02-06,2026-02-27,N,N
+456234,Qualtrics Sandbox,0,0,N,Y,,,,,india,basecamp_3_premium,,echild+sandbox@qualtrics.com,Y,Y,,,2026-01-07,2026-02-12,N,N

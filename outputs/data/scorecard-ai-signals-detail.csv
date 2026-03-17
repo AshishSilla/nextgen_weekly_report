@@ -1,0 +1,16 @@
+company_id,company_name,scorecard_title,section_field_title,signal_tier,interview_count
+38841,Adobe Inc.,GenStudio Technical Evaluation and Cultural Fit,Does the candidate demonstrate inquisitiveness to latest trends in the industry related to Agentic and Gen AI,strong,3
+38841,Adobe Inc.,NXUI Full Stack Scorecard,"Judgment and clarity in how LLMs are used, when to use them, and how they think about manipulating the prompts to get better results (E.g. telling the LLM to return data in a structured format)",strong,3
+97018,Avalara,Machine Learning Engineer Scorecard,GenAI skills assessment,strong,78
+175923,Dell Technologies,Dell ISG DD Protocols,Exposure to AI,strong,17
+175923,Dell Technologies,Sr. Data Scientist Scorecard,5) Generative AI Readiness (GAIR),strong,2
+60832,McKinsey & Company,"QB GE-O ""GenAI Allowed"" Scorecard",Use of GenAI,strong,1
+424048,Paxos,Tech 1 Scorecard,AI Collaboration,strong,4
+103487,ServiceNow,Impact AI Literacy Scorecard,AI tools usage,strong,17
+60021,Balyasny Asset Management,AI Solutions Engineer - AI Enablement Team,,title-only,19
+60021,Balyasny Asset Management,Applied AI Engineer Scorecard,,title-only,13
+107553,Bolt,Applied AI Engineer Scorecard,,title-only,2
+39902,Expedia Group,Senior MLS (GenAI),,title-only,21
+81339,Intact Financial Corporation,Senior AI Dev Scorecard,,title-only,16
+29832,ServiceTitan Inc.,Senior Machine Learning Engineer (Generative AI) Scorecard,,title-only,7
+37714,Walmart Global Tech Talent Acquisition,CV/AI/ML_Pipeline_Engineer,,title-only,5

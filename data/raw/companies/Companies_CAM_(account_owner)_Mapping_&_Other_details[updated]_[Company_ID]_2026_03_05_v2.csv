@@ -1,0 +1,136 @@
+company_id,company_name,is_ever_paid_customer,hr_cam_fullname,hr_cam_email,company_owner_email,company_type,company_stripe_plan,company_country,salesforce_region,arr,company_service_type,company_segment_type,industry_type,company_size,company_size_segment
+473721,Skytech Communications,ever_paid,,,davidplessis@skytech.com,unlimited,pro-v3,united states,,,unknown,,,,
+470153,"Bee Techy, LLC.",ever_paid,Hamzah Khan,hamzah@hackerrank.com,cto@beetechy.com,unlimited,pro-v3,ukraine,NAMER,0.0,self_serve,SMB,,1-10,SMB
+460722,Spoki,ever_paid,Sanjana Francis,sanjana@hackerrank.com,mai.badawy@spoki.com,unlimited,basecamp_3_premium,italy,EMEA,11500.0,full_serve,SMB,,11-100,SMB
+38013,BNY,ever_paid,Russ Vaughan,russ@hackerrank.com,jerry.tierney@bnymellon.com,unlimited,enterprise-dsp-premium,united states,NAMER,155000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+191973,Equinix,ever_paid,Anshul Nagar,anshul@hackerrank.com,mande@equinix.com,unlimited,enterprise-dsp-premium,singapore,NAMER,56000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+101749,Problem Setters,ever_paid,,,karthik.g+problemsetters@hackerrank.com,unlimited,user-enterprise-v2,india,,,unknown,,,,
+148813,Quadrature Capital,ever_paid,Dipesh Shamji,dipesh@hackerrank.com,emily@quadrature.ai,paid,user-enterprise-v2,united kingdom,EMEA,38621.0,full_serve,MM,Tech-Forward,1-100,MM
+371483,NPCI,ever_paid,Anshul Nagar,anshul@hackerrank.com,sangita.rajpoot@npci.org.in,unlimited,basecamp-1-premium,india,APAC,27700.0,full_serve,ENT,,,ENT
+424048,Paxos,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,jperry@paxos.com,unlimited,basecamp_3_premium,united states,NAMER,16900.0,full_serve,MM,Tech-Forward,101-500*,MM
+36821,MercadoLibre,ever_paid,Tyler Mullin,tyler@hackerrank.com,maria.trejo@mercadolibre.com,unlimited,basecamp-3-premium,argentina,LATAM,300000.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+467545,Granted,ever_paid,,,jimmy@medbill.ai,unlimited,basecamp_3_premium,united states,,,unknown,,,,
+453003,Silk River,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,grant@silkriver.com,unlimited,pro-v3,,NAMER,0.0,self_serve,SMB,,1-100,SMB
+405356,Uber Sandbox,ever_paid,,,jleitch+sandbox@uber.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+180807,Disney Sandbox,ever_paid,,,john+disneysandbox@hackerrank.com,paid,user-enterprise-v2,united states,,,unknown,,,,
+473162,TIG,ever_paid,Hamzah Khan,hamzah@hackerrank.com,scott.stainton@ii-solutions.co.uk,unlimited,pro-v3,united kingdom,Unknown,0.0,self_serve,SMB,,1-10,SMB
+19983,Source Allies,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,cwinton@sourceallies.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,MM,Tech-Forward,501-1000*,MM
+294913,HCLTech,ever_paid,Sindhu Selvaraj,sindhu.selvaraj@hackerrank.com,agrawal.sumit@hcltech.com,unlimited,basecamp-1-premium,india,APAC,38787.0,full_serve,ENT,Tech-Forward,1001-5000*,ENT
+129342,MoneyLion Inc,ever_paid,Shivangi Agarwal,shivangi@hackerrank.com,yztan@moneylion.com,locked,free,malaysia,APAC,0.0,unknown,MM,Tech-First,501-1000*,MM
+471629,,ever_paid,,,sabu.george@flydubai.com,unlimited,basecamp-3-premium,israel,,,unknown,,,,
+95641,DraftKings Inc,ever_paid,Scott Peeler,scott.peeler@hackerrank.com,jduggins@draftkings.com,unlimited,basecamp_3_premium,united states,NAMER,183250.0,full_serve,ENT,Non-Core Tech,5001-10000*,ENT
+453521,Verdi,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,nart.barileva@verdiag.com,unlimited,pro-v3,canada,NAMER,0.0,self_serve,SMB,,1-100,SMB
+299771,Bloomberg Avature Testing Sandbox,ever_paid,,,trev+bloombergavaturetestingsandbox@hackerrank.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+66856,Qualtrics,ever_paid,Casey Pedersen,casey.pedersen@hackerrank.com,schiles@qualtrics.com,unlimited,basecamp_3_premium,united states,NAMER,172500.0,full_serve,ENT,Tech-First,1001-5000*,ENT
+366825,Adobe (Sandbox),ever_paid,,,gtovm@adobe.co.in,unlimited,enterprise-dsp-premium,united states,,,unknown,,,,
+445251,Shutterfly,ever_paid,,,kangesh.gunaseelan@shutterfly.com,locked,free,united states,,,unknown,,,,
+367269,Versant Digital Platform Ventures,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,ops-billing+hackerrank@golfnow.io,unlimited,pro-v3,united states,NAMER,0.0,self_serve,ENT,,501-1000*,ENT
+470635,JALF | JUST A LITTLE FUN,ever_paid,,,nicolas@jalf.com,locked,free,canada,,,unknown,,,,
+59893,Honeywell,ever_paid,Lauren Siegel,lauren.siegel@hackerrank.com,diana.torres@honeywell.com,unlimited,basecamp-1-premium,united states,NAMER,216937.5,full_serve,ENT,Tech-Forward,10000+*,ENT
+467959,Ampcus Inc,ever_paid,,,kamal.vadrevu@ampcus.com,unlimited,basecamp_3_premium,united states,,,unknown,,,,
+397956,Uber,ever_paid,Casey Pedersen,casey.pedersen@hackerrank.com,ta-selections-and-assessments@uber.com,unlimited,basecamp-1-premium,united states,NAMER,575000.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+402663,coupang.com,ever_paid,,,tachoi41+sandbox@coupang.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+38841,Adobe Inc.,ever_paid,Tyler Mullin,tyler@hackerrank.com,acummins@adobe.com,unlimited,basecamp-3-premium,united states,NAMER,502500.0,full_serve,ENT,Tech-First,10000+*,ENT
+37714,Walmart Global Tech Talent Acquisition,ever_paid,Lauren Siegel,lauren.siegel@hackerrank.com,jessica.petor@walmart.com,unlimited,basecamp-3-premium,united states,NAMER,2087500.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+473375,,NA,,,,locked,free,united states,,,unknown,,,,
+445954,ISB,ever_paid,,,saisriramya_gorripati@isb.edu,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+411632,Crest Advisory Group,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,mc@cammaratainc.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,MM,,101-500,MM
+474427,Welocalize,ever_paid,,,olesia.khrapunova@welocalize.com,unlimited,basecamp_3_premium,united states,,,unknown,,,,
+462701,Zycus Inc,ever_paid,,,shweta.shah@zycus.com,unlimited,pro-v3,united states,,,unknown,,,,
+445583,,ever_paid,,,akotlus+apieval@pdri.com,unlimited,enterprise-dsp-premium,united states,,,unknown,,,,
+462673,Drivenets LTD,ever_paid,Sanjana Francis,sanjana@hackerrank.com,ohecht@drivenets.com,unlimited,pro-v3,denmark,EMEA,0.0,self_serve,MM,,501-1000,MM
+50229,Coupang,ever_paid,Sindhu Selvaraj,sindhu.selvaraj@hackerrank.com,younjuk9817@coupang.com,unlimited,basecamp-3-premium,united states,APAC,182100.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+96577,Nuro,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,bwilliams@nuro.ai,unlimited,basecamp-1-premium,united states,NAMER,36000.0,full_serve,ENT,Tech-Forward,501-1000*,ENT
+471728,,ever_paid,,,john.matthew@blinkhealth.com,locked,free,australia,,,unknown,,,,
+436430,Planning Center,ever_paid,Rachael Kitchens,rachael.kitchens@hackerrank.com,brian@planningcenter.com,unlimited,basecamp-3-premium,united states,NAMER,19100.0,full_serve,MM,,101-500,MM
+390038,Black Duck Software,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,arshad@blackduck.com,unlimited,basecamp-1-premium,united states,NAMER,40000.0,full_serve,ENT,Tech-First,501-1000*,ENT
+458073,Affirm Sandbox,ever_paid,,,thomas.nguyen+sandbox@affirm.com,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+457608,Nedbank,ever_paid,Zedi Ramzan,mohammed.ramzan@hackerrank.com,teresaj@nedbank.co.za,unlimited,basecamp_3_premium,united states,EMEA,82500.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+473081,Keragon,ever_paid,Hamzah Khan,hamzah@hackerrank.com,hello@keragon.com,unlimited,basecamp-3-premium,us,EMEA,0.0,full_serve,SMB,,1-10,SMB
+467958,VISA Sandbox,ever_paid,,,aishwarya.iyer+visa@hackerrank.com,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+413717,Accenture,ever_paid,,,karen.quanborough@accenture.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+449714,Proximal,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,navid@proximal.so,unlimited,pro-v3,,NAMER,0.0,self_serve,Unknown,,,Unknown
+426908,,ever_paid,,,jason+verifone@hackerrank.com,unlimited,pro-v3,united states,,,unknown,,,,
+26633,Indeed,ever_paid,Lauren Siegel,lauren.siegel@hackerrank.com,rebekah@indeed.com,unlimited,basecamp_3_premium,united states,NAMER,100000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+20865,Bloomberg LP,ever_paid,Russ Vaughan,russ@hackerrank.com,eparisi5@bloomberg.net,unlimited,basecamp-3-premium,united states,NAMER,600000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+21736,Optmyzr,ever_paid,,,manas@optmyzr.com,paid,user-enterprise-v2,,,,unknown,,,,
+115581,Amazon,ever_paid,Russ Vaughan,russ@hackerrank.com,stemera@amazon.com,unlimited,basecamp_3_premium,united states,NAMER,4016000.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+263506,Goldman Sachs Sandbox,ever_paid,,,trev+goldmansandbox@hackerrank.com,paid,user-enterprise-v2,united states,,,unknown,,,,
+473037,Razorpay,ever_paid,,,sujan.adiga@razorpay.com,unlimited,basecamp-3-premium,us,,,unknown,,,,
+281885,Wayfair,ever_paid,Casey Pedersen,casey.pedersen@hackerrank.com,emox@wayfair.com,unlimited,enterprise-dsp-premium,united states,NAMER,80000.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+186995,Cisco Sandbox,ever_paid,,,john+ciscosandbox@hackerrank.com,unlimited,enterprise-dsp-premium,united states,,,unknown,,,,
+172878,Ceiba Software,ever_paid,Simranjit Kaur,simranjit@hackerrank.com,hackerrank.admin@ceiba.com.co,paid,user-enterprise-v2,colombia,LATAM,8058.0,full_serve,MM,Tech-Forward,501-1000*,MM
+254505,Unosquare,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,adam.lynch@unosquare.com,unlimited,enterprise-dsp-premium,united states,NAMER,29328.0,full_serve,MM,Tech-Forward,501-1000*,MM
+458664,Garner Health,ever_paid,Rachael Kitchens,rachael.kitchens@hackerrank.com,michi.kono@getgarner.com,unlimited,basecamp-3-premium,united states,NAMER,19250.0,full_serve,MM,Non-Core Tech,1-100,MM
+389834,Trust Wallet,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,eng-admin@trustwallet.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,MM,,1-100,MM
+450356,Adyen (Sandbox),ever_paid,,,deborah.desouza+sandbox@adyen.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+460544,Leidos,ever_paid,,,lanecg@leidos.com,unlimited,pro-v3,united states,,,unknown,,,,
+374431,Spotnana,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,kali@spotnana.com,unlimited,basecamp-1-premium,united states,NAMER,30900.0,full_serve,MM,Tech-First,101-500*,MM
+72050,Affirm,ever_paid,STR CAM West,placeholder222@hackerrank.com,haylea.foss@affirm.com,unlimited,basecamp-3-premium,india,NAMER,66000.0,full_serve,ENT,Tech-Forward,5001-10000*,ENT
+448358,Matillion,ever_paid,Dipesh Shamji,dipesh@hackerrank.com,natasha.cobb@matillion.com,unlimited,basecamp_3_premium,united states,NAMER,13500.0,full_serve,MM,Tech-First,101-500*,MM
+463316,"MIMO Tech Co., Ltd.",ever_paid,,,kritsanc@ais.co.th,unlimited,pro-v3,thailand,,,unknown,,,,
+431745,Syndio,ever_paid,,,engineer.testing@synd.io,unlimited,pro-v3,,,,unknown,,,,
+443890,Wise sandbox,ever_paid,,,nick.dante+1@wise.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+121883,ServiceNow Sandbox Account,ever_paid,,,ginger.beck@servicenow.com,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+450931,New York Life,ever_paid,Lauren Siegel,lauren.siegel@hackerrank.com,tracy_lafontant@newyorklife.com,unlimited,basecamp_3_premium,united states,NAMER,102000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+470114,Portside LLC,ever_paid,,,mrainesh@portside.co,unlimited,basecamp_3_premium,canada,,,unknown,,,,
+297000,Inspekt AI,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,matt@inspektai.com,unlimited,pro-v3,thailand,NAMER,0.0,self_serve,SMB,,1-100,SMB
+455561,Instacart Sandbox,ever_paid,,,jason+instacart@hackerrank.com,unlimited,basecamp_3_premium,united states,,,unknown,,,,
+457183,Amaris Consulting,ever_paid,,,eakakpo@amaris.com,locked,free,united states,,,unknown,,,,
+372466,Atlassian Sandbox,ever_paid,,,admin@atlassiansandbox.com,unlimited,basecamp_3_premium,united states,,,unknown,,,,
+250117,ISZT Nonprofit Kft. - HU20763091,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,bodor.csaba@domain.hu,unlimited,pro-v3,hungary,EMEA,0.0,self_serve,SMB,Tech-Forward,1-100,SMB
+91434,OpenAI ,ever_paid,Tyler Mullin,tyler@hackerrank.com,stefanie@openai.com,unlimited,enterprise-dsp-premium,united states,NAMER,12000.0,full_serve,MM,Tech-First,1-100,MM
+465376,TMD Technology Limited,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,steve@embeddable.com,unlimited,pro-v3,ireland,EMEA,0.0,self_serve,Unknown,,,Unknown
+397390,Palo Alto Networks,ever_paid,Tyler Mullin,tyler@hackerrank.com,nzarns@paloaltonetworks.com,unlimited,basecamp_3_premium,united states,NAMER,166666.67,full_serve,ENT,Tech-First,10000+*,ENT
+454010,,ever_paid,,,julianne+sandbox@sproutsocial.com,unlimited,enterprise-dsp-premium,united states,,,unknown,,,,
+65569,Salesforce,ever_paid,,,hackerrankadmins@salesforce.com,paid,user-enterprise-v2,united states,,,unknown,,,,
+390136,FDM Group,ever_paid,Zedi Ramzan,mohammed.ramzan@hackerrank.com,nichola.marron@fdmgroup.com,unlimited,basecamp-3-premium,united kingdom,EMEA,119502.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+407497,"Mesh Connect, Inc.",ever_paid,Data Mgmt User,sales_ops@hackerrank.com,henry.hang@meshconnect.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,SMB,,1-100,SMB
+472729,,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,larry.li@clay.com,unlimited,basecamp-3-premium,united states,NAMER,0.0,full_serve,MM,,1001-5000,MM
+450009,SiteMinder,ever_paid,,,shu.feng@siteminder.com,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+131682,AlphaSense,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,bhanu.chitturi@alpha-sense.com,unlimited,basecamp-3-premium,united states,NAMER,35500.0,full_serve,ENT,Tech-First,101-500*,ENT
+304831,Dentira,ever_paid,Simranjit Kaur,simranjit@hackerrank.com,kritika@dentira.com,unlimited,basecamp-1-premium,india,APAC,2350.0,full_serve,SMB,Non-Core Tech,1-100,SMB
+400774,Edvisorly,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,stacey.maresco@edvisorly.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,SMB,,1-100,SMB
+455843,,NA,,,,locked,free,switzerland,,,unknown,,,,
+123720,Blue Origin,ever_paid,STR CAM West,placeholder222@hackerrank.com,dkinney@blueorigin.com,unlimited,basecamp_3_premium,united states,NAMER,57570.48,full_serve,ENT,Tech-Forward,1001-5000*,ENT
+448712,Optiver Sandbox,ever_paid,,,heathersolov+sandbox@optiver.us,unlimited,enterprise-dsp-premium,united states,,,unknown,,,,
+452059,,NA,,,,locked,free,india,,,unknown,,,,
+137560,Technical Support Test Account,ever_paid,,,suryanidhi+trial@hackerrank.com,unlimited,basecamp-1-premium,india,,,unknown,,,,
+403892,Amplify Health,ever_paid,Shivangi Agarwal,shivangi@hackerrank.com,bobby.koteski@amplifyhealth.com,unlimited,pro-v3,singapore,APAC,0.0,self_serve,MM,,101-500,MM
+212384,Rippling,ever_paid,STR CAM West,placeholder222@hackerrank.com,adam@rippling.com,unlimited,basecamp-3-premium,united states,NAMER,75000.0,full_serve,ENT,Tech-First,5001-10000*,ENT
+463502,DeepL,ever_paid,,,jake.lamb@deepl.com,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+266391,Expedia Sandbox,ever_paid,,,travivarma@expediagroup.com,paid,user-enterprise-v2,united states,,,unknown,,,,
+272667,Groupe Onepoint,ever_paid,Dipesh Shamji,dipesh@hackerrank.com,j.fabre@groupeonepoint.com,unlimited,basecamp-3-premium,united states,EMEA,18000.0,full_serve,ENT,Tech-Forward,5001-10000*,ENT
+84487,Pendo,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,stephen@pendo.io,unlimited,basecamp-3-premium,united states,NAMER,15687.5,full_serve,MM,Tech-First,501-1000*,MM
+472822,Mathisys India,ever_paid,Hamzah Khan,hamzah@hackerrank.com,harsha.malhotra@mathisys-india.com,unlimited,basecamp_3_premium,us,APAC,0.0,full_serve,SMB,,11-100,SMB
+472477,SK Life Science,ever_paid,Hamzah Khan,hamzah@hackerrank.com,jnoe@sklsi.com,unlimited,pro-v3,united states,NAMER,0.0,self_serve,Unknown,,,Unknown
+149221,Maven Securities,ever_paid,Jamie Hirst,jamie@hackerrank.com,reanne.patterson@mavensecurities.com,unlimited,basecamp-1-premium,united kingdom,EMEA,40500.0,full_serve,MM,Tech-Forward,101-500*,MM
+453065,Frogslayer,ever_paid,,,justin.matthews@frogslayer.com,unlimited,pro-v3,united states,,,unknown,,,,
+100519,Paycom,ever_paid,Madeline Green,madeline@hackerrank.com,david.crabtree@paycomonline.com,locked,free,united states,NAMER,0.0,unknown,ENT,Tech-First,1001-5000*,ENT
+146325,Oracle Corporation,ever_paid,Tyler Mullin,tyler@hackerrank.com,satheshkumar.sathyamurthy@oracle.com,unlimited,enterprise-dsp-premium,united states,NAMER,275000.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+434628,Agoda,ever_paid,,,aleksey.galanov+alias@agoda.com,unlimited,enterprise-dsp-premium,india,,,unknown,,,,
+170120,Amazon Hook,ever_paid,,,daniel.somrack+hook@hackerrank.com,paid,user-enterprise-v2,united states,,,unknown,,,,
+459081,Federato.ai,ever_paid,,,braeden.kepner@federato.ai,unlimited,basecamp-3-premium,united states,,,unknown,,,,
+159261,Cognizant Technology Solutions,ever_paid,Sindhu Selvaraj,sindhu.selvaraj@hackerrank.com,thai.nguyen@cognizant.com,unlimited,basecamp_3_premium,india,NAMER,368104.0,full_serve,ENT,Tech-Forward,501-1000*,ENT
+435124,,ever_paid,,,vvasani+sandbox@atlassian.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+71110,UPS,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,amymanifold@ups.com,unlimited,basecamp-3-premium,united states,NAMER,37500.0,full_serve,ENT,Non-Core Tech,10000+*,ENT
+456234,Qualtrics Sandbox,ever_paid,,,echild+sandbox@qualtrics.com,unlimited,basecamp_3_premium,india,,,unknown,,,,
+469761,Stepful,ever_paid,,,lena.roufaeal@stepful.com,unlimited,pro-v3,,,,unknown,,,,
+18076,Snap Inc.,ever_paid,STR CAM West,placeholder222@hackerrank.com,sbach@snapchat.com,unlimited,basecamp-3-premium,united states,NAMER,85000.0,full_serve,ENT,Tech-First,5001-10000*,ENT
+471999,Phia,ever_paid,Alyssa Baricevich,alyssa.baricevich@hackerrank.com,hiring@phia.com,unlimited,basecamp_3_premium,,NAMER,20500.0,full_serve,SMB,,11-100,SMB
+459346,Zenika,ever_paid,Dipesh Shamji,dipesh@hackerrank.com,augustin.grimprel@zenika.com,unlimited,basecamp_3_premium,,EMEA,17000.0,full_serve,MM,,101-500,MM
+458221,The Hartford,ever_paid,Anshul Nagar,anshul@hackerrank.com,pranouti.pagare@thehartford.com,unlimited,basecamp_3_premium,united states,APAC,143000.0,full_serve,ENT,Tech-Forward,,ENT
+445106,Lightspeed,NA,,,,locked,free,,,,unknown,,,,
+102108,Thoughtworks ,ever_paid,Anshul Nagar,anshul@hackerrank.com,vishnugopal.vs@thoughtworks.com,unlimited,basecamp-1-premium,australia,NAMER,64500.0,full_serve,ENT,Tech-Forward,10000+*,ENT
+105203,Softtech Yazilim Teknolojileri Arastirma Gelistirme Ve Pazarlama Ticaret An,ever_paid,Dipesh Shamji,dipesh@hackerrank.com,numan.kacar@softtech.com.tr,paid,user-enterprise-v2,turkey,EMEA,14000.0,full_serve,ENT,Tech-First,501-1000*,ENT
+476409,Celonis,ever_paid,,,r.balakrishnan@celonis.de,unlimited,basecamp-1-premium,us,,,unknown,,,,
+26581,Salesforce,ever_paid,Tyler Mullin,tyler@hackerrank.com,azyka@salesforce.com,unlimited,basecamp-3-premium,united states,NAMER,959444.44,full_serve,ENT,Tech-First,10000+*,ENT
+375820,TCS Sandbox,ever_paid,,,haritha.thangavel+new_features_sandbox@tcs.com,unlimited,basecamp-1-premium,india,,,unknown,,,,
+380219,IBM Digital Talent for Business Company Limited ,ever_paid,Data Mgmt User,sales_ops@hackerrank.com,sarocha.b@ibmdt.co.th,unlimited,pro-v3,thailand,APAC,0.0,self_serve,SMB,,101-500*,SMB
+412566,Wayfair Sandbox,ever_paid,,,greales@wayfaircareers.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+72208,Etsy,ever_paid,Lauren Siegel,lauren.siegel@hackerrank.com,iademoyo@etsy.com,unlimited,basecamp-3-premium,united states,NAMER,102700.0,full_serve,ENT,Non-Core Tech,5001-10000*,ENT
+452940,Airbnb,ever_paid,,,aishwarya.iyer+airbnb@hackerrank.com,unlimited,basecamp-1-premium,united states,,,unknown,,,,
+471989,Hcltech,ever_paid,,,devisd+alias@hcltech.com,unlimited,basecamp-3-premium,us,,,unknown,,,,
+462029,,NA,,,,locked,free,united states,,,unknown,,,,
+5764,KLA India,ever_paid,Sindhu Selvaraj,sindhu.selvaraj@hackerrank.com,sivakumar.sukumaran@kla.com,unlimited,basecamp-1-premium,india,APAC,59293.75,full_serve,ENT,Tech-Forward,10000+*,ENT
+457006,,NA,,,,locked,free,croatia,,,unknown,,,,

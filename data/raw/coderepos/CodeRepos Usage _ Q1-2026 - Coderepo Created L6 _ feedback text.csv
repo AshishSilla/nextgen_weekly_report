@@ -1,0 +1,36 @@
+Query used,,,,,,,,,,,,,,,
+company_id,company_name,coderepo_qid,coderepo_name,coderepo_stack_name,coderepo_role_type,question_library_source,question_author_company_name,usage_type,attempt_start_date,attempt_id,product_rating,feedback_user_role,feedback_user_email,product_rating1,feedback
+57501,Best Buy,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2026-02-27,7968900,5,interviewer,vishwas.setia@bestbuy.com,5,
+38013,BNY,2395446,MovieDB Code Repo (Spring Boot),"SpringBoot, Angular and MongoDB",fullstack,library,HackerRank,interview,2026-02-24,7939730,5,candidate,ravitejabilla52@gmail.com,5,Good
+38013,BNY,2395446,MovieDB Code Repo (Spring Boot),"SpringBoot, Angular and MongoDB",fullstack,library,HackerRank,interview,2026-02-18,7900269,4,candidate,test@test.com,4,
+370732,Microsoft,2395446,MovieDB Code Repo (Spring Boot),"SpringBoot, Angular and MongoDB",fullstack,library,HackerRank,interview,2026-02-18,7901753,4,candidate,jonny_stacey@hotmail.com,4,
+397956,Uber,2216190,Uber: Banking App,"SpringBoot, Angular and MongoDB",fullstack,custom,Uber,interview,2026-02-05,7773993,4,interviewer,achatterjee@uber.com,4,
+397956,Uber,2216190,Uber: Banking App,"SpringBoot, Angular and MongoDB",fullstack,custom,Uber,interview,2026-01-28,7662596,2,candidate,ashendrabansal@gmail.com,2,Very slow tool
+397956,Uber,2216190,Uber: Banking App,"SpringBoot, Angular and MongoDB",fullstack,custom,Uber,interview,2026-01-28,7671209,1,candidate,shrey.ghildiyal314@gmail.com,1,The Ai Assistant sucks donckey balls
+397956,Uber,2257509,Banking App Go,"Go, React and MySQL",fullstack,custom,Uber,interview,2026-01-28,7671209,1,candidate,shrey.ghildiyal314@gmail.com,1,The Ai Assistant sucks donckey balls
+348506,Agoda,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2026-01-28,7734116,5,candidate,chotiwet.sun@gmail.com,5,
+146325,Oracle Corporation,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2026-01-23,7693791,4,interviewer,raju.sripada@oracle.com,4,
+397956,Uber,2216190,Uber: Banking App,"SpringBoot, Angular and MongoDB",fullstack,custom,Uber,interview,2026-01-13,7610997,5,interviewer,roopansh@uber.com,5,
+348506,Agoda,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2026-01-09,7614252,5,candidate,jjackie1036@gmail.com,5,
+370732,Microsoft,2395446,MovieDB Code Repo (Spring Boot),"SpringBoot, Angular and MongoDB",fullstack,library,HackerRank,interview,2026-01-06,7634740,5,candidate,nikitagbti@gmail.com,5,
+348506,Agoda,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2025-12-29,7575337,4,candidate,jjackie1036@gmail.com,4,
+150202,TikTok,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2025-12-17,7574834,5,candidate,82076408@qq.com,5,
+150202,TikTok,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,interview,2025-12-17,7574834,4,interviewer,wangren.walter@bytedance.com,4,
+95641,DraftKings Inc,2220009,Banking Backend Application - Java,Spring Boot,backend,custom,DraftKings Inc,interview,2025-12-11,7512158,5,candidate,sai.tavva54@gmail.com,5,
+397956,Uber,2216190,Uber: Banking App,"SpringBoot, Angular and MongoDB",fullstack,custom,Uber,interview,2025-12-02,7482419,4,candidate,baran+candidate@uber.com,4,
+397956,Uber,2257509,Banking App Go,"Go, React and MySQL",fullstack,custom,Uber,interview,2025-12-02,7482419,4,candidate,baran+candidate@uber.com,4,
+397956,Uber,2257509,Banking App Go,"Go, React and MySQL",fullstack,custom,Uber,interview,2025-11-06,7189002,5,candidate,a@mailinator.com,5,
+397956,Uber,2257509,Banking App Go,"Go, React and MySQL",fullstack,custom,Uber,interview,2025-11-06,7189002,5,interviewer,kshailesh@uber.com,5,
+297000,Inspekt AI,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-26,83699319,1,candidate,micolpableo@gmail.com,1,"had issues with the connection, i wasnt able to finish the exam
+"
+297000,Inspekt AI,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-25,83663969,5,candidate,gdru.ph00.ms@outlook.com,5,
+297000,Inspekt AI,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-25,83664682,5,candidate,jaycon46madrid@gmail.com,5,
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-16,83431726,2,candidate,tedward61194@gmail.com,2,I'm not sure if my 3rd answer submitted. I tried submitting it with 15 seconds left and it said something went wrong
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-16,83433572,5,candidate,lixueqiong1118@gmail.com,5,
+473162,TIG,2321439,Melodio Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-12,83331534,4,candidate,gregmichaeldavies@gmail.com,4,
+473162,TIG,2321439,Melodio Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-12,83332869,5,candidate,ryan@mazithomas.com,5,"The environment worked well, the web preview was responsive and I was able to complete my test without issues."
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-12,83337132,5,candidate,steven.brett.edwards@gmail.com,5,
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-10,83272899,5,candidate,jsbuchmann@gmail.com,5,
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-09,83241746,4,candidate,jakechoward77@gmail.com,4,
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-08,83196702,4,candidate,jermlove@gmail.com,4,
+377435,Aegis Software,2265531,MovieDB Code Repo (MERN),MERN,fullstack,library,HackerRank,screen,2026-02-04,83103420,4,candidate,thomaschestnut00@gmail.com,4,

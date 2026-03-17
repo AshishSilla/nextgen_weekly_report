@@ -1,0 +1,244 @@
+coderepo_qid,coderepo_name,question_library_source,coderepo_stack_name,coderepo_role_type,COUNTUNIQUE of coderepo_task_qid
+2216190,Uber: Banking App,custom,"SpringBoot, Angular and MongoDB",fullstack,23
+2265531,MovieDB Code Repo (MERN),library,MERN,fullstack,10
+2417191,Workflow Code Repo (MERN),library,MERN,fullstack,8
+2395446,MovieDB Code Repo (Spring Boot),library,"SpringBoot, Angular and MongoDB",fullstack,4
+2395350,MovieDB Code Repo (Django),library,"Django, Angular and MongoDB",fullstack,4
+2237577,Banking App Code Repo (JAM),custom,"SpringBoot, Angular and MongoDB",fullstack,4
+2205764,Courses App Flask React Code Repo [Interviews],custom,"Django, Angular and MongoDB",fullstack,4
+2404679,Atlassian: Banking App Code Repo (JAM),custom,"SpringBoot, Angular and MongoDB",fullstack,3
+2387342,change test,custom,MERN,fullstack,3
+2325972,Banking Backend Application,custom,.NET Core,backend,3
+2324672,[INTERNAL TEST ONLY] Frontend Pairing Exercise,custom,"Django, Angular and MongoDB",fullstack,3
+2321671,[INTERNAL TEST ONLY] Frontend Pairing Exercise,custom,React.JS,frontend,3
+2321439,Melodio Code Repo (MERN),library,MERN,fullstack,3
+2319816,Banking Backend Application,custom,.NET Core,backend,3
+2284204,[Wayfair] JAM Banking App Code Repo,custom,"SpringBoot, Angular and MongoDB",fullstack,3
+2257509,Banking App Go,custom,"Go, React and MySQL",fullstack,3
+2220009,Banking Backend Application - Java,custom,Spring Boot,backend,3
+2424587,Invite Management Service (Java),custom,Java with Gradle,fullstack,2
+2424581,Invite Management Service (TypeScript),custom,Node.JS,fullstack,2
+2424578,Invite Management Service (Node.js),custom,Node.JS,fullstack,2
+2424575,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,2
+2424572,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Java with Gradle,custom,Java with Gradle,fullstack,2
+2424556,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Java with Gradle,custom,Java with Gradle,fullstack,2
+2424539,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,2
+2424530,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Java with Gradle,custom,Java with Gradle,fullstack,2
+2424522,Invite Management Service (Go),custom,Go,fullstack,2
+2423624,Invite Management Service (Python),custom,Django,fullstack,2
+2422563,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Django,custom,Django,fullstack,2
+2422446,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Django - aravinth,custom,Django,fullstack,2
+2422107,[Draft][wip] [25th Feb 2026] Project (Full-stack Developer) - Django - Aravinth,custom,Django,fullstack,2
+2402335,Atlassian: Travel App Code Repo (MERN),custom,MERN,fullstack,2
+2399826,[Draft] [11th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,2
+2318704,Label Studio CodeRepo,custom,"Django, Angular and MongoDB",fullstack,2
+2315408,Label Studio CodeRepo,custom,"Django, Angular and MongoDB",fullstack,2
+2425365,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,1
+2425297,[Draft] [26th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,1
+2425182,[Draft] [26th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,1
+2425061,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,1
+2424950,First Node CodeRepo,custom,Node.JS,fullstack,1
+2410558,[Draft] [18th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,1
+2408823,[Draft] [18th Feb 2026] Project (Full-stack Developer) - Spring Boot,custom,Spring Boot,fullstack,1
+2407850,[Draft] [17th Feb 2026] Project (Full-stack Developer) - Angular.JS,custom,Angular.JS,fullstack,1
+2407533,Some Node JS Code Repo,custom,Node.JS,fullstack,1
+2406532,MERN Repository with sample tasks,custom,MERN,fullstack,1
+2402323,Atlassian: Courses App Flask React Code Repo,custom,fremp,fullstack,1
+2401461,Atlassian: E-commerce Code Repo (MERN),custom,MERN,fullstack,1
+2390578,Implement User Search and Filtering System Skjdfkdl,custom,MERN,fullstack,1
+2388033,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,1
+2387769,Something,custom,MEAN,fullstack,1
+2387454,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,1
+2380313,[Draft] [31st Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,1
+2377981,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,1
+2377892,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,1
+2351560,Box Shogi Application - Python,custom,Django,backend,1
+2351101,Box Shogi Application - Python,custom,Django,backend,1
+2268233,Blog Platform Code Repo (React + Django),custom,"Django, Angular and MongoDB",fullstack,1
+2268232,Blog Platform Code Repo (React + Java Spring Boot),custom,"SpringBoot, Angular and MongoDB",fullstack,1
+2268231,Blog Platform Code Repo (MERN),custom,MERN,fullstack,1
+2428167,[Draft] [27th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2427355,[Draft] [27th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2426214,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Spring Boot,custom,Spring Boot,fullstack,0
+2425296,[Draft] [26th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2425095,"[Draft] [26th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2425024,[Draft] [26th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2424942,[Draft] [26th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2424563,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2424548,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2424538,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2424537,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2424536,[Draft] [26th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2423604,[Draft] [25th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2423568,[Draft] [25th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2423564,[Draft] [25th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2423345,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Django,custom,Django,fullstack,0
+2423189,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2423176,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2423175,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Django,custom,Django,fullstack,0
+2423047,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2423022,[Draft] [25th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2422685,[Draft] [25th Feb 2026] Project (Full-stack) - MERN,custom,MERN,fullstack,0
+2422430,[discarded][Draft] [25th Feb 2026] Project (Full-stack Developer) - Django,custom,Django,fullstack,0
+2422086,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Django,custom,Django,fullstack,0
+2422084,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2422083,[Draft] [25th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2420408,[Draft] [24th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2420377,[Draft] [24th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2419811,[Draft] [24th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2419696,"[Draft] [24th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2418350,[Draft] [23rd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2418005,[Draft] [23rd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2413652,"[Draft] [20th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2412816,[Draft] [19th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2412785,"[Draft] [19th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2412677,MERN REPO 21,custom,MERN,fullstack,0
+2412208,[Draft] [19th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2412207,[Draft] [19th Feb 2026] Project (Full-stack Developer) - Spring Boot,custom,Spring Boot,fullstack,0
+2410491,[Draft] [18th Feb 2026] Project (Full-stack Developer) - Spring Boot,custom,Spring Boot,fullstack,0
+2410470,[Draft] [18th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2408820,[Draft] [18th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2408598,"[Draft] [17th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2408374,[Draft] [17th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2408372,[Draft] [17th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2408291,[Draft] [17th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2408002,[Draft] [17th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2407800,[Draft] [17th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2407621,[Draft] [17th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2407619,[Draft] [17th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2407618,[Draft] [17th Feb 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2407578,[Draft] [17th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2407452,Some Node JS repo,custom,Node.JS,fullstack,0
+2406716,[Draft] [16th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2406695,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2406587,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2406543,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2406537,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2406431,"[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2406429,"[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2406063,"[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2406059,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2406057,[Draft] [16th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2406043,[Draft] [16th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2406040,[Draft] [16th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2405810,[Draft] [15th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2405737,[Draft] [15th Feb 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2403971,[Draft] [13th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2403771,[Draft] [13th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2403693,[Draft] [13th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2403509,[Draft] [13th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2403492,[Draft] [13th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2402127,[Draft] [12th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2401939,[Draft] [12th Feb 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2401911,[Draft] [12th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2401910,[Draft] [12th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2401793,[Draft] [12th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2401520,[Draft] [12th Feb 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2401386,[Draft] [12th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2400264,[Draft] [11th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2400212,[Draft] [11th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2400181,[Draft] [11th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2400142,[Draft] [11th Feb 2026] Project (Full-stack Developer) - Angular.JS,custom,Angular.JS,fullstack,0
+2400141,[Draft] [11th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2400020,[Draft] [11th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2399782,[Draft] [11th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2398677,[Draft] [10th Feb 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2398670,[Draft] [10th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2398669,"[Draft] [10th Feb 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2398661,[Draft] [10th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2398659,[Draft] [10th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2398598,Some Code Repo,custom,Node.JS,fullstack,0
+2398326,[Draft] [10th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2397783,[Draft] [10th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2396231,[Draft] [9th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2396167,[Draft] [9th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2396118,"[Draft] [9th Feb 2026] Project (Full-stack Developer) - SpringBoot, Angular and MongoDB",custom,"SpringBoot, Angular and MongoDB",fullstack,0
+2396117,"[Draft] [9th Feb 2026] Project (Full-stack Developer) - SpringBoot, Angular and MongoDB",custom,"SpringBoot, Angular and MongoDB",fullstack,0
+2396105,First MERN CodeRepo,custom,MERN,fullstack,0
+2396098,[Draft] [9th Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2395376,[Draft] [9th Feb 2026] Project (Full-stack Developer) - RAG,custom,RAG,fullstack,0
+2395360,[Draft] [9th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2395354,[Draft] [8th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2392802,[Draft] [6th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2392747,[Draft] [6th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2392740,[Draft] [6th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2392598,[Draft] [6th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2392512,[Draft] [6th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2390750,[Draft] [5th Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2390737,[Draft] [5th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2390736,[Draft] [5th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2390735,[Draft] [5th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2390677,[Draft] [5th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2390612,[Draft] [5th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2388476,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2388468,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2388079,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2388075,[Draft] [4th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2387791,[Draft] [4th Feb 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2387768,[Draft] [4th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2387766,[Draft] [4th Feb 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2387764,something,custom,MEAN,fullstack,0
+2387713,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2387486,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2387368,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2387317,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2387310,[Draft] [4th Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2384509,[Draft] [3rd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2383159,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2382556,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2382535,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382534,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382533,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - Vue.JS,custom,Vue.JS,fullstack,0
+2382532,"[Draft] [2nd Feb 2026] Project (Full-stack Developer) - SpringBoot, Angular and MongoDB",custom,"SpringBoot, Angular and MongoDB",fullstack,0
+2382483,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382481,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382461,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382450,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382437,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382388,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2382287,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2382263,[Draft] [2nd Feb 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2380425,[Draft] [31st Jan 2026] Project (Full-stack Developer) - PERN,custom,,fullstack,0
+2379354,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Java with Maven,custom,Java with Maven,fullstack,0
+2379344,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Java with Gradle,custom,Java with Gradle,fullstack,0
+2379343,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Go,custom,Go,fullstack,0
+2379237,[Draft] [30th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2378973,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Angular.JS,custom,Angular.JS,fullstack,0
+2378905,[Draft] [30th Jan 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2378881,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2378006,[Draft] [30th Jan 2026] Project (Full-stack Developer) - React.JS,custom,React.JS,fullstack,0
+2377976,[Draft] [30th Jan 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2375486,"[Draft] [29th Jan 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2375476,"[Draft] [29th Jan 2026] Project (Full-stack Developer) - Go, React and MySQL",custom,"Go, React and MySQL",fullstack,0
+2375472,[Draft] [29th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2375258,[Draft] [29th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2372652,[Draft] [28th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2372608,[Draft] [28th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2365072,[Draft] [23rd Jan 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2365064,[Draft] [23rd Jan 2026] Project (Full-stack Developer) - Ruby on Rails,custom,Ruby on Rails,fullstack,0
+2363156,[Draft] [22nd Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2362898,"[Draft] [22nd Jan 2026] Project (Full-stack Developer) - Django, Angular and MongoDB",custom,"Django, Angular and MongoDB",fullstack,0
+2359213,[Draft] [20th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2359198,[Draft] [20th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2353853,[Draft] [16th Jan 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2353833,[Draft] [16th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2353813,[Draft] [16th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2351109,[Draft] [14th Jan 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2351033,[Draft] [14th Jan 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2351032,[Draft] [14th Jan 2026] Project (Full-stack Developer) - Node.JS,custom,Node.JS,fullstack,0
+2350981,[Draft] [14th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2350974,[Draft] [14th Jan 2026] Project (Full-stack Developer) - Flutter,custom,Flutter,fullstack,0
+2349287,[Draft] [13th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2349282,[Draft] [13th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2347003,[Draft] [12th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2346761,[Draft] [12th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2346696,[Draft] [12th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2344710,[Draft] [9th Jan 2026] Project (Full-stack Developer) - MEAN,custom,MEAN,fullstack,0
+2344709,[Draft] [9th Jan 2026] Project (Full-stack Developer) - MERN,custom,MERN,fullstack,0
+2341747,Banking Backend Application - Java,custom,Spring Boot,backend,0
+2284109,[Wayfair] JAM Banking App Code Repo,custom,"SpringBoot, Angular and MongoDB",fullstack,0
+2245244,E-commerce Code Repo (MERN),custom,MERN,fullstack,0
+2245242,E-commerce Code Repo (MERN),custom,MERN,fullstack,0
+2232022,Banking Backend Application,custom,.NET Core,backend,0
+2232019,Banking Backend Application,custom,.NET Core,backend,0
+2225141,Travel App Code Repo (MERN),library,MERN,fullstack,0

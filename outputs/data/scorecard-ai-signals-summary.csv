@@ -1,0 +1,13 @@
+company_id,company_name,signal_tier,scorecard_count,ai_field_count,ai_interviews,total_interviews,penetration_pct,ai_field_names
+97018,Avalara,strong,1,1,78,224,34.8,GenAI skills assessment [Machine Learning Engineer Scorecard]
+175923,Dell Technologies,strong,2,2,19,3186,0.6,5) Generative AI Readiness (GAIR) [Sr. Data Scientist Scorecard] | Exposure to AI [Dell ISG DD Protocols]
+103487,ServiceNow,strong,1,1,17,4314,0.4,AI tools usage [Impact AI Literacy Scorecard]
+38841,Adobe Inc.,strong,2,2,6,6176,0.1,"Does the candidate demonstrate inquisitiveness to latest trends in the industry related to Agentic and Gen AI [GenStudio Technical Evaluation and Cultural Fit] | Judgment and clarity in how LLMs are used, when to use them, and how they think about manipulating the prompts to get better results (E.g. telling the LLM to return data in a structured format) [NXUI Full Stack Scorecard]"
+424048,Paxos,strong,1,1,4,101,4.0,AI Collaboration [Tech 1 Scorecard]
+60832,McKinsey & Company,strong,1,1,1,1234,0.1,"Use of GenAI [QB GE-O ""GenAI Allowed"" Scorecard]"
+60021,Balyasny Asset Management,title-only,2,0,32,1605,2.0,[scorecard] AI Solutions Engineer - AI Enablement Team | [scorecard] Applied AI Engineer Scorecard
+39902,Expedia Group,title-only,1,0,21,3861,0.5,[scorecard] Senior MLS (GenAI)
+81339,Intact Financial Corporation,title-only,1,0,16,72,22.2,[scorecard] Senior AI Dev Scorecard
+29832,ServiceTitan Inc.,title-only,1,0,7,1391,0.5,[scorecard] Senior Machine Learning Engineer (Generative AI) Scorecard
+37714,Walmart Global Tech Talent Acquisition,title-only,1,0,5,5382,0.1,[scorecard] CV/AI/ML_Pipeline_Engineer
+107553,Bolt,title-only,1,0,2,977,0.2,[scorecard] Applied AI Engineer Scorecard

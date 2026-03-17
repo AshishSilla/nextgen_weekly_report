@@ -1,0 +1,9 @@
+#,Theme,Context,Total Tickets,Screen,Interviews,Active,Mitigated,Resolved,Top Customers (Screen),Top Customers (Interviews)
+1,Code Repo Environment Stability,Screen only,6,6,0,4,0,2,"Amazon (×4), Wayfair (×2)",—
+2,AI Chat Transcripts / Usage Reporting Issues,Both,6,4,2,0,2,4,"Atlassian, Planning Center","Planning Center, Atlassian"
+3,AI Autocomplete / Cannot Disable,Interviews only,5,0,5,0,3,2,—,"Affirm, Paxos, Agoda"
+4,AI Not Available / Setup Failure,Both,3,1,2,2,0,1,UPS / Happy Returns,"Qualtrics, UPS"
+5,AI Response Quality & Loops,Interviews only,3,0,3,1,1,1,—,"DraftKings, Portkey"
+6,Observe Mode & Real-time Sync,Interviews only,2,0,2,2,0,0,—,"Uber, DraftKings"
+7,Platform UX & Misc,Both,8,5,3,2,2,4,"Amazon, Atlassian","DraftKings, Agoda"
+TOTAL,,All,33,16,17,11,8,13,,

@@ -1,0 +1,3 @@
+coderepo_qid,coderepo_name,coderepo_stack_name,coderepo_role_type,coderepo_task_qid,coderepo_task_name,coderepo_task_type,coderepo_task_difficulty_level,added_to_library_on,question_library_source,question_author_company_name
+"1894902","Note Manager Coderepo React (Typescript)","React.JS (Node.JS 18.15)","frontend","1894250","Feature: Edit Note Functionality","testAns","medium","","library","Problem Setters"
+"2189415","Banking Web Application - Frontend Coding Exercise","Node.JS","frontend","2194623","Part 3 - Feature: Transaction Pagination","textAns","","","custom","DraftKings Inc"
