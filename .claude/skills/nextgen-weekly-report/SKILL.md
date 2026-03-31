@@ -72,6 +72,7 @@ The script outputs a JSON object with two top-level keys: `"screens"` and
       "current":    int,   ← count this week (from bucket CSV — authoritative)
       "prior":      int,   ← count prior week
       "direction":  "up" | "down" | "unchanged",
+      "pct_change": float | null,  ← WoW % change; null if prior == 0
       "raw_quotes": [{"text": "...", "rating": 1-5}, ...]
                          ← ALL matching feedback for this theme this week
     },
@@ -141,8 +142,9 @@ Produce both sections separated by a blank line.  Use the exact format below.
 
 • Feedback analysis WoW:
   ■ What Improved:
-    • <display name>: <prior> → <current> (−X% WoW) — <one natural-language observation about what eased, based strictly on count delta and theme label; no fabrication>
+    • <display name>: <prior> → <current> (<pct_change>% WoW) — <one natural-language observation about what eased, based strictly on count delta and theme label; no fabrication>
     ... (list only themes where direction == "down"; if none, write "• Nothing notable improved this week.")
+    ... (if pct_change is null for a theme, omit the percentage and just show the counts)
 
   ■ Emerging / Rising Issues:
     • <reliability/first-time UX/new pattern> — <description> — <count> mention(s)

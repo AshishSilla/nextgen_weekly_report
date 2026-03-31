@@ -390,6 +390,12 @@ def process_source(bucket_path, raw_path, date_col, source_label):
         else:
             direction = 'unchanged'
 
+        # Compute WoW percentage change
+        if prior_n > 0:
+            pct_change = round((current_n - prior_n) / prior_n * 100, 1)
+        else:
+            pct_change = None
+
         raw_quotes = collect_theme_quotes(current_raw, theme)
         print(f"[{source_label}]   {THEME_DISPLAY[theme]}: "
               f"{prior_n} → {current_n} ({direction}), "
@@ -400,6 +406,7 @@ def process_source(bucket_path, raw_path, date_col, source_label):
             "current":    current_n,
             "prior":      prior_n,
             "direction":  direction,
+            "pct_change": pct_change,
             "raw_quotes": raw_quotes,
         }
 
