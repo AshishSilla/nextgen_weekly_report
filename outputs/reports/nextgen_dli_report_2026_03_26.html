@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NextGen DevEx DLI — Week of Mar 16, 2026</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #111;
+    background: #fff;
+    max-width: 780px;
+    margin: 40px auto;
+    padding: 0 24px;
+  }
+  h1 {
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 2px solid #111;
+    padding-bottom: 6px;
+    margin-bottom: 4px;
+  }
+  .generated {
+    font-size: 11px;
+    color: #888;
+    margin-bottom: 28px;
+  }
+  h2 {
+    font-size: 13px;
+    font-weight: bold;
+    margin: 24px 0 2px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 3px;
+  }
+  .dli-line {
+    margin: 6px 0 2px 0;
+    font-size: 13px;
+  }
+  .lag {
+    font-size: 11px;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 12px;
+  }
+  h3 {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 14px 0 4px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    color: #333;
+  }
+  .item {
+    margin: 5px 0 5px 12px;
+    font-size: 13px;
+  }
+  .item::before { content: "• "; }
+  .theme-label { font-weight: bold; }
+  .obs { color: #444; font-style: italic; }
+  .emerging-item {
+    margin: 8px 0 2px 12px;
+    font-size: 13px;
+  }
+  .emerging-item::before { content: "• "; }
+  .e-label {
+    font-weight: bold;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-right: 4px;
+    background: #eee;
+    color: #333;
+  }
+  .e-desc { font-weight: bold; }
+  .e-count { color: #666; font-size: 12px; }
+  .quote {
+    margin: 3px 0 3px 28px;
+    font-size: 12px;
+    color: #333;
+  }
+  .quote::before { content: "○ "; color: #999; }
+  .qmeta {
+    font-size: 11px;
+    color: #888;
+  }
+  .theme-item {
+    margin: 8px 0 2px 12px;
+    font-size: 13px;
+  }
+  .theme-item::before { content: "• "; }
+  .dir-up   { color: #c0392b; font-weight: bold; }
+  .dir-down { color: #27ae60; font-weight: bold; }
+  .dir-same { color: #666; }
+  .section-gap { margin-top: 32px; }
+</style>
+</head>
+<body>
+
+<h1>DevEx DLI &amp; Feedback Trends &nbsp;·&nbsp; week of Mar 16, 2026</h1>
+<div class="generated">Generated 2026-03-26 &nbsp;·&nbsp; NextGen weekly report</div>
+
+
+<!-- ════════ SCREENS ════════ -->
+<h2>[Screens] &nbsp; week of Mar 16</h2>
+
+<div class="dli-line">
+  <b>AVG DLI: 4.3</b> (<span class="dir-down">↓</span> from 4.4 prior week) &nbsp;·&nbsp;
+  <b>% 4-5 Stars: 83.0%</b> &nbsp;·&nbsp;
+  <b>7,397 distinct attempts</b> (week of Mar 9)
+</div>
+<div class="lag">DLI &amp; quotes from week of Mar 9 — raw export pending for Mar 16</div>
+
+
+<h3>■ What Improved</h3>
+
+<div class="item">
+  <span class="theme-label">Performance:</span> 148 → 128
+  (<span class="dir-down">−13.5% WoW</span>) —
+  <span class="obs">fewer slow-editor and keystroke-lag reports this week.</span>
+</div>
+<div class="item">
+  <span class="theme-label">UI/UX:</span> 127 → 109
+  (<span class="dir-down">−14.2% WoW</span>) —
+  <span class="obs">interface complaints down; test-case input visibility still mentioned but less.</span>
+</div>
+<div class="item">
+  <span class="theme-label">Core IDE:</span> 177 → 156
+  (<span class="dir-down">−11.9% WoW</span>) —
+  <span class="obs">modest drop; console-access and wrong-answer-flag issues still present.</span>
+</div>
+<div class="item">
+  <span class="theme-label">Code Repo:</span> 72 → 37
+  (<span class="dir-down">−48.6% WoW</span>) —
+  <span class="obs">notable drop; SpringBoot startup time and outdated dependencies still mentioned.</span>
+</div>
+
+
+<h3>■ Emerging / Rising Issues</h3>
+
+<div class="emerging-item">
+  <span class="e-label">reliability</span>
+  <span class="e-desc">session freeze / network disconnect during active test</span>
+  <span class="e-count">— 4 mentions</span>
+</div>
+<div class="quote">
+  "There was one technical issue during the test where the interface froze and my mouse became unresponsive, but the timer continued running."
+  <span class="qmeta">(★2 | id: 84129262 | irishuang.irh@gmail.com | 2025-2026 Software Engineer Intern - Web Assessment #1 | 2026-03-14)</span>
+</div>
+<div class="quote">
+  "It kept showing network errors, so I ended up waiting at least 10 minutes for the connection to stabilize. On top of that, whenever it tried to reconnect, none of my files would load."
+  <span class="qmeta">(★1 | id: 84109099 | jaywu05120512@gmail.com | New York Life Applied AI Engineer Intern Hiring Test | 2026-03-13)</span>
+</div>
+
+<div class="emerging-item" style="margin-top:10px;">
+  <span class="e-label">new pattern</span>
+  <span class="e-desc">proctoring false flags &amp; fullscreen restriction friction</span>
+  <span class="e-count">— 3 mentions</span>
+</div>
+<div class="quote">
+  "It keeps telling me detected multiple faces while only me in the camera."
+  <span class="qmeta">(★3 | id: 84135133 | zihanwang7766@gmail.com | APAC Software Engineering Recruitment Test | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "I could not keep the excel spreadsheet opened while working on the last problem since Hackerrank does not allow us to leave fullscreen mode or to use a different window/tab."
+  <span class="qmeta">(★3 | id: 84150399 | yukiasa118@berkeley.edu | Early Careers Data Scientist | 2026-03-15)</span>
+</div>
+
+
+<h3>■ Theme-by-Theme Update</h3>
+
+<div class="theme-item">
+  <span class="theme-label">Performance</span> — 128 cases (<span class="dir-down">↓</span> from 148)
+</div>
+<div class="quote">
+  "The ide didn't load for about 1 hour"
+  <span class="qmeta">(★3 | id: 84134653 | james.gui2007@outlook.com | Weiss Asset Management Quant Summer 2027 | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "While writing the code in PySpark section whatever I write I couldn't get back. My backspace is working in sql code but in PySpark code it is not working"
+  <span class="qmeta">(★1 | id: 84133731 | rajkumarkollipara11@gmail.com | ACN_HackerRank_Databricks Engineer_CL10_India | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "editor make it pretty slow and sometimes my keystrokes were not taken"
+  <span class="qmeta">(★3 | id: 84149386 | santiagopostorivo@gmail.com | MMT Front-end dev P4 | 2026-03-15)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">AI Assistant</span> — 22 cases (<span class="dir-same">→</span> unchanged)
+</div>
+<div class="quote">
+  "springboot IDE the autocomplete cannot be disabled, and sometimes when it automatically activates, cannot backspace to remove it properly"
+  <span class="qmeta">(★1 | id: 84109751 | phuatimothy231@gmail.com | Java Developer – SEA | 2026-03-14)</span>
+</div>
+<div class="quote">
+  "The AI Assistant fails a lot, it's easier use it only in ask mode because can be really messy touching files"
+  <span class="qmeta">(★3 | id: 84126184 | sebastian.rojas.ricaurte@gmail.com | Challenge - Backend Developer AI - Seed (SH/CX/FIN) | 2026-03-14)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">UI/UX</span> — 109 cases (<span class="dir-down">↓</span> from 127)
+</div>
+<div class="quote">
+  "The UI could've been better as for some of the test scenarios, I was not able to see the input. it took me a while to figure out the input for some of the test scenarios."
+  <span class="qmeta">(★4 | id: 84149998 | career.subz@gmail.com | ServiceTitan Inc. Back-End Developer (.NET) Hiring Test #2 | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "I hate working in full-screen mode for 2 reasons, I can accidentally swipe and exit fullscreen mode that can affect my results (because it could be considering cheating)."
+  <span class="qmeta">(★2 | id: 84143569 | devkuchok@gmail.com | Staff Infrastructure Engineer | 2026-03-15)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">Core IDE</span> — 156 cases (<span class="dir-down">↓</span> from 177)
+</div>
+<div class="quote">
+  "The editor was giving wrong ans flag despite my code giving correct output made me lose 10-15 mins"
+  <span class="qmeta">(★2 | id: 84138922 | swamipnikam24@gmail.com | BNY – Eng – 2025_2026 – Test Set - 2 | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "- no cmd+s to save/render - no easy way to inspect the design spaces/font-sizes values - no console.log output"
+  <span class="qmeta">(★3 | id: 84143201 | ugo.j.onali@gmail.com | Peec AI - Frontend Challenge | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "shld let user to see print statements in console for debugging purposes"
+  <span class="qmeta">(★2 | id: 84139824 | aswin6737@gmail.com | GovTech Internship - Software Engineering Assessment | 2026-03-15)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">Code Repo</span> — 37 cases (<span class="dir-down">↓</span> from 72)
+</div>
+<div class="quote">
+  "Very old versions of sprinngboot and dependencies"
+  <span class="qmeta">(★1 | id: 84140899 | 391324_prod@tcs.com | Spring Boot - Handson - JPA | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "Springboot code took almost 15 min to just initiate and run the dependency, no clear instructions on how to call the endpoints."
+  <span class="qmeta">(★3 | id: 84144513 | vmatam7@gmail.com | ACN_HackerRank_SpringBoot Developer_ML10_India | 2026-03-15)</span>
+</div>
+<div class="quote">
+  "This was not entry level questions, especially restricted to one screen with no access to even a built in browser to check syntax issues."
+  <span class="qmeta">(★1 | id: 84147128 | andy116@vt.edu | UC Software Engineer 1: Coding Challenge | 2026-03-15)</span>
+</div>
+
+
+<!-- ════════ INTERVIEWS ════════ -->
+<h2 class="section-gap">[Interviews] &nbsp; week of Mar 16</h2>
+
+<div class="dli-line">
+  <b>AVG DLI: 3.9</b> (<span class="dir-down">↓</span> from 4.1 prior week) &nbsp;·&nbsp;
+  <b>% 4-5 Stars: 70.4%</b> &nbsp;·&nbsp;
+  <b>211 distinct interviews</b> (week of Mar 16)
+</div>
+
+
+<h3>■ What Improved</h3>
+
+<div class="item">
+  <span class="theme-label">AI Assistant:</span> 2 → 0
+  (<span class="dir-down">−100% WoW</span>) —
+  <span class="obs">no AI assistant complaints this week; all three autocomplete mentions were neutral or positive.</span>
+</div>
+<div class="item">
+  <span class="theme-label">UI/UX:</span> 12 → 10
+  (<span class="dir-down">−16.7% WoW</span>) —
+  <span class="obs">slight easing; navigation friction and design-board usability still mentioned.</span>
+</div>
+
+
+<h3>■ Emerging / Rising Issues</h3>
+
+<div class="emerging-item">
+  <span class="e-label">reliability</span>
+  <span class="e-desc">platform freeze / call disconnect at session start</span>
+  <span class="e-count">— 4 mentions</span>
+</div>
+<div class="quote">
+  "The platform was unresponsive for a long time and did not provide any output. I lost my chance because of this—it's one of the worst experiences I've had."
+  <span class="qmeta">(★1 | id: 8093952 | lalkr810@gmail.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "The platform froze and lagged once I started entering the interview, it took almost more than 10 minutes before the call became smooth and not laggy"
+  <span class="qmeta">(★3 | id: 8059321 | patrickjasonlim@live.com | 2026-03-20)</span>
+</div>
+
+<div class="emerging-item" style="margin-top:10px;">
+  <span class="e-label">new pattern</span>
+  <span class="e-desc">audio / mic not working during session</span>
+  <span class="e-count">— 2 mentions</span>
+</div>
+<div class="quote">
+  "I dont know why my mic and audio are not working !"
+  <span class="qmeta">(★1 | id: 8033222 | abhishekdyadav@gmail.com | 2026-03-16)</span>
+</div>
+<div class="quote">
+  "They could not hear me"
+  <span class="qmeta">(★1 | id: 7878402 | donal.murphy@ice.com | 2026-03-16)</span>
+</div>
+
+
+<h3>■ Theme-by-Theme Update</h3>
+
+<div class="theme-item">
+  <span class="theme-label">Performance</span> — 11 cases (<span class="dir-up">↑</span> from 10)
+</div>
+<div class="quote">
+  "The platform was unresponsive for a long time and did not provide any output. I lost my chance because of this—it's one of the worst experiences I've had."
+  <span class="qmeta">(★1 | id: 8093952 | lalkr810@gmail.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "The platform froze and lagged once I started entering the interview, it took almost more than 10 minutes before the call became smooth and not laggy"
+  <span class="qmeta">(★3 | id: 8059321 | patrickjasonlim@live.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "Couldn't connect using Safari browser. Out of a sudden got reconnection message, which lead me to lose 3min during 1-hour interview"
+  <span class="qmeta">(★2 | id: 8045153 | m.daniil.main@gmail.com | 2026-03-17)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">AI Assistant</span> — 0 cases (<span class="dir-down">↓</span> from 2)
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">UI/UX</span> — 10 cases (<span class="dir-down">↓</span> from 12)
+</div>
+<div class="quote">
+  "For big questions with diagrams, interface is bad"
+  <span class="qmeta">(★3 | id: 8033772 | nirleykrgupta@gmail.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "I did not see an option to provide my own question. That's a big problem. Also, I chose one random problem from the pre-canned set of questions. But the candidate could see the solution."
+  <span class="qmeta">(★1 | id: 8075797 | a@b.com | 2026-03-18)</span>
+</div>
+<div class="quote">
+  "The candidate was writing the database schema in a text box, but I couldn't see what they were writing. I asked them to click outside the text box to check if that updates it, but that also didn't work."
+  <span class="qmeta">(★2 | id: 8011857 | ariyobolt@gmail.com | 2026-03-16)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">Core IDE</span> — 10 cases (<span class="dir-up">↑</span> from 5)
+</div>
+<div class="quote">
+  "no debugging tool, poor syntax highlighting"
+  <span class="qmeta">(★1 | id: 8079184 | michalpurtak1@gmail.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "not able to console"
+  <span class="qmeta">(★2 | id: 8091459 | Lakshmilahari98@gmail.com | 2026-03-20)</span>
+</div>
+<div class="quote">
+  "Couldn't log to the console"
+  <span class="qmeta">(★3 | id: 8052808 | work@kieran.io | 2026-03-18)</span>
+</div>
+
+<div class="theme-item">
+  <span class="theme-label">Code Repo</span> — 1 case (<span class="dir-up">↑</span> from 0)
+</div>
+<div class="quote">
+  "npm install wasn't working at beginning and opening the app in a new tab wasn't reloading quickly"
+  <span class="qmeta">(★1 | id: 8095061 | zhilin.igor@gmail.com | 2026-03-20)</span>
+</div>
+
+</body>
+</html>
