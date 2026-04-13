@@ -4,85 +4,83 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repository Is
 
-This is **Cowork Complete Guide** — an interactive 12-lesson course that teaches Claude Cowork by doing real work together. Claude acts as the teacher/instructor, not a general assistant. The course covers file organization, research synthesis, and document creation.
+Analytics and reporting project for HackerRank's **NextGen** product. It produces insights from candidate feedback, AI-assisted testing data, scorecard signals, and support metrics — delivered as processed CSVs, PowerPoint decks, and HTML reports for quarterly business reviews and weekly stakeholder updates.
 
-**Primary instruction file:** `START-HERE.md` — always read this first when a user asks to start a lesson or says "start", "begin", "lesson N", or "next lesson".
+## Running Scripts
 
-## How to Teach
+All scripts live in `outputs/scripts/`. Python scripts query live databases; JS scripts read processed CSVs and generate `.pptx` files.
 
-Lessons are scripts in `lessons/`. Follow them exactly using these markers:
+```bash
+# Python — data processing (requires .env with DB credentials)
+python3 outputs/scripts/ai_assistant_feedback_summary.py   # → outputs/data/ai-assisted-*.csv
+python3 outputs/scripts/nextgen_weekly_report.py --auto-discover
 
-- **WAIT:** Stop talking and wait for the student to respond before continuing.
-- **ACTION:** Do the thing described (create a file, read a folder, demonstrate something).
-- **USER:** The expected student response — use it to recognise when to advance.
+# Node — deck generation (requires pptxgenjs)
+cd outputs && npm install                     # first time only
+node scripts/ai-assistant-deck.js            # → outputs/decks/*.pptx
+node scripts/coderepo-deck.js
+node scripts/scorecard-ai-signals-deck.js
+```
 
-**Never break the fourth wall** — do not mention "the script", "my instructions", or that you're following a file.
+No build step, no lint config, no test suite. Scripts are standalone — run them directly.
 
-**Navigation shortcuts:**
+## Credentials & Environment
 
-- `"start"` or `"begin"` → Read and start `lessons/01-first-contact.md`
-- `"lesson 5"` → Read and start `lessons/05-inbox-pattern.md` from the beginning
-- `"next"` or `"next lesson"` → Read the next lesson file and continue
-- `"lesson [number]"` at any point → Jump to that lesson
+Copy `.env.example` → `.env` and fill in:
+- `ANTHROPIC_API_KEY` — Claude API (used in some scripts)
+- StarRocks connection (host, user, password) — `bizops` cluster, `starrocks_bizops.analytics.*` tables
+- Trino connection — data warehouse access
 
-## Lesson Files
-
-
-| #   | File                               | Topic                                     |
-| --- | ---------------------------------- | ----------------------------------------- |
-| 1   | `lessons/01-first-contact.md`      | Cowork mental model — worker, not chatbot |
-| 2   | `lessons/02-first-delegation.md`   | Delegate vs. ask                          |
-| 3   | `lessons/03-done-framework.md`     | Prompting best practices                  |
-| 4   | `lessons/04-file-organization.md`  | Content-aware sorting at scale            |
-| 5   | `lessons/05-inbox-pattern.md`      | Reusable systems and skills               |
-| 6   | `lessons/06-research-synthesis.md` | Multi-document analysis                   |
-| 7   | `lessons/07-research-at-scale.md`  | Sub-agents and web search                 |
-| 8   | `lessons/08-document-creation.md`  | Excel, PowerPoint, Word                   |
-| 9   | `lessons/09-browser-automation.md` | Chrome basics and limitations             |
-| 10  | `lessons/10-ai-employee.md`        | Batching and walking away                 |
-| 11  | `lessons/11-skill-library.md`      | Build custom skills for your work         |
-| 12  | `lessons/12-whats-next.md`         | Examples, resources, next steps           |
-
-
-## Scenario Folders (Exercise Files)
-
-Each lesson uses practice files from `scenarios/`. Don't reorganise or clean these up unless a lesson's ACTION marker explicitly instructs it.
-
-
-| Folder                         | Used in                               |
-| ------------------------------ | ------------------------------------- |
-| `scenarios/first-task/`        | Lesson 2 — first delegation exercise  |
-| `scenarios/done-framework/`    | Lesson 3 — Done Framework practice    |
-| `scenarios/file-chaos/`        | Lesson 4 — file organisation at scale |
-| `scenarios/customer-feedback/` | Lesson 6 — research synthesis         |
-| `scenarios/large-corpus/`      | Lesson 7 — research at scale          |
-| `scenarios/receipts/`          | Lesson 8 — document creation          |
-| `scenarios/strategy-notes/`    | Lesson 8+ — document creation         |
-
-
-## Project Folder Structure
+## Data Flow
 
 ```
-data/
-  raw/
-    coderepos/      ← CodeRepos usage & rawdata CSVs (Q1-2026, Q3-26 content)
-    ai-assistant/   ← AI Assistant usage CSVs (screens, interviews, feedback)
-    support/        ← Support themes, issues, and ticket data
-    companies/      ← Companies CAM mapping files (all versions)
-    interviews/     ← Scorecard CSVs and interview insights
+data/raw/**/*.csv
+  └─► outputs/scripts/*.py   (analyze, aggregate, classify)
+        └─► outputs/data/*.csv   (processed metrics)
+              └─► outputs/scripts/*.js   (deck generation)
+                    └─► outputs/decks/*.pptx
+                          outputs/reports/*.html
+                          outputs/charts/*.png
+```
 
-outputs/
-  decks/            ← All .pptx presentation files
-  scripts/          ← .js and .py generation scripts
-  charts/           ← .png chart images
-  data/             ← Generated/processed CSVs (ai-feedback-*, scorecard-*, etc.)
-  node_modules/     ← JS dependencies (do not touch)
-  package.json      ← Node dependencies manifest
+Raw data is never modified. All generated files go under `outputs/`.
 
-hackerrank-brand/   ← Brand skill config (read-only)
+## Key Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `ai_assistant_feedback_summary.py` | WoW DLI + candidate remarks from StarRocks |
+| `nextgen_weekly_report.py` | Weekly DevEx DLI & Feedback Trends JSON |
+| `ai-feedback-reclassify.py` | Re-bucket feedback categories |
+| `ai-feedback-bucket-timeline.py` | Bucket trends over time |
+| `scorecard-ai-signals.py` | Scorecard AI signal extraction |
+| `support-theme-trend.py` | Support ticket theme trends |
+| `ai-assistant-deck.js` | AI Assistant insights deck |
+| `coderepo-deck.js` | CodeRepo usage deck |
+| `scorecard-ai-signals-deck.js` | Scorecard signals deck |
+| `gen_feedback_doc.js` | Word doc from feedback CSVs |
+
+## Source Data Layout
+
+```
+data/raw/
+  ai-assistant/   ← Screen & interview feedback CSVs, classifier SQL
+  coderepos/      ← CodeRepos usage & metrics (Q1-2026, Q3-26)
+  support/        ← Support themes and ticket data
+  companies/      ← CAM mapping files (all versions)
+  interviews/     ← Scorecard CSVs and interview insights
 ```
 
 ## Branding
-For any visual artifact (PDF, chart, slide, HTML, ER diagram, dashboard), apply the
-HackerRank 2026 brand guidelines in `memory/company_branding.md` or via the
-`hackerrank-brand` skill (`hackerrank-brand/SKILL.md`). Primary accent: `#05C770`, fonts: Manrope / Newsreader / Geist Mono.
+
+Every visual artifact (chart, deck, HTML, PDF) must use HackerRank 2026 brand guidelines. Reference: `hackerrank-brand/SKILL.md` or the `hackerrank-brand` skill.
+
+- Primary accent: `#05C770` (Brand Green)
+- Dark backgrounds: `#003333` (Dark Teal) / `#0E141E` (Deep Navy)
+- Fonts: Manrope (body), Newsreader (headings), Geist Mono (code)
+
+## Skills
+
+- `nextgen-weekly-report` — orchestrates the full weekly report pipeline
+- `hackerrank-brand` — applies brand guidelines to any visual output
+- `pptx`, `docx`, `xlsx` — document generation helpers
