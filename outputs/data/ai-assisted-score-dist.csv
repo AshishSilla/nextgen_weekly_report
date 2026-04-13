@@ -1,0 +1,90 @@
+company_name,test_name,bucket_floor,bucket_ceiling,score_range,candidate_count
+Amazon,C++ Framework Free Project Questions,20,30,20-30%,1
+Amazon,C++ Framework Free Project Questions,70,80,70-80%,1
+Amazon,C++ Framework Free Project Questions,100,110,100-110%,2
+Amazon,Django Code Repo December,20,30,20-30%,1
+Amazon,Django Code Repo November,0,10,0-10%,1
+Amazon,Django Code Repo November,50,60,50-60%,1
+Amazon,Django Code Repo November,100,110,100-110%,1
+Amazon,GHS Demo Test,0,10,0-10%,1
+Amazon,GHS Demo Test,10,20,10-20%,6
+Amazon,Node.JS Code Repo November,100,110,100-110%,2
+Amazon,Sample Test for Amazon Coding Challenge,0,10,0-10%,3
+Amazon,Sample Test for Amazon Coding Challenge,20,30,20-30%,4
+Amazon,Sample Test for Amazon Coding Challenge,30,40,30-40%,1
+Amazon,Sample Test for Amazon Coding Challenge,40,50,40-50%,1
+Amazon,Sample Test for Amazon Coding Challenge,60,70,60-70%,1
+Amazon,Sample Test for Amazon Coding Challenge,70,80,70-80%,6
+Amazon,Sample Test for Amazon Coding Challenge,80,90,80-90%,3
+Amazon,Sample Test for Amazon Coding Challenge,90,100,90-100%,4
+Amazon,Sample Test for Amazon Coding Challenge,100,110,100-110%,40
+Amazon,Sample Test for Django,0,10,0-10%,23
+Amazon,Sample Test for Django,20,30,20-30%,29
+Amazon,Sample Test for Django,60,70,60-70%,1
+Amazon,Sample Test for Django,70,80,70-80%,47
+Amazon,Sample Test for Django,80,90,80-90%,18
+Amazon,Sample Test for Django,90,100,90-100%,3
+Amazon,Sample Test for Django,100,110,100-110%,165
+Amazon,Sample Test for Node.JS,0,10,0-10%,6
+Amazon,Sample Test for Node.JS,20,30,20-30%,9
+Amazon,Sample Test for Node.JS,50,60,50-60%,1
+Amazon,Sample Test for Node.JS,60,70,60-70%,3
+Amazon,Sample Test for Node.JS,70,80,70-80%,21
+Amazon,Sample Test for Node.JS,80,90,80-90%,9
+Amazon,Sample Test for Node.JS,90,100,90-100%,2
+Amazon,Sample Test for Node.JS,100,110,100-110%,62
+Amazon,Sample Test for Spring Boot,0,10,0-10%,20
+Amazon,Sample Test for Spring Boot,10,20,10-20%,1
+Amazon,Sample Test for Spring Boot,20,30,20-30%,13
+Amazon,Sample Test for Spring Boot,30,40,30-40%,1
+Amazon,Sample Test for Spring Boot,60,70,60-70%,1
+Amazon,Sample Test for Spring Boot,70,80,70-80%,23
+Amazon,Sample Test for Spring Boot,80,90,80-90%,13
+Amazon,Sample Test for Spring Boot,90,100,90-100%,2
+Amazon,Sample Test for Spring Boot,100,110,100-110%,72
+Amazon,Spring Boot Code Repo December,100,110,100-110%,1
+Amazon,Spring Boot Code Repo November,40,50,40-50%,1
+Amazon,The Amazon Coding Challenge,0,10,0-10%,229
+Amazon,The Amazon Coding Challenge,10,20,10-20%,417
+Amazon,The Amazon Coding Challenge,20,30,20-30%,67
+Amazon,The Amazon Coding Challenge,30,40,30-40%,138
+Amazon,The Amazon Coding Challenge,40,50,40-50%,133
+Amazon,The Amazon Coding Challenge,50,60,50-60%,125
+Amazon,The Amazon Coding Challenge,60,70,60-70%,35
+Amazon,The Amazon Coding Challenge,70,80,70-80%,111
+Amazon,The Amazon Coding Challenge,80,90,80-90%,186
+Amazon,The Amazon Coding Challenge,90,100,90-100%,125
+Amazon,The Amazon Coding Challenge,100,110,100-110%,316
+Amazon,The Amazon Coding Challenge - DEMO_CLONE,10,20,10-20%,2
+Walmart Global Tech Talent Acquisition,Walmart Early Careers Data Science Intern Assessment - 2025,20,30,20-30%,1
+Walmart Global Tech Talent Acquisition,Walmart Early Careers Data Science Intern Assessment - 2025,70,80,70-80%,1
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,30,40,30-40%,1
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,40,50,40-50%,6
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,50,60,50-60%,13
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,60,70,60-70%,15
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,70,80,70-80%,7
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,80,90,80-90%,12
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,90,100,90-100%,5
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,100,110,100-110%,32
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,0,10,0-10%,44
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,10,20,10-20%,12
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,20,30,20-30%,10
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,30,40,30-40%,111
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,40,50,40-50%,25
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,50,60,50-60%,23
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,60,70,60-70%,265
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,70,80,70-80%,35
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,80,90,80-90%,14
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,90,100,90-100%,44
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,100,110,100-110%,12
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),0,10,0-10%,3
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),10,20,10-20%,2
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),20,30,20-30%,3
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),30,40,30-40%,27
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),40,50,40-50%,3
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),50,60,50-60%,6
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),60,70,60-70%,42
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),70,80,70-80%,7
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),80,90,80-90%,2
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),90,100,90-100%,9
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),100,110,100-110%,3

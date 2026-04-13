@@ -1,0 +1,322 @@
+attempt_date,attempt_id,candidate_email,company_name,test_name,product_rating,feedback_text
+2026-04-10,84842165,srishtiganeriwal17@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,3,The server was giving CSRF TOKEN error on visiting the admin page
+2026-04-10,84837449,pawan.oraon.5816@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,coding platform was good.
+2026-04-10,84819422,pavhddkrkv@gmail.com,Amazon,Sample Test for Django,5,THat was good
+2026-04-09,84806452,andrearaccagni@hotmail.it,Amazon,Sample Test for Amazon Coding Challenge,4,"In the AI assisted I had a question with all frameworkd I don't normally use, so even harder"
+2026-04-09,84817703,dcasagrande26@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,"Very nice, excellent away to test the know-how, tks by that"
+2026-04-09,84799781,gicompierchio@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,2,"First exercise more difficult then second
+"
+2026-04-07,84755003,anoop.sana@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,4,Screen is sometimes small for the many different aspects.
+2026-04-07,84757544,michael.r.zeller12@gmail.com,Amazon,Sample Test for Django,1,"Server stopped working completley, wasn't able to download dependencies or run the code due to not being able to install dependencies"
+2026-04-07,84733164,wizardcodingmachine@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,4,interesting
+2026-04-06,84724206,balakumarr2001@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,It was nice
+2026-04-06,84730354,wesleyjohnson630@gmail.com,Amazon,Sample Test for Spring Boot,5,"Very good practice for my first coding assessment, i have a lot to learn on the smaller coding problems before i take the real assessment "
+2026-04-06,84721599,rajneeshpandey1708@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,"nice practice test, with real solution"
+2026-04-06,84714046,sakhnovr@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,i enjoyed the platform and the simple tasks that explain how the testing system works
+2026-04-05,84700838,yahor.zakharyk@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,4,not easy to understand task #2 how to deal with vs code in browser
+2026-04-05,84689552,amlh26c70@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,Buena prueba
+2026-04-04,84679034,richardjarry.0@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,4,It would be great to have the testing suite and the debug tools integrated to VSCode directly
+2026-04-03,84661645,henriquegabrielhs21@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,"really intuitive, loved the experience"
+2026-04-03,84663782,eni.mih@gmail.com,Amazon,Sample Test for Spring Boot,4,L'ide non funziona bene
+2026-04-02,84639499,ratnadeep.bh1999@gmail.com,Amazon,Sample Test for Spring Boot,3,In Coding editor of Spring boot question firstly in question i was not sure if i am allowed to open inspect/console and other dev tools please add clear instructions. Also i wanted to create some temporary file in vscode editor but my shortcut habbit caused me to open new tab in real exam thats a violation so please fix key bindings or disable.  Also often selecting lines for editing code was not as smooth as it should be.
+2026-04-01,84615181,eduardo.ruizcordon@gmail.com,Amazon,Sample Test for Django,3,I had issues with IDE. I could not debug my code and had constant import errors.
+2026-04-01,84618402,suryansh.khranger@gmail.com,Amazon,Sample Test for Django,4,"Its alright, the UI feels a bit cramped compared to my normal IDE in the second assessment, but overall functionable."
+2026-04-01,84589160,jesuscastm@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,It's a great experience!!
+2026-03-31,84570198,carlogennaro1994@gmail.com,Amazon,Sample Test for Spring Boot,5,Thank you for this.
+2026-03-30,84524598,ortizjuandavid@gmail.com,Amazon,Sample Test for Node.JS,5,i love the interface and the contnent of the test
+2026-03-30,84548461,gbadeadelabu@gmail.com,Amazon,Sample Test for Spring Boot,1,I thought I was taking a practice test
+2026-03-30,84545916,kaichun.chan227@gmail.com,Amazon,Sample Test for Spring Boot,5,"The demo test is really good. The sole problem for an engineer is that; When I was using my own IDE, I usually press CTRL+w to close tab in IDE. However, in that online IDE, pressing CTRL+w will close the whole website and ended the test. Hope I will not do that in real test."
+2026-03-30,84545653,asdfgsdfgzsxdf@gmail.com,Amazon,Sample Test for Spring Boot,5,"I like the format of the second question, it seems practical."
+2026-03-29,84508413,eloperin@gmail.com,Amazon,Sample Test for Node.JS,5,I liked so much how it works. :)
+2026-03-28,84498448,work.tapas@gmail.com,Amazon,Sample Test for Spring Boot,5,Intuitive Problems. I got prepared for the upcoming test.
+2026-03-23,84324218,andkaisiu@gmail.com,Amazon,Sample Test for Django,5,It was a fun test. I liked the repo-simulating question a lot. 
+2026-03-23,84324528,pedro_adan.deharo31@hotmail.com,Amazon,Sample Test for Amazon Coding Challenge,5,"Is a interesting experience  hard for moments, but I think I made a  good job"
+2026-03-23,84325702,benji.howland@gmail.com,Amazon,Sample Test for Django,4,"The imports in the AI-assisted full-stack section cause errors in the editor and can be distracting, despite not affecting the application functionality"
+2026-03-21,84285860,sophialin7b@gmail.com,Amazon,Sample Test for Amazon Coding Challenge,3,dependency issues
+2026-03-21,84300786,cavelazquezr95@gmail.com,Amazon,Sample Test for Node.JS,5,Very cool :)
+2026-03-21,84285982,yiboericlu@gmail.com,Amazon,Sample Test for Django,5,Very smooth
+2026-03-21,84289233,jess.c.zhou@gmail.com,Amazon,Sample Test for Django,5,I actually quite enjoyed the AI coding portion. Much more similar to what I do on a day to day basis.
+2026-03-20,84279577,ionbasha15@gmail.com,Amazon,Sample Test for Django,1,Could not set up dependencies
+2026-03-19,84262333,loren13wu@gmail.com,Amazon,Sample Test for Node.JS,2,run wasn't working
+2026-03-18,84234393,cmcolina@ualberta.ca,Amazon,Sample Test for Spring Boot,1,Thought that meant i could contineu to next section
+2026-03-16,84174743,david.rodriguez.form@gmail.com,Amazon,Sample Test for Spring Boot,4,last is too easy for test
+2026-03-10,84027602,asureka@uwaterloo.ca,Amazon,Sample Test for Django,1,"Error fixed itself and unable to redo
+"
+2026-03-08,83968924,apigna@amazon.com,Amazon,C++ Framework Free Project Questions,5,"I really like the VSCode-like feel of the platform, being familiar to many developers it helps quickly warming up with the environment.
+
+The questions are interesting and have the right difficulty for SDE I and II levels. I found the idea of adding small bugs in the parsing files pretty smart; not expecting those they tested my ability to debug the code, which is a good thing. I think 60 minutes of time per problem is the correct amount.
+
+The AI is a great addition: it helps clarifying requirements, explaining existing pieces of code and navigating the language documentation, but is tailored to never give away the solution. AI is not essential to solve the problem, but it helps getting there faster, so I think its presence helps testing the developers' ability to leverage AI to be more efficient."
+2026-03-04,83858093,weibaorong.2001@outlook.com,Amazon,Sample Test for Django,5,Great work!
+2026-03-04,83869155,JonathanHoadley@gmail.com,Amazon,Sample Test for Django,2,I really hate the choice of editor. I'd love if you just let me ssh into the container and use vim. This was an awful experience. 
+2026-03-03,83835848,s_s20608@proton.me,Amazon,Sample Test for Spring Boot,1,unable to report an error.
+2026-03-03,83847569,dreasyquia@gmail.com,Amazon,Sample Test for Django,5,This was a really cool test format
+2026-03-02,83822418,abdo.abdo3003@gmail.com,Amazon,Sample Test for Spring Boot,5,"Thank you for this amazing experience, and not just giving me leetcode questions, but actually giving me real world scenarios. "
+2026-03-01,83775722,adityagoyaldoon@gmail.com,Amazon,Sample Test for Django,1,"I wasn't allowed to look at the second section. There was no button except for ""Submit Test"""
+2026-02-23,83599719,simon@erlic.ca,Amazon,Sample Test for Django,1,"When I reset the Django project, I was no longer able to run it. I kept getting errors about missing a file at .vscode/tasks.json"
+2026-02-20,83551970,shridharsinha4@gmail.com,Amazon,Sample Test for Spring Boot,5,very interesting and unique!
+2026-01-30,82950854,dellapenna3@gmail.com,Amazon,Sample Test for Django,2,AI assistant did not work at all
+2026-01-12,82470249,merak_cxia@utexas.edu,Amazon,Sample Test for Django,2,Chatbot scope is difficult to set and debug breakpoints don't work
+2026-04-10,84819491,davidxmontes@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"Backend assessment tests weren't running correctly. The requirements said 2 base models must be Abstract models and when I tried running, 5/6 tests failed: there were bugs in the Tests themselves which only were able to run after I disabled the Abstract model property
+
+Also in the frontend tests, I had the UI working with sorting by each option, and asc/desc, but the corresponding tests seemed to have failed anyway. I wasn't able to debug what it was checking for."
+2026-04-10,84845395,dineshravi6383@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Excellent and smooth UI
+2026-04-10,84818400,jyhaoo1998@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,The first question was written so confusing. I only started understanding it near the end of the test
+2026-04-10,84843187,sankethkoritikanti@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"hacker is not a good platform to write any coding exams . i has lot of bugs and glitches . u can mail me to know the bugs i have founded 
+sankethkoritikanti@gmail.com"
+2026-04-10,84823842,elvis.p.lee1983+workday+032026@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Question sucks
+2026-04-10,84843481,chiraggarg025@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"I was not prepared for this test as I was informed as the DSA round by the recruiter
+"
+2026-04-09,84788985,hitheshduttuluri@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"I don't understand the point of Having AI, if it can't help me write the function at all. This seems bad to me. "
+2026-04-09,84786806,shuwei.li1122@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"cannot use console.log in ui testing makes it a complete JOKE.
+
+The ui debugging itself is nothing but a stupid gaming of switching keyword `direction` and `option`. Complete waste of time"
+2026-04-09,84796991,sukruthags98@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"there are bugs in the python test case that took up a lot of time. 
+the test run crashed a few times and the Ui was stuck "
+2026-04-09,84789270,ruthurameedimale@outlook.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,very unique experience. but many frontend bugs are very hard to find. bugs are in unexpected places which normal human will never do
+2026-04-09,84813966,hello.priya.eng@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,test environment was good
+2026-04-09,84802730,sourabh.s.k@campusuvce.in,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,frontend needs to be improved preview screen is so ackward
+2026-04-09,84789285,vallalasaikrishna319@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,overall Good and Difficult too solve in 80 mins for all 3 questions
+2026-04-09,84810134,srijithbharadwajd@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"too long and less time
+"
+2026-04-09,84808920,elainewang.cal@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,App is slow to run when loading the frontend files. My laptop screen is tiny and can barely see all the content I need to see
+2026-04-09,84811192,haritadala@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,More time needed to solve the front end questions as need to understand the database and answer. Overall great experience. 
+2026-04-09,84812297,rodriguez3598@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Not enough time
+2026-04-09,84793632,sharathvelma764@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,less time to understand the entire 2 projects to complete
+2026-04-08,84784841,brandon@mycontactsuite.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"If I'm not even allowed to use stdout, then this is nonsense, Walmart does not appear to be a serious company. "
+2026-04-08,84767417,careers.anshumanbisoyi@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It was preety good. 
+2026-04-08,84783368,grashmitha2001@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"In the middle of the assessment, my network got disconnected. Maybe the signals are week. I want to reattempt the exam please. Please this time i'll will be in a good connection and give the test."
+2026-04-08,84760219,lakshmivivekjagabathina@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Not able to complete the test as the system didnot work properly 
+2026-04-08,84759545,patel.neel.dev@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Fontend Part required improvement. It was very slow.
+2026-04-08,84778535,fshaikh2209@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,"Overall it was good but very less time to complete the questions 
+More 30 minutes needed to completed the full assessment"
+2026-04-08,84769761,anilyaduvanshi454@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,AI Assistant was not working fine. It was throwing error
+2026-04-08,84780514,huntercarlis@yahoo.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,The timing was a bit challenging for the scale of the multiple tasks.
+2026-04-08,84780998,kareemmaize873@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"It was crashed, so I couldn't continue my test.
+"
+2026-04-08,84785173,shubhamsunilbanekar@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,I never switched my tabs.
+2026-04-08,84781756,sanjaynaik.work@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,"for frontend system doesnot work preperly 
+also for the java backend my all test cases passed still 
+the when running the jar its give error click on the other question and again click it it start working."
+2026-04-08,84780822,kumar.aniket900@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Good experince
+2026-04-08,84783979,rkichenama@jobmail.io,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,Ran out of time thinking through the solution and finding the errors. Still the UI tests failed where I could not see in time. Backend just could not get to
+2026-04-08,84767844,avalasrinidhi53@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,could've increased time limit
+2026-04-08,84784219,sravanthidonakonda33@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,time for projects is not sufficient
+2026-04-08,84770707,mayanktayal789@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,very less time to complete the test
+2026-04-07,84732477,kachkadnarender12@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"i thought it was a test link to check the enviornment but that lead to the test and ended, i would like to reinitiate the test link again"
+2026-04-07,84753057,joshuachoi0508@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,How am I supposed to solve the frontend question without access to the devtool? That was frustrating and unrealistic. Disabling devtool as well as the full screen mode makes the problem impossible. 
+2026-04-07,84740887,chauhanghanendra7981@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Hey thanks.
+2026-04-07,84753256,peterdlo@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Horribly slow betwen code changes
+2026-04-05,84698642,gsahil216@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,Development IDE crashed in between
+2026-04-05,84698562,akashnarvaria9@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Debugging tools not provided to debug front end.
+2026-04-05,84702907,arunvenkat.dev@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,the question and the time for it is unreasonable.. AI isnt of much help
+2026-04-04,84685767,jordanhudson231@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,All test cases passed.
+2026-04-03,84644294,micahrodrigue@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Initial question was unnecessarily difficult math-wise. Backend and frontend questions were interesting.
+2026-04-02,84623626,akshatgoyal.india@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"I applied for Android Developer postion but asked to solve Front end and Back End problems , doesn't make sense.
+Please contact me if possible , i would very much like to solve questions based on my career path and chosen field for the role.
+Akshat Goyal
+9087697702"
+2026-04-02,84642306,logangosha@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"I had trouble with question two. I could not tell if my changes were being applied, and could not get get the debug console to work. 
+
+Thank you for the opportunity!"
+2026-04-01,84612877,muskan07072000verma@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,no comments
+2026-04-01,84611724,murali_subramani@hotmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,I am not a Angular or node.js programmer and was given a wrong test.
+2026-04-01,84610814,hfc.parth.contact@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"good test, it really checks core skills
+"
+2026-03-31,84572775,harshal.hs03@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It was an amazing experience
+2026-03-30,84543302,vaishalimandloi1909@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"I believe there may be an issue with Question 1. The implemented solution followed the problem constraints and handled edge cases, but multiple hidden test cases were failing despite producing correct results logically. It would be helpful if the evaluation test cases or problem statement could be reviewed for clarity or potential inconsistencies."
+2026-03-30,84524538,karthika2402001@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,timings is very short
+2026-03-30,84541592,singhalayush40@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"vague test cases for frontend , cant get the exact error "
+2026-03-29,84510621,utkarsh.sharma26@hotmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Front End question file structure is confusing
+2026-03-29,84501325,vasanthannadurai2205@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"Great module which includes all the necessary places to explore like Problem Solving, Frontend and Backend algorithms with AI Assisted Workflow"
+2026-03-29,84502880,rahiman2100@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Good Experience 
+2026-03-29,84502423,koppolusathvikkiran@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,worst experenice and letters are blocking everytime 
+2026-03-29,84501313,jadhav473@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,no proper assitant help less time getting lots of error
+2026-03-29,84515857,sumeetawl06@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Less time given as this is the first time i have given any such kind of test. But it was fun. 
+2026-03-29,84506433,archandadhaniya@hotmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Really Enjoy
+2026-03-29,84514539,alecameredith@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"Very cool test environment, everything seemed pretty intuitive. My only issue is time (which I recognize is on me not the system). It did take me a while to get used to how everything was set up. With the tools available it does seem like with more time everything would work out. "
+2026-03-29,84504833,prakharyadav9@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"compiling too slow, took time to render front end elements.
+backend application took too long to build."
+2026-03-29,84505927,anjalikagrawal@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,FOR backend file layout structure was not enough which can be in build for tests purpose and no preexisting file requires lots of time than the expected one.
+2026-03-28,84486402,preethi3047@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"AI Assistant is not working, rest the UI interface was awesome to code"
+2026-03-28,84492471,medinimd00@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Good working environment
+2026-03-28,84490970,ppratik287@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"There was an issue with the frontend test case, the test case itself was invalid, it was the swapping one. "
+2026-03-28,84487166,mmaghil2k@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,the ui question was hard to answer here
+2026-03-28,84485002,sharmarohit6000@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,The AI assisstant provided no help
+2026-03-28,84486533,lakshya1st@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Good level! AI 
+2026-03-28,84496993,suroliya.shreya2014@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,It had issues while switching between sections 2 to 3 as it takes time to switch and load previews. Test cases run for sectipn 2 and 3 was very tough as it mentioned github login related issues 
+2026-03-27,84475684,mdnadeem4617@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Great experience
+2026-03-27,84473360,sandeepgangavali@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Front end IDE set up is confusing.
+2026-03-27,84468942,vanshkr03@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,frontend task could be more clear
+2026-03-27,84476955,spandanchaudhury19@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"the test cases for the angular were not correct. it was not matching with the problem statement. 
+it didn't ask for changing the backend but the test case said so.
+although the solution was working perfectly for the required expected behavior yet the cases were failing"
+2026-03-26,84434895,ankitkrtiwary.24@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"awesome , loved the practicality of the questions and format.But the time was less as per  the complexity"
+2026-03-26,84419839,kmogan17@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,ran out of time for Front end UI work. UI was slow to start
+2026-03-26,84425269,nirmalchandran019@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"time is not enough
+"
+2026-03-26,84428311,tusharshahu77@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,Frontend test cases were wrong
+2026-03-25,84395851,saurabhsomani1998@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"The AI was not at all helping at all, i dont whatever question i ask, its simply saying i cant anser that than what the use of AI, tio incerease our work?
+"
+2026-03-25,84392359,divyadurgakanuparthi4444@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,good experience
+2026-03-25,84403786,djha93486@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,frontend is messy
+2026-03-25,84419005,arun98.mohan@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Really enjoyed solving
+2026-03-24,84365204,vigneshsivamani.n@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,AI assistant was bit underperforming for the frontend question
+2026-03-24,84369205,rampradha2016@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"Very less time, and took so much time to compile the frontend code"
+2026-03-24,84378566,ayushjain0996@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,The test was fun. AI tools made this assessment more relevant to current industry standards. 
+2026-03-24,84371442,rajpalsinghd@outlook.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,The react part has very bad user experience
+2026-03-24,84376169,ms0516416@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,nice assesment
+2026-03-24,84370462,rgill1@protonmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,ai assistant is not good
+2026-03-24,84355052,willholton1@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"Leetcode style question was a bit harder than I expected, It has been awhile since I've had to solve these brainteasers, so I suppose I'll have to study up again."
+2026-03-23,84347108,animesh2jaiswal@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"Thanks, it was a great experience giving test."
+2026-03-22,84310502,kshitijagrawaljob@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Good experience
+2026-03-22,84317106,kashifwahaj@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It was good and well timed
+2026-03-22,84308970,biswajitpuhan1999@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"Very nice exerience
+"
+2026-03-22,84309541,shivamchhn02@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"If a role is of backend only, it will be better if candidate is given the backend problem only"
+2026-03-21,84293716,lakshmoji.seemakurthi@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"Specified questions are not clear enough to understand the requirement, it would have been better if the requirement is much more descriptive."
+2026-03-19,84249615,pranshu@pareek.co,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It was a smooth experience 
+2026-03-19,84250551,kaushik.murali96@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,It was not easy to code in this test environment. I had trouble navigating around and wasted some useful time before I realised what I had to be doing.
+2026-03-19,84249999,chandupolineni532@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,the system is freezing initially
+2026-03-18,84238901,andre.wl.angwe.l.l@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"The scrollbar bug I mentioned in my practice test review wasn't present during this assessment. The allotted time for this assessment seemed a bit low but maybe that's just me. I think 30 minutes per task is a more reasonable estimate. The front-end debugging problem seemed a bit unrealistic. In a normal debugging situation you would at least have the undesired behavior listed. The desired behavior was listed but undesired behavior (the bugs) weren't and had to be discovered by the user. Also if a user is required to log in they should be automatically logged in so that time is solely spent on debugging the issue and not set-up steps. It might just be hardware limitations of my computer but accessing the dev console for the front end portion of the assessment was fairly laggy.
+
+You mention that looking up syntax is ok, yet require full screen mode and a single monitor so It's not really clear how syntax related look-ups should be performed efficiently. Looking up syntax on a phone is really inefficient and slow compared to the equivalent on a computer.
+
+Also, when typing my feedback in this text box it keeps randomly losing focus without any additional input from me. Unfortunately because of the random nature I can't provide a good way to reproduce the issue.
+
+I'm really glad the scrollbar issue from the practice test wasn't present during this assessment. I also like the addition of the AI agent although it doesn't provide the best answers. If we're going to be using fully capable AI in our work why shouldn't we be able to use fully capable AI during our assessment? I think the AI assistant should be less handicapped."
+2026-03-18,84226681,connectit2anand@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Spring boot question was good
+2026-03-18,84211448,sarahjiangy@hotmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"For question 2, not able to see the frontend compiled in browser for quite a while"
+2026-03-18,84211412,moneecca@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,The time provided is too less. It is difficult to read all the questions and get to know the environment in this limited time. 
+2026-03-18,84235036,gunjanjain8890@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,it was good experience
+2026-03-17,84188837,tech.rounak12@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"ai could have been much better
+"
+2026-03-15,84132650,subham.dev20@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,AI assistance was really bad. 
+2026-03-15,84140885,shakthibala499@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Questions are good and clearly explained but it is hard to debug a frontend application inside web browser within the given time.
+2026-03-15,84145069,mukeshkick02@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Experience was good
+2026-03-15,84144798,mothiswarank04@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It would be help full if we had an mandatory tutorial video playing to run the UI code
+2026-03-14,84125702,devanshsharmadev007@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,The question statementr was not clear 
+2026-03-14,84126928,vishruth.aswath.s@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,I believe the worst online test every the questions were not clear and the usage of the environment how to host and run the UI code and all were very unclear. 
+2026-03-14,84116544,aniketskr@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Good use case of AI Assistant
+2026-03-14,84121580,akshataggarwal005@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,good exercise.
+2026-03-13,84091040,naskathaara@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,felt little tricky especially angular front end part.
+2026-03-13,84084886,prasadareddy21@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Asking IIT exam questions for people with relevant experience
+2026-03-13,84097681,amrit.s.mani@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Frontend IDE did not execute fast enough
+2026-03-13,84108410,darshveersinghbharaj@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Took quite some time being able to get the app running on the front end piece of the assessment. It wasted a lot of valuable time I could have used to debug
+2026-03-12,84074726,ipsitapanda208@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,need more time
+2026-03-11,84027890,dipesh.mca@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,Test your employees with the same tests
+2026-03-11,84033229,lishen2147@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"The second question of the frontend took like 15-20 mins to eventually render on Preview tab, which is really wasting my time."
+2026-03-11,84049768,jared.modugno@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"I didn't have enough time to finish the problems. Also the AI was not very good and was missing context from the project (unlike an AI in a code editor)
+Good questions though!"
+2026-03-11,84047787,justinfernald@outlook.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,"Not sure what happened but seems like test case was broken. Through the app, it seemed like persistence was working just fine but I would still get test failure which seemed to be a false negative. Because of this I spent a lot of time trying to get it to pass so didn't have time to do the last problem."
+2026-03-11,84038641,mohanraj.muthusamy.m@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,The experience was good and user friendly
+2026-03-10,84024183,ashutoshus22@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"Test was good, but time was less."
+2026-03-10,84022875,bhanotepyush@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,ai assistant can be better
+2026-03-10,84012440,jyotish.nayak.official@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,random keyboard errors worst platform
+2026-03-09,83973093,boyd.stephen.smith.jr@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"I didn't particularly like the interface -- auto-insert got in my way some, and I'm used to editing with vi commands.  Also, I use Firefox ESR for my primary browser and I think Chrome has different/smaller fonts.
+
+However, all the problems were good tests of skills, and were to my mind very practical in nature.  There was enough information provided to make clear the goals, while still requiring the candidate to do code navigation / search."
+2026-03-09,83986276,suryanarayanap897@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,need to increase some more time we need to debug the test cases as well
+2026-03-08,83967714,lplokesh07@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,had a good test 
+2026-03-07,83941871,vergabghosh@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,"AWESOME QUESTIONS
+"
+2026-03-07,83931624,muralirajendran835@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),4,"Ai is not working 
+"
+2026-03-07,83942596,adityaavr68@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,"Too hard to finish all questions in given time, had to juggle b/w questions and due to time constraint can only solve 1 of them out of 3."
+2026-03-05,83899958,christiancolby220@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,I think one of the tests is broken
+2026-03-05,83893692,aniket.khandagale2609@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,"the frontend code was lagging a lot, fix the platform. i couldn't type or even backspacke"
+2026-03-05,83900699,ganesh@personalspacehub.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,"ai tool provided is not as expected and giving random answer,  "
+2026-03-05,83900249,manasayanugula03@hotmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"The assessment was well structured and clear. I enjoyed working through the problems, and the platform was easy to use. Thank you for the opportunity."
+2026-03-04,83853915,cageh@mail.smu.edu,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,3,the system switched my window
+2026-03-04,83865131,vignesh.sof.eng@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,Very good experience
+2026-03-04,83855280,sahilchoudhary233@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,UI question was made to complicated and Very less clarity on what need to do. It should only have the problem statement related code. So that person can focus and fix the give piece of code. UI question should be simplified as backend question.
+2026-03-04,83863899,niranjangirheindia@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,Good questions : )
+2026-03-04,83861833,shuklayash25@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,It was nice evaluation
+2026-03-04,83868174,shilpamc1999@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,"nice questions
+"
+2026-03-03,83825094,amit.kumar5@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,"The interface is quite interactive
+Overall it's a good experience in terms of problem and AI use case.
+
+"
+2026-03-03,83832144,abeesh.ks@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,No option to change the language in frontend. Not sure how this assesment came to be even though i am not a frontend developer
+2026-03-03,83846805,manjeshprasad21@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"Needed more time, there are 3 questions in total, and the time should have been at least 2 hours for them all "
+2026-03-03,83839121,cassaundra.travaille@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,didn't have time to focus directly on this so ran out of time. Would rather have the real world debugging first rather than solving contrived problem first.
+2026-03-02,83822583,justinbtse@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"The questions were not clear, the AI was next to useless given context in my opinion."
+2026-03-01,83780387,batchuphanitulasibatchu@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"very interesting way of interview process than just asking static questions, this interactive way along with problem solving is more efficient ."
+2026-03-01,83792607,evinaykulkarni3@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"The UI question was not clear, and the server/VM where the UI was hosted was not up"
+2026-02-28,83747730,lakshmi.g80@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,"It is bit of confution to figure out the code in the window , which consumes bit more time  before going to actual problem ."
+2026-02-28,83747842,saju_ahmad@ymail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,"- Problem statement of the coding question was very unclear. Either better input/output sample should be given which makes the task very clear or description should be clear enough so that the expectation of the task clear.
+- These assesments should consider the roll of the participent. Not everyone is a fullstack developer."
+2026-02-28,83747521,juanhfd@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2,AS Mobile Andorid Software Enginner is very hard to solve web /node problems.
+2026-02-27,83720840,rajeswari.mokkada@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,"Editor was confusing, so it was difficult for me to execute"
+2026-02-27,83719704,jayasurya.pinaki@samsclub.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),5,It took significant time for me to understand options available in AI assisted coding questions
+2026-02-27,83737154,sam_h_hall@icloud.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"can't read linked docs or get warned for fraud
+"
+2026-02-26,83717154,emmanuelbabalola2019@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"For API Debugging question, allow more time "
+2026-02-26,83705725,prudhvi.chinthareddy@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,"Section 2 is not clear to resolve in the given time, needed better organizing the statements & problematic issue."
+2026-02-26,83695506,siddharth.kumar@samsclub.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),4,"Not very famililar with front-end programming, but was forced to take the front-end questions"
+2026-02-25,83684569,moolshankar.tyagi@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,"Question 1, is poorly drafted it took me 15-20 mins itself to understand  , thats what I hate the most in online coding assessments. The complex languages they use in problem description.
+
+Question 2: It felt like an typo fix error rather than actual problem solving. I don't know where could have used AI assistance."
+2026-02-25,83681480,james.allen.jahner3rd@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,The front end broke in the middle of my test. And I had to move on. And the back end wouldn't Start at all.
+2026-02-24,83633465,manojkrk8@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,Good E xperience
+2026-02-24,83662414,brettkohler93@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,This was much more interesting than trying to solve multiple Leetcode style problems. Even though i was fairly unfamiliar with the frameworks used the AI assistant let me still solve the problems I was required to solve.
+2026-02-23,83623647,saxenaabhiraj007@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"The full stack quesiton was very vague,
+i could not see the dev tools of the preview if that could have been possible it would have been a great help"
+2026-02-23,83623554,charishma.anubrolu@samsclub.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2,Frontend issue didnot load the UI screen for 10 minutes. Didnot know where the actual code was for questions 2 and 3.
+2026-02-22,83595672,aravindhari555@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"really nice experience, tests your development ability outside of DSA."
+2026-02-22,83598843,shubham.chandewar@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2,"During the AI round, the available programming language options were limited, which created a barrier for candidates not proficient in those specific languages. Expanding the options to include languages such as Python, Swift, TypeScript, and Java would make the round more inclusive.
+Current rounds appeared to be tailored specifically for candidates skilled in Spring Boot & React (or Node.js & Angular), leaving little room for those with equivalent experience in other tech stacks.
+As a result, a significant portion of time in the AI round was spent deciphering unfamiliar syntax rather than demonstrating actual problem-solving ability, which does not accurately reflect a candidate's true technical competence."
+2026-02-22,83588816,karthik.rsveeraghavan@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,The questions are not meant for Data Engineering and more for Full stack developer
+2026-02-21,83562062,ahartadudhe99@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,It was good
+2026-02-21,83574365,emilabraham1414@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,That was a fun test! I wish I had a little more time to solve the problems. They were interesting.
+2026-02-21,83560880,vishwavignesh0@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Very less time given
+2026-02-21,83571958,zackariahshone@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"for the coding question, I didnt feel i had adequate examples for what to expect for input. 
+
+It was also difficult to understand to how to navigate to the files and questions. the amount of time to handle these questions is unrealistic. How ever once i understood the the lay out and navigation things felt smoother but that did burn up some time "
+2026-02-21,83554512,jagdish.m.kamadi@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Not a proper explanation of the coding problem. Provide more test cases to understand the problem.
+2026-02-20,83542199,kaushal.shah@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),4,Not able to use AI assist as full window doesn't allow it
+2026-02-20,83551745,bkelley11@wou.edu,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,That test seems extremely overwhelming for someone entry level.  Was that truly intended for folks looking for their first SWE role?
+2026-02-20,83527493,yangkai.he0@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2,"Time is a bit too limit, the frontend one may take long time"
+2026-02-20,83549650,joe.sun@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),3,"I found the first part to be straightforward to completed. For the second part, I used AI to identify files with issues, but it didn't allow me to run test cases in debug mode, so the AI could only solve one issue at a time, but the test cases still failed. The third part was not completed due to time constraints since I didn't realize I could work on the third question first until the system asked me to save my progress. Then, I noticed the question icon on the top left was selectable. Additionally, I think part 3 should be easier than part 2, and it would be better to order the questions from easiest to hardest."
+2026-02-20,83552321,sulogna.saha@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),4,"I think the UI part of the test was tricky, because AI assistant was asking me to install a package which would always end up in conflict."
+2026-02-19,83523265,gerson.eliezer.morales@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,this should be focused on either backend or frontend.
+2026-02-19,83521447,juyelhushen@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,Second react questions i couldn't get it at first glance 
+2026-02-19,83508944,saisusanth1018@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,Have applied for a backend role but seeing frontend related questions
+2026-02-19,83511683,jhagiteshkumar@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"Keyboard was not working for problem 2 and 3 work space. 
+I have recorded it and can share."
+2026-02-19,83526191,ianmchristian@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"As always, these hacker rank tests are overly complicated and explained in abstract ways that no one in the real world talks like.
+
+The frontend problem seemed to be quite glitchy. I could see that the table was able to be reordered, but tests were failing."
+2026-02-18,83475802,jayakiranchalla50@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,"i have completed all my 3 tasks ,  and i submitted also
+at last showing something went wrong message in window toast message"
+2026-02-15,83405490,sagar.malik@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,confusing wording of problems
+2026-02-13,83340192,pranav.sathu22@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,1,"The IDE didn't let me run the tests, and some of the tests couldn't even be manually run"
+2026-02-13,83365635,joseescobar197@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,I liked that you could use the ai assistant in a portion of the test. It would have helped if you could have have used it in the programming fundamentals especially that it was a hard problem. 
+2026-02-13,83366931,sheri.wilson0@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),2,Lots of trouble getting Preview to work in Question 2 and found it was very difficult to locate files with additional interface to manage with the IDE
+2026-02-12,83336356,sannabhadtisid@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,2,"Every time I entered in credentials, I'd automatically get a notification from the recommended browser (Google Chrome) that the password was compromised. This would put me out of full screen, and the app has too many different tabs to easily navigate. It would really help to have the preview window in another tab."
+2026-02-11,83310158,triyi0513@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,3,im not sure if the ai was super beneficial
+2026-02-10,83253358,tejas.puvvadi@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,not that great front end challenge 
+2026-02-10,83279548,kevinlongprofessional@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,This was a terrible experience and if I had made my interview last week I never would have had to go through it.
+2026-02-09,83219214,pnk126@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,4,good platoform for debugging and ai assistance
+2026-02-08,83216856,thadcsmith@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"guess I took to long on the algorithm question ...
+Environment was good for the most part.  Thanks for the opportunity"
+2026-02-07,83195752,Sandeep_Kumar.Boda@walmart.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),1,"Unable to load the 2nd and 3rd questions, there was a system error , Tried multiple reloads still didn't work."
+2026-02-07,83195780,w_almy@live.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,2,Some auto fill aren't working
+2026-02-07,83190692,emedinam2004@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,to complex for only 80 min 
+2026-02-01,83018284,99alparslan@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,This was the best coding challenge experience I have ever had. Problems didn't feel meaningless at all and was good representation of what I would need to perform good in this role. 
+2026-01-30,82959319,priyankagulgari80@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"The REACT page didnt load up at all. It took me 30mins to figure what 
+"
+2026-01-30,82971286,iamrahulparmar2@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,"time is too less and task is such a big
+"
+2026-01-30,82950388,kendricmccarroll@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"AI agent was not working
+"
+2026-01-30,82951750,cwhuang.sjtu@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,3,AI is not working at all
+2026-01-29,82921408,asulav@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1,"My display locator blocked the left half of my screen, and I was unable to see the questions properly "
+2026-01-28,82913810,kaelynsungsss@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,3,Hard to navigate
+2026-01-28,82916928,elainezhu.0121@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,5,I like the real industry application
+2026-01-27,82863256,kempknauss@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,3,When doing the full stack coding portion there was a part where we had to pretend login on the device with the given password but the password you provided triggered chrome to say it was an unsafe password recently found in a security breach which took me out of the full screen mode of hackerrank and made me get two warnings both times i logged in
+2026-01-27,82888110,shahronewilliams83@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,5,"Good, See you again."
+2026-01-27,82879186,vedrakholia525@gmail.com,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,5,It was easy
+2026-01-27,82860611,leonard@gofman.dev,Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,5,Solid assessment 

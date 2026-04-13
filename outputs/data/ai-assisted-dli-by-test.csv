@@ -1,0 +1,15 @@
+company_name,test_name,total_feedback,avg_dli,rating_5,rating_4,rating_3,rating_2,rating_1,pct_positive
+Amazon,C++ Framework Free Project Questions,1,5.0,1,0,0,0,0,100.0
+Amazon,Django Code Repo December,1,5.0,1,0,0,0,0,100.0
+Amazon,Django Code Repo November,1,5.0,1,0,0,0,0,100.0
+Amazon,GHS Demo Test,6,5.0,6,0,0,0,0,100.0
+Amazon,Node.JS Code Repo November,2,5.0,2,0,0,0,0,100.0
+Amazon,Sample Test for Amazon Coding Challenge,177,4.61,137,24,8,3,5,91.0
+Amazon,Sample Test for Django,297,4.61,242,26,12,3,14,90.2
+Amazon,Sample Test for Node.JS,121,4.63,98,10,8,1,4,89.3
+Amazon,Sample Test for Spring Boot,154,4.54,115,23,7,2,7,89.6
+Amazon,The Amazon Coding Challenge - DEMO_CLONE,1,5.0,1,0,0,0,0,100.0
+Walmart Global Tech Talent Acquisition,Walmart Early Careers Data Science Intern Assessment - 2025,4,3.75,1,1,2,0,0,50.0
+Walmart Global Tech Talent Acquisition,Walmart Early Careers SWE Intern Assessment - 2025,60,4.25,39,6,9,3,3,75.0
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment,1155,4.25,750,171,103,38,93,79.7
+Walmart Global Tech Talent Acquisition,Walmart Software Engineering Assessment (VALIDATION SAMPLE),188,4.02,111,24,20,11,22,71.8
